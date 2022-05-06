@@ -1,0 +1,1501 @@
+estado;cidade;bairro;rua;cep;numero;latitude;longitude
+Sao Paulo;Sao Paulo;Centro;Rua Florencio de Abreu  ;1029901;120;-23.542723;-46.6332583
+Sao Paulo;Sao Paulo;Consolacao;Angelica     ;1227200;274;-23.5475983;-46.6587135
+Sao Paulo;Sao Paulo;Sumare;Cardoso de Almeida   ;1251000;163;-23.544344;-46.6733857
+Sao Paulo;Sao Paulo;Sumare;Antonina     ;1255010;217;-23.5474499;-46.6817876
+Sao Paulo;Sao Paulo;Bela Vista;Sao Miguel    ;1308040;53;-23.5279687;-46.3963275
+Sao Paulo;Sao Paulo;Bela Vista;Avenida Paulista    ;1311914;295;-23.5668075;-46.6506635
+Sao Paulo;Sao Paulo;Bela Vista;Alameda Rio Claro   ;1332906;67;-23.5612732;-46.6528098
+Sao Paulo;Sao Paulo;Cerqueira Cesar;Rua da Consolacao   ;1416902;96;-23.5594957;-46.6670544
+Sao Paulo;Sao Paulo;Cerqueira Cesar;das Estrelas Novas   ;1426040;247;-23.5681711;-46.6636719
+Sao Paulo;Sao Paulo;Centro;Doutor Joao Mendes   ;1501001;295;-23.5520321;-46.6342435
+Sao Paulo;Sao Paulo;Cambuci;Heitor Peixoto    ;1543000;228;-23.5751117;-46.6230726
+Sao Paulo;Sao Paulo;Jardim da Gloria;Sao Joao Del Rei  ;1546120;124;-23.5748054;-46.6226952
+Sao Paulo;Sao Paulo;Carandiru;Conceicao     ;2072001;266;-23.5006657;-46.604656
+Sao Paulo;Sao Paulo;Vila Isolina Mazzei;Articura     ;2084150;67;-23.4948976;-46.5995672
+Sao Paulo;Sao Paulo;Vila Maria Baixa;Prefeito Milton Improta   ;2119020;65;-23.5133951;-46.5928896
+Sao Paulo;Sao Paulo;Jardim Japao;Manuel Lainez    ;2123005;72;-23.5140619;-46.5808665
+Sao Paulo;Sao Paulo;Vila Maria Alta;Hiroshima     ;2131040;227;-23.5042516;-46.5817681
+Sao Paulo;Sao Paulo;Vila Sabrina;Lourenco Billis    ;2138000;246;-23.4891721;-46.5744147
+Sao Paulo;Sao Paulo;Vila Sabrina;Antionha     ;2140030;202;-23.4882706;-46.5721108
+Sao Paulo;Sao Paulo;Parque Novo Mundo;Claudio Leonardi    ;2147015;155;-23.4994499;-46.56512
+Sao Paulo;Sao Paulo;Parque Novo Mundo;Joao de Lara da Cunha ;2190080;191;-23.5091613;-46.5631782
+Sao Paulo;Sao Paulo;Vila Gustavo;Alipio de Sousa   ;2201020;227;-23.485488;-46.5916258
+Sao Paulo;Sao Paulo;Vila Medeiros;Carlos Alberto Luiz   ;2207080;49;-23.4860622;-46.586801
+Sao Paulo;Sao Paulo;Vila Medeiros;Ana Ferrara    ;2209150;268;-23.4857663;-46.5816901
+Sao Paulo;Sao Paulo;Vila Medeiros;Armando Paim    ;2216060;270;-23.494486;-46.5797305
+Sao Paulo;Sao Paulo;Vila Medeiros;Joaquim de Souza Pacheco Filho ;2217020;177;-23.4896048;-46.5811344
+Sao Paulo;Sao Paulo;Jardim Brasil (Zona Norte);Carlos Cardin    ;2221140;151;-23.4856877;-46.5785867
+Sao Paulo;Sao Paulo;Jardim Brasil (Zona Norte);Major Roberto dos Santos  ;2224010;111;-23.484107;-46.575712
+Sao Paulo;Sao Paulo;Jardim Brasil (Zona Norte);Erotides de Campos   ;2227310;69;-23.4814418;-46.5716156
+Sao Paulo;Sao Paulo;Parada Inglesa;Cruz de Malta   ;2248001;175;-23.4856596;-46.5996827
+Sao Paulo;Sao Paulo;Jardim Brasil (Zona Norte);Halesia     ;2280105;208;-23.4554385;-46.5759692
+Sao Paulo;Sao Paulo;Parque Casa de Pedra;Triplice Alianca    ;2320160;151;-23.447571;-46.5944838
+Sao Paulo;Sao Paulo;Parque Ramos Freitas;Salvador Alvares    ;2354240;238;-23.4547088;-46.6063055
+Sao Paulo;Sao Paulo;Tremembe;Jose Correa Gomes   ;2357100;35;-23.4472085;-46.6121924
+Sao Paulo;Sao Paulo;Jardim Fontalis;H     ;2360281;228;-23.8045047;-46.7649928
+Sao Paulo;Sao Paulo;Vila Albertina;Bias     ;2371020;214;-23.4591923;-46.6174451
+Sao Paulo;Sao Paulo;Vila Albertina;Luiz Janucci    ;2375170;273;-23.4486098;-46.6228408
+Sao Paulo;Sao Paulo;Agua Fria;Antonio Zunkeller Leite   ;2408000;206;-23.4835584;-46.6272019
+Sao Paulo;Sao Paulo;Jardim Paraiso;Francisco Queirolo    ;2417122;21;-23.4783855;-46.629952
+Sao Paulo;Sao Paulo;Parque Mandaqui;Eduardo Zumkeller    ;2420030;67;-23.4755639;-46.6357363
+Sao Paulo;Sao Paulo;Lauzane Paulista;Diogo Grasson Tinoco   ;2435010;192;-23.4799073;-46.6389057
+Sao Paulo;Sao Paulo;Lauzane Paulista;Sion     ;2441070;194;-23.4743954;-46.6414732
+Sao Paulo;Sao Paulo;Imirim;Padre Rosano Stofella   ;2467103;175;-23.4905409;-46.6480835
+Sao Paulo;Sao Paulo;Vila Romero;Pedro Romero    ;2468075;220;-23.4876843;-46.6477278
+Sao Paulo;Sao Paulo;Imirim;Aida Gomes Toledo   ;2472050;246;-23.4756927;-46.6581515
+Sao Paulo;Sao Paulo;Casa Verde;Arpui     ;2514050;220;-23.507384;-46.6539288
+Sao Paulo;Sao Paulo;Casa Verde;Padre Antonio D'Angelo   ;2516040;184;-23.5093404;-46.6607743
+Sao Paulo;Sao Paulo;Casa Verde Alta;Isabela Leonarda    ;2545120;64;-23.4841773;-46.6660594
+Sao Paulo;Sao Paulo;Limao;do Limao    ;2551110;98;-23.5042282;-46.6709961
+Sao Paulo;Sao Paulo;Jardim Peri Novo;Luiz Macario de Castro  ;2672010;144;-23.4646316;-46.66627
+Sao Paulo;Sao Paulo;Vila Bancaria Munhoz;Icatuacu     ;2757100;270;-23.4851495;-46.6853461
+Sao Paulo;Sao Paulo;Vila Acre;Andre Martins    ;2759040;300;-23.483361;-46.6801107
+Sao Paulo;Sao Paulo;Vila Hebe;Dirceu da Conceicao Pinto  ;2765080;244;-23.4764343;-46.6719661
+Sao Paulo;Sao Paulo;Itaberaba;Joaquim Vagliengo    ;2831040;54;-23.4694787;-46.6941874
+Sao Paulo;Sao Paulo;Parque Sao Luis;Crespo de Carvalho   ;2832210;151;-23.4826988;-46.6933417
+Sao Paulo;Sao Paulo;Jardim Ondina;Cristovao Santiago    ;2871040;19;-23.4610043;-46.6741496
+Sao Paulo;Sao Paulo;Conjunto Promorar Estrada da Parada;Salvador     ;2873011;206;-23.7374379;-46.5926223
+Sao Paulo;Sao Paulo;Jardim Centenario;Mario de Sa Carneiro  ;2882140;138;-23.4695119;-46.6685412
+Sao Paulo;Sao Paulo;Vila Barreto;Jose Rovira    ;2916010;272;-23.4901193;-46.7173721
+Sao Paulo;Sao Paulo;Vila Pereira Cerca;Enrico Carafa    ;2932010;243;-23.4949046;-46.7096497
+Sao Paulo;Sao Paulo;Vila Yara;Sao Urbano    ;2966000;110;-23.4706896;-46.710475
+Sao Paulo;Sao Paulo;Vila Miriam;Nova Era    ;2968010;207;-23.4851073;-46.7107884
+Sao Paulo;Sao Paulo;Jardim Donaria;Erasmus Lapicida    ;2990325;224;-23.5505199;-46.6333094
+Sao Paulo;Sao Paulo;Jardim Bandeirantes (Zona Norte);Joao Aires    ;2994060;157;-23.4557721;-46.7374498
+Sao Paulo;Sao Paulo;Estancia Jaragua;Nunes Chagas    ;2997001;277;-23.4326058;-46.710501
+Sao Paulo;Sao Paulo;Parque da Mooca;Vitoantonio Del Vecchio   ;3124070;164;-23.5725819;-46.591036
+Sao Paulo;Sao Paulo;Quinta da Paineira;Santa Cruz das Palmeiras  ;3152030;299;-23.5898669;-46.58486
+Sao Paulo;Sao Paulo;Mooca;Almirante Brasil    ;3164120;181;-23.5509696;-46.6070667
+Sao Paulo;Sao Paulo;Mooca;Rua da Mooca   ;3165901;71;-23.5607026;-46.5853743
+Sao Paulo;Sao Paulo;Mooca;Rua Marcial    ;3169901;146;-23.5527868;-46.5968176
+Sao Paulo;Sao Paulo;Vila Oratorio;Clemente Bonifacio    ;3192010;212;-23.5707979;-46.5799975
+Sao Paulo;Sao Paulo;Jardim Independencia;Susana     ;3223000;199;-23.588557;-46.5622947
+Sao Paulo;Sao Paulo;Vila Industrial;Juvena     ;3251090;285;-23.6081068;-46.5365939
+Sao Paulo;Sao Paulo;Vila Sao Nicolau;Tres Lagoas    ;3254210;116;-23.6122748;-46.5323063
+Sao Paulo;Sao Paulo;Vila Divina Pastora;Santo Antonio do Ica  ;3265140;153;-23.5954347;-46.540118
+Sao Paulo;Sao Paulo;Vila Tolstoi;Itapororoca     ;3268070;204;-23.5984312;-46.5270742
+Sao Paulo;Sao Paulo;Parque Luis Mucciolo;Nicolino Guilherme Candido   ;3272040;86;-23.6020967;-46.5167413
+Sao Paulo;Sao Paulo;Vila Santa Clara;Visconde de Goiana   ;3273120;42;-23.5817133;-46.5624841
+Sao Paulo;Sao Paulo;Vila Gomes Cardim;Dona Candida    ;3324080;110;-23.5505079;-46.5683323
+Sao Paulo;Sao Paulo;Vila Formosa;Trumain     ;3366000;105;-23.565567;-46.5361889
+Sao Paulo;Sao Paulo;Chacara Belenzinho;Basilio Viana Junior   ;3382040;195;-23.58098;-46.5349653
+Sao Paulo;Sao Paulo;Parque Santo Antonio;Lazaro Goncalves Fraga   ;3385060;110;-23.5829691;-46.5265175
+Sao Paulo;Sao Paulo;Chacara Santo Antonio (Zona Leste);Waldemar Gardenghi    ;3408029;169;-23.5505199;-46.6333094
+Sao Paulo;Sao Paulo;Vila Carrao;Monte Mor    ;3427010;91;-23.5508019;-46.5352466
+Sao Paulo;Sao Paulo;Vila Fernandes;Taubate     ;3433000;66;-23.5565869;-46.5335951
+Sao Paulo;Sao Paulo;Vila Carrao;Odete Gomes Barreto   ;3441010;207;-23.5451832;-46.5398786
+Sao Paulo;Sao Paulo;Parque Maria Luiza;Mariano Cursino de Moura  ;3451000;37;-23.5593592;-46.5171491
+Sao Paulo;Sao Paulo;Vila Aricanduva;Martim Damy    ;3505020;119;-23.5333334;-46.5357537
+Sao Paulo;Sao Paulo;Vila Matilde;Adauto de Assis   ;3516060;209;-23.5424946;-46.5262907
+Sao Paulo;Sao Paulo;Vila Guilhermina;Lions Clube de Vila Matilde ;3541005;222;-23.5355595;-46.5271817
+Sao Paulo;Sao Paulo;Cidade Patriarca;Caico     ;3551060;187;-23.5338872;-46.5046072
+Sao Paulo;Sao Paulo;Parque Savoy City;Helena Ricceli Luchetti   ;3570310;250;-23.5673351;-46.4866044
+Sao Paulo;Sao Paulo;Jardim Santa Terezinha (Zona Leste);Macaoca     ;3572170;267;-23.5766867;-46.4991056
+Sao Paulo;Sao Paulo;Jardim Santa Maria;Arrabalde da Ponte   ;3574060;266;-23.5578501;-46.512461
+Sao Paulo;Sao Paulo;Jardim Marilia;Francisco de Almada   ;3579280;23;-23.5617329;-46.493895
+Sao Paulo;Sao Paulo;Jardim Fernandes;Domingos Jose Pelegi   ;3581190;143;-23.5568142;-46.4982787
+Sao Paulo;Sao Paulo;Jardim Brasilia (Zona Leste);Ararandeua     ;3583100;195;-23.5574027;-46.4937088
+Sao Paulo;Sao Paulo;Vila Sao Geraldo;Tuape     ;3607040;154;-23.5197597;-46.5454916
+Sao Paulo;Sao Paulo;Vila Beatriz;Arthur Botelho    ;3644003;82;-23.5207834;-46.4829449
+Sao Paulo;Sao Paulo;Vila Esperanca;Cecilia     ;3651040;288;-23.5303518;-46.5219781
+Sao Paulo;Sao Paulo;Jardim Nordeste;Santa Quiteria    ;3688130;170;-23.5286633;-46.4847295
+Sao Paulo;Sao Paulo;Jardim Coimbra;Frederick Hoffmann    ;3693040;169;-23.5298002;-46.478554
+Sao Paulo;Sao Paulo;Cangaiba;Cangaiba     ;3711007;290;-23.5067366;-46.5326421
+Sao Paulo;Sao Paulo;Cangaiba;Luciano Antonio Rodrigues   ;3712040;57;-23.506669;-46.5306837
+Sao Paulo;Sao Paulo;Jardim Piratininga;Domingos Belmonte    ;3716100;66;-23.5052493;-46.5322194
+Sao Paulo;Sao Paulo;Engenheiro Goulart;Cesario Pereto    ;3721036;89;-23.5042904;-46.5250438
+Sao Paulo;Sao Paulo;Vila Paranagua;Porcino dos Santos   ;3807160;48;-23.4984631;-46.4680987
+Sao Paulo;Sao Paulo;Vila Santa Ines;Ida     ;3813390;237;-23.5678887;-46.6183907
+Sao Paulo;Sao Paulo;Jardim Caguassu;Antonio Alves Vilares da Silva ;3906080;88;-23.5816522;-46.50951
+Sao Paulo;Sao Paulo;Jardim Novo Carrao;Nello Selmi Dei   ;3908010;62;-23.5815677;-46.5096913
+Sao Paulo;Sao Paulo;Jardim Novo Carrao;Major-Brigadeiro Mario Castello Branco  ;3908020;143;-23.5815524;-46.5083431
+Sao Paulo;Sao Paulo;Jardim Imperador (Zona Leste);Pecanha     ;3934075;26;-23.5908001;-46.5023082
+Sao Paulo;Sao Paulo;Jardim Paraguacu;Anibal     ;3938171;251;-23.5982019;-46.4999644
+Sao Paulo;Sao Paulo;Jardim Sao Gabriel;Ibiracatu     ;3940070;96;-23.5919286;-46.4979362
+Sao Paulo;Sao Paulo;Conjunto Habitacional Marechal Mascarenhas de Mora;Soldado Teonilo de Souza  ;3977170;93;-23.6190644;-46.4969041
+Sao Paulo;Sao Paulo;Jardim Planalto;Pacamum     ;3983110;173;-23.608415;-46.5086226
+Sao Paulo;Sao Paulo;Vila Alzira;Tiburcio de Freitas   ;3986050;265;-23.6113159;-46.5229816
+Sao Paulo;Sao Paulo;Vila Portuguesa;do Malvarisco    ;3987100;163;-23.6044942;-46.512182
+Sao Paulo;Sao Paulo;Vila Mariana;Rua Pelotas    ;4012902;164;-23.5819499;-46.6454285
+Sao Paulo;Sao Paulo;Vila Mariana;Coronel Lisboa    ;4020041;293;-23.5950039;-46.6397006
+Sao Paulo;Sao Paulo;Vila Clementino;Doutor Ubirajara Martins de Souza ;4023020;125;-23.5505199;-46.6333094
+Sao Paulo;Sao Paulo;Ibirapuera;Crestuma     ;4030060;44;-23.5505199;-46.6333094
+Sao Paulo;Sao Paulo;Vila Clementino;Santa Generosa    ;4042010;244;-23.6031217;-46.6506017
+Sao Paulo;Sao Paulo;Mirandopolis;Ibate     ;4052040;93;-23.6096129;-46.6388527
+Sao Paulo;Sao Paulo;Planalto Paulista;Irere     ;4064004;214;-23.624697;-46.6469769
+Sao Paulo;Sao Paulo;Indianopolis;Alameda dos Anapurus   ;4087907;15;-23.6078741;-46.6588267
+Sao Paulo;Sao Paulo;Vila Santo Estefano;Elisa Silveira    ;4152000;140;-23.6223343;-46.6265867
+Sao Paulo;Sao Paulo;Vila Moraes;Peter Lely    ;4164130;273;-23.6257861;-46.6086599
+Sao Paulo;Sao Paulo;Jardim Maria Estela;Araci     ;4181120;212;-23.538558;-46.5566301
+Sao Paulo;Sao Paulo;Jardim Santa Cruz (Sacoma);Rua Gois Raposo   ;4182900;124;-23.6321146;-46.5970945
+Sao Paulo;Sao Paulo;Parque Bristol;Frederico Bartholdi    ;4193000;107;-23.6470991;-46.608584
+Sao Paulo;Sao Paulo;Ipiranga;General Lecor    ;4213020;164;-23.5913512;-46.6000301
+Sao Paulo;Sao Paulo;Cidade Nova Heliopolis;Sao Vicente de Paula  ;4236060;193;-23.6157889;-46.5922654
+Sao Paulo;Sao Paulo;Cidade Nova Heliopolis;Sao Paulo    ;4236080;93;-23.8458527;-46.7390858
+Sao Paulo;Sao Paulo;Cidade Nova Heliopolis;Cristo Redentor    ;4236260;209;-23.6100667;-46.5925425
+Sao Paulo;Sao Paulo;Vila Moinho Velho;Anatole France    ;4283050;174;-23.6079546;-46.6050172
+Sao Paulo;Sao Paulo;Vila Brasilio Machado;Capao da Serra   ;4289090;284;-23.6086661;-46.6160528
+Sao Paulo;Sao Paulo;Saude;Nhumirim     ;4294040;52;-23.6185789;-46.6084579
+Sao Paulo;Sao Paulo;Cidade Vargas;Leucina     ;4318100;57;-23.6450751;-46.6338498
+Sao Paulo;Sao Paulo;Vila Fachini;Luiz Carlos Kakiuthi   ;4327055;23;-23.6650911;-46.6341492
+Sao Paulo;Sao Paulo;Vila Fachini;Hildebrando Siqueira    ;4334150;147;-23.660013;-46.6407603
+Sao Paulo;Sao Paulo;Americanopolis;Luis Vicente de Simoni  ;4339020;157;-23.6677708;-46.6420338
+Sao Paulo;Sao Paulo;Americanopolis;Francisco Semini    ;4339130;62;-23.6664108;-46.6419988
+Sao Paulo;Sao Paulo;Vila Mascote;Santa Catarina    ;4378000;144;-23.6418719;-46.666501
+Sao Paulo;Sao Paulo;Jardim Jabaquara;Tomasina     ;4384120;64;-23.6602835;-46.6634815
+Sao Paulo;Sao Paulo;Americanopolis;Rio Grande do Sul  ;4412070;139;-23.6733251;-46.6455838
+Sao Paulo;Sao Paulo;Jardim Miriam;Salvador Faria de Albernaz  ;4417070;209;-23.6830395;-46.6359416
+Sao Paulo;Sao Paulo;Jardim Selma;Wilson Marinho dos Santos  ;4431091;149;-23.5505199;-46.6333094
+Sao Paulo;Sao Paulo;Jardim Itapura;Vinte e Sete   ;4433150;20;-23.6853086;-46.6585172
+Sao Paulo;Sao Paulo;Jardim Consorcio;Francisco Ramos    ;4437060;191;-23.6709314;-46.6759083
+Sao Paulo;Sao Paulo;Vila Campo Grande;Januario da Rocha Franca  ;4455340;93;-23.6829935;-46.6766335
+Sao Paulo;Sao Paulo;Vila Campo Grande;Casa de Emaus   ;4455410;103;-23.6833712;-46.6747024
+Sao Paulo;Sao Paulo;Pedreira;Santa Ursula    ;4459320;157;-23.6970698;-46.6721984
+Sao Paulo;Sao Paulo;Jardim da Pedreira;Conego Antonio Pinto   ;4468000;294;-23.6925144;-46.6650492
+Sao Paulo;Sao Paulo;Itaim Bibi;Rua Pedroso Alvarenga   ;4531907;67;-23.5805585;-46.674269
+Sao Paulo;Sao Paulo;Itaim Bibi;Rua Pedroso Alvarenga   ;4531929;29;-23.5808109;-46.6743521
+Sao Paulo;Sao Paulo;Itaim Bibi;Tabapua     ;4533013;271;-23.583785;-46.6780192
+Sao Paulo;Sao Paulo;Itaim Bibi;Brigadeiro Faria Lima   ;4538132;120;-23.5856015;-46.6830016
+Sao Paulo;Sao Paulo;Cidade Moncoes;Filadelfia     ;4564050;130;-23.6115939;-46.6875067
+Sao Paulo;Sao Paulo;Cidade Moncoes;California     ;4566060;292;-23.6098576;-46.6824448
+Sao Paulo;Sao Paulo;Jardim Petropolis;Engenheiro Dacio Morais Junior  ;4640010;10;-23.5505199;-46.6333094
+Sao Paulo;Sao Paulo;Vila Sao Paulo;Maria Jose Rangel   ;4650180;192;-23.6559406;-46.6708623
+Sao Paulo;Sao Paulo;Parque Residencial Julia;Antonio Masi    ;4671330;24;-23.6613153;-46.6901863
+Sao Paulo;Sao Paulo;Jurubatuba;Engenheiro Eusebio Stevaux   ;4696000;57;-23.6755275;-46.6966923
+Sao Paulo;Sao Paulo;Jurubatuba;Camafeu     ;4696020;45;-23.6771289;-46.7017245
+Sao Paulo;Sao Paulo;Vila Gertrudes;Henrique Fischer    ;4705090;45;-23.6206303;-46.6970517
+Sao Paulo;Sao Paulo;Santo Amaro;Cancioneiro Popular    ;4710000;146;-23.6288368;-46.6938721
+Sao Paulo;Sao Paulo;Varzea de Baixo;Acari     ;4730080;188;-23.6409367;-46.7225391
+Sao Paulo;Sao Paulo;Santo Amaro;Irma Haydee Ribeiro   ;4736010;162;-23.5505199;-46.6333094
+Sao Paulo;Sao Paulo;Jardim Guarapiranga;Purini     ;4770200;299;-23.5505199;-46.6333094
+Sao Paulo;Sao Paulo;Vila Almeida;Avenida das Nacoes Unidas  ;4795913;160;-23.671678;-46.7030737
+Sao Paulo;Sao Paulo;Parque America;Eduardo Ramos    ;4822270;111;-23.7352818;-46.6937463
+Sao Paulo;Sao Paulo;Parque Santa Cecilia;Pai Gomes Charinho   ;4832160;209;-23.7359433;-46.7161967
+Sao Paulo;Sao Paulo;Conjunto Habitacional Brigadeiro Faria Lima;Diogo das Neves Pires  ;4840350;189;-23.7571222;-46.6828336
+Sao Paulo;Sao Paulo;Jardim Sao Bernardo;Ana Reimberg Hemmel   ;4844390;300;-23.7537891;-46.700314
+Sao Paulo;Sao Paulo;Jardim Sao Bernardo;Sinfonia Paris    ;4844565;222;-23.5505199;-46.6333094
+Sao Paulo;Sao Paulo;Jardim Reimberg;Jose Leandro de Campos  ;4845190;244;-23.7517097;-46.6958708
+Sao Paulo;Sao Paulo;Jardim Progresso;Jaime Biscarri    ;4848130;117;-23.7343927;-46.6752325
+Sao Paulo;Sao Paulo;Parque Residencial dos Lagos;Cisne Azul    ;4851430;101;-23.7484887;-46.6617894
+Sao Paulo;Sao Paulo;Jardim Novo Jau;Primavera     ;4852503;277;-23.5801252;-46.6692639
+Sao Paulo;Sao Paulo;Jardim Tanay;Antonio Salim Hissa Filho  ;4856020;41;-23.7640879;-46.6946734
+Sao Paulo;Sao Paulo;Jardim Sao Judas Tadeu;Sapitica     ;4858230;147;-23.7767288;-46.7072344
+Sao Paulo;Sao Paulo;Jardim Ipora;Forte Augusto    ;4865090;50;-23.7825181;-46.7109561
+Sao Paulo;Sao Paulo;Jardim Almeida;Duas Irmas    ;4866175;61;-23.8030548;-46.7263988
+Sao Paulo;Sao Paulo;Vila Isabel (Parelheiros);Doutor Antonio Faria de Miranda ;4895041;20;-23.0512396;-45.5632723
+Sao Paulo;Sao Paulo;Jardim Santa Margarida;Jose de Oliveira   ;4930170;260;-23.4988731;-46.6495166
+Sao Paulo;Sao Paulo;Vila do Sol;Magna Grecia    ;4962130;55;-23.7353341;-46.7822355
+Sao Paulo;Sao Paulo;Vila Romana;Rua Cerro Cora   ;5061906;258;-23.5411153;-46.6991491
+Sao Paulo;Sao Paulo;Lapa de Baixo;Rua William Speers   ;5065902;242;-23.5187578;-46.7005362
+Sao Paulo;Sao Paulo;Vila Leopoldina;Jacinto Kerry Valente   ;5089050;147;-23.5208418;-46.7276241
+Sao Paulo;Sao Paulo;City America;Dinah Silveira de Queiroz  ;5119090;170;-23.4932427;-46.7362835
+Sao Paulo;Sao Paulo;Parque Sao Domingos;Brigadeiro Henrique Fontenelle   ;5125001;228;-23.500526;-46.7391007
+Sao Paulo;Sao Paulo;Jardim Santo Elias;Durval Fernandes Chaves   ;5136230;24;-23.5015395;-46.7495838
+Sao Paulo;Sao Paulo;Jardim Iris;Avenida Raimundo Pereira de Magalhaes ;5145901;255;-23.4037639;-46.7329999
+Sao Paulo;Sao Paulo;Jardim Maristela;Giovanni Narcisi    ;5159360;187;-23.4893273;-46.7541784
+Sao Paulo;Sao Paulo;Jaragua;Dois     ;5180020;262;-23.4274883;-46.7984879
+Sao Paulo;Sao Paulo;Jaragua;General Horta    ;5181490;255;-23.4546527;-46.7439425
+Sao Paulo;Sao Paulo;Jardim Santa Lucrecia;Gaetano Gioja    ;5183180;116;-23.4521372;-46.751689
+Sao Paulo;Sao Paulo;Vila Chica Luisa;Chica Luisa    ;5183270;286;-23.4488615;-46.755465
+Sao Paulo;Sao Paulo;Vila Chica Luisa;Carlos Ebolu    ;5183290;78;-23.4531448;-46.7505559
+Sao Paulo;Sao Paulo;Vila Chica Luisa;Antonio Cardoso Nogueira   ;5184000;272;-23.4571889;-46.7559449
+Sao Paulo;Sao Paulo;Jardim Adelfiore;Carcino     ;5223060;87;-23.4100476;-46.7415851
+Sao Paulo;Sao Paulo;Conjunto Residencial Jardim Canaa;Lajes Pintadas    ;5268190;157;-23.4346561;-46.7914994
+Sao Paulo;Sao Paulo;Vila dos Palmares;Elis Regina    ;5273010;23;-23.4367835;-46.8041084
+Sao Paulo;Sao Paulo;Vila Leopoldina;Doutor Seidel    ;5315000;83;-23.5316474;-46.734373
+Sao Paulo;Sao Paulo;Parque Continental;Jose Ferreira Keffer   ;5327020;251;-23.5447834;-46.7585475
+Sao Paulo;Sao Paulo;Jaguare;Carlos Alberto Soares Freitas  ;5328105;156;-23.5496729;-46.7552154
+Sao Paulo;Sao Paulo;Vila Antonio;Renato de Castro   ;5376180;48;-23.5811636;-46.7655516
+Sao Paulo;Sao Paulo;Jardim Rio Pequeno;Manoel Dias Amaro   ;5388060;140;-23.5686809;-46.7651917
+Sao Paulo;Sao Paulo;Vila Dalva;Sebastiano Mainardi    ;5388150;95;-23.5505199;-46.6333094
+Sao Paulo;Sao Paulo;Pinheiros;Auriflama     ;5422080;216;-23.566441;-46.6834503
+Sao Paulo;Sao Paulo;Sumarezinho;Original     ;5435050;234;-23.5531373;-46.6881501
+Sao Paulo;Sao Paulo;Vila Beatriz;Jorge Baptista    ;5447190;62;-23.5503004;-46.7017427
+Sao Paulo;Sao Paulo;Vila Madalena;Pedro de Sousa Campos Filho ;5451010;186;-23.5413164;-46.702877
+Sao Paulo;Sao Paulo;Alto de Pinheiros;Barajuba     ;5463040;138;-23.556793;-46.7092688
+Sao Paulo;Sao Paulo;Caxingui;Ladislau Roman    ;5515030;230;-23.5806988;-46.7143037
+Sao Paulo;Sao Paulo;Vila Sonia;Professor Francisco Morato   ;5520300;199;-23.5986432;-46.7411573
+Sao Paulo;Sao Paulo;Jardim Dracena;Santa Cruz    ;5528350;253;-23.598967;-46.624603
+Sao Paulo;Sao Paulo;Jardim Dracena;Santa Brigida    ;5528380;295;-23.563119;-46.5488799
+Sao Paulo;Sao Paulo;Jardim Maria Augusta;Antonio Cardoso Pereira   ;5546140;106;-23.5858672;-46.7716687
+Sao Paulo;Sao Paulo;Conjunto Promorar Raposo Tavares;Arroio Primavera    ;5574280;50;-23.5861558;-46.8012817
+Sao Paulo;Sao Paulo;Conjunto Promorar Raposo Tavares;Cachoeira das Flores   ;5574410;96;-23.5854268;-46.8014667
+Sao Paulo;Sao Paulo;Jardim Boa Vista (Zona Oeste);Francisco Luz    ;5583120;220;-23.58345;-46.788659
+Sao Paulo;Sao Paulo;Vila Indiana;Iquiririm     ;5586000;101;-23.5733184;-46.7273263
+Sao Paulo;Sao Paulo;Jardim Esmeralda;Engenheiro Heitor Antonio Eiras Garcia ;5588000;129;-23.5764504;-46.7422683
+Sao Paulo;Sao Paulo;Jardim Bonfiglioli;Celio Manoel Vieira   ;5593020;89;-23.5790527;-46.7405291
+Sao Paulo;Sao Paulo;Jardim Vitoria Regia;Francisco Jose Rodrigues Neto  ;5657225;177;-23.6193071;-46.7200973
+Sao Paulo;Sao Paulo;Jardim Taboao;Jose Novais    ;5711160;101;-23.6076353;-46.7489891
+Sao Paulo;Sao Paulo;Vila Andrade;Ivora     ;5716130;159;-23.6302573;-46.7352103
+Sao Paulo;Sao Paulo;Super Quadra Morumbi;Benedito Faber    ;5750070;118;-23.6171822;-46.7494344
+Sao Paulo;Sao Paulo;Parque Ipe;Sebastiao Martins Pereira   ;5762260;72;-23.6414016;-46.7657228
+Sao Paulo;Sao Paulo;Jardim Piracuama;Francisco Gonzaga    ;5763380;42;-23.6434358;-46.7615487
+Sao Paulo;Sao Paulo;Jardim Sao Luis;Guimaraes Tavares    ;5805030;234;-23.6509671;-46.7312393
+Sao Paulo;Sao Paulo;Jardim Novo Santo Amaro;Augusto Fabregas    ;5820110;47;-23.6680758;-46.7417111
+Sao Paulo;Sao Paulo;Parque Santo Antonio;Manuel Filx Fernandes   ;5821110;149;-23.6690736;-46.75128
+Sao Paulo;Sao Paulo;Chacara Santana;Adilson Brito    ;5831010;279;-23.6739358;-46.748612
+Sao Paulo;Sao Paulo;Jardim Thomaz;Alberto Vicente Cardoso   ;5833030;211;-23.6709958;-46.7567125
+Sao Paulo;Sao Paulo;Parque Ligia;Roberto Botelho    ;5857550;176;-23.6565262;-46.7833813
+Sao Paulo;Sao Paulo;Jardim Clarice;Tomas Campanella    ;5866160;280;-23.6787828;-46.7683456
+Sao Paulo;Sao Paulo;Jardim do Colegio;Antonio Alzelino Guerra   ;5883260;248;-23.6740938;-46.7802052
+Sao Paulo;Osasco;Centro;Paulo Licio Rizzo   ;6018010;94;-23.5385245;-46.7780927
+Sao Paulo;Osasco;Vila Yara;Benedito Americo de Oliveira  ;6028080;173;-23.5474784;-46.7650891
+Sao Paulo;Osasco;Adalgisa;Jose Aristides Jofre   ;6030130;234;-23.5595009;-46.765494
+Sao Paulo;Osasco;Adalgisa;Aroeira Vermelha    ;6030314;173;-23.5328814;-46.7920029
+Sao Paulo;Osasco;Jardim D'Abril;Joao Bitencourt    ;6038090;89;-23.5640108;-46.7777562
+Sao Paulo;Osasco;Jardim D'Abril;Jacomo Sbravatti    ;6038270;162;-23.566504;-46.7802039
+Sao Paulo;Osasco;Novo Osasco;Doutor Theodoro de Souza Brandao ;6045150;208;-23.572248;-46.7959657
+Sao Paulo;Osasco;Novo Osasco;Nelson Palamin    ;6045180;238;-23.5328814;-46.7920029
+Sao Paulo;Osasco;Bela Vista;Caetano de Campos   ;6070260;278;-23.5493269;-46.7823897
+Sao Paulo;Osasco;Bela Vista;Oswald de Andrade   ;6070340;185;-23.5450052;-46.7798062
+Sao Paulo;Osasco;Centro;Praca Antonio Menk   ;6093902;217;-23.5291733;-46.7753305
+Sao Paulo;Osasco;Centro;Antonio Menk    ;6097060;238;-23.5292604;-46.774941
+Sao Paulo;Osasco;Vila Yolanda;Joaquim Felix Ribeiro   ;6124190;204;-23.5468599;-46.7927306
+Sao Paulo;Osasco;Vila Yolanda;Sao Francisco    ;6124270;237;-23.4953614;-46.7666326
+Sao Paulo;Osasco;Vila Yolanda;Bom Conselho    ;6124320;111;-23.5438009;-46.7952209
+Sao Paulo;Osasco;Santo Antonio;Internacional     ;6126000;252;-23.5555929;-46.7973036
+Sao Paulo;Osasco;Conceicao;Santa Clara    ;6145100;159;-23.5778593;-46.8054248
+Sao Paulo;Osasco;Metalurgicos;Espedito Izidio Andrade   ;6150270;288;-23.5659901;-46.8122084
+Sao Paulo;Osasco;Padroeira;Benedito Alves Turibio   ;6160002;208;-23.5579399;-46.8091943
+Sao Paulo;Osasco;km 18;Comandante Sampaio    ;6192000;154;-23.5274336;-46.7993015
+Sao Paulo;Osasco;Rochdale;Jasmim Branco    ;6226250;254;-23.5357001;-46.7950906
+Sao Paulo;Osasco;Munhoz Junior;Geraldo Ribeiro Moreira   ;6240210;282;-23.5008495;-46.8007916
+Sao Paulo;Osasco;Vila Menck;Avenida Doutor Alberto Jackson Byington ;6273970;111;-23.498057;-46.7696105
+Sao Paulo;Carapicuiba;Golf Gardens;Turqueza     ;6351430;282;-23.5601331;-46.8718603
+Sao Paulo;Carapicuiba;Jardim Ana Estela;Caibi     ;6355010;103;-23.5639023;-46.8476703
+Sao Paulo;Carapicuiba;Residencial Euroville;Espanha     ;6355469;167;-23.5565113;-46.8686058
+Sao Paulo;Carapicuiba;Jardim Planalto;Serra dos Orgaos   ;6360280;251;-23.5582082;-46.8398874
+Sao Paulo;Carapicuiba;Vila Gobbi;Celso Soncini    ;6361170;13;-23.5595827;-46.8423425
+Sao Paulo;Carapicuiba;Jardim Angelica;Tartario     ;6365675;155;-23.5239623;-46.8411243
+Sao Paulo;Carapicuiba;Vila Merces;Sao Pedro    ;6380170;217;-23.5231106;-46.8511498
+Sao Paulo;Carapicuiba;Jardim dos Manacas;Balsamo     ;6381310;231;-23.5465002;-46.8397992
+Sao Paulo;Carapicuiba;Jardim Angela Maria;Ipero     ;6386060;173;-23.535264;-46.8424428
+Sao Paulo;Barueri;Jardim dos Camargos;Yen     ;6410040;290;-23.5034496;-46.8703973
+Sao Paulo;Barueri;Jardim Esperanca;Jaragua     ;6413040;257;-23.4933763;-46.8775436
+Sao Paulo;Barueri;Jardim Itaquiti;Ulisses Guimaraes    ;6422005;109;-23.5113691;-46.872942
+Sao Paulo;Barueri;Jardim Itaparica;Jacarei     ;6447070;146;-23.5384292;-46.8788271
+Sao Paulo;Santana de Parnaiba;Itaim Mirim;Francisco Goncalves Pinto   ;6503115;57;-23.4521699;-46.9345074
+Sao Paulo;Santana de Parnaiba;Sitio do Rosario;Pingo D'Agua    ;6514135;16;-23.4974618;-46.812041
+Sao Paulo;Santana de Parnaiba;Engenho Novo;Sao Genaro    ;6516215;97;-23.4685078;-46.9157499
+Sao Paulo;Santana de Parnaiba;Recanto Pereira;Hieronimo Goncalves Meira   ;6528110;186;-23.4307199;-46.8258162
+Sao Paulo;Santana de Parnaiba;Colinas da Anhanguera;Ernesto de Fiori   ;6537115;183;-23.409343;-46.8991218
+Sao Paulo;Santana de Parnaiba;Alphaville;Sao Carlos    ;6542040;49;-23.4306349;-46.8255211
+Sao Paulo;Santana de Parnaiba;Tambore;Bali     ;6543085;165;-23.4763734;-46.8726988
+Sao Paulo;Jandira;Jardim Alvorada;Martin Hein    ;6612005;44;-23.4720516;-46.8609797
+Sao Paulo;Jandira;Vila Sao Nicolau;Manoel Nunes    ;6620030;284;-23.518534;-46.9222979
+Sao Paulo;Jandira;Jardim Sol Nascente;Toquio     ;6622020;195;-23.542145;-46.8924145
+Sao Paulo;Jandira;Jardim Nossa Senhora de Fatima;Francisco de Barros Cobra  ;6624020;119;-23.5412218;-46.8967861
+Sao Paulo;Jandira;Jardim Gabriela I;Francisco Tomaz da Silva  ;6624300;233;-23.5524305;-46.9077148
+Sao Paulo;Itapevi;Jardim Rosemary;Serra das Araras   ;6657430;25;-23.5465914;-46.9121714
+Sao Paulo;Itapevi;Conjunto Habitacional - Setor A;Catuama     ;6665120;107;-23.5614606;-46.9291947
+Sao Paulo;Itapevi;Sao Joao;Engenheiro Rene Benedito da Silva ;6683000;113;-23.5492651;-46.9331962
+Sao Paulo;Itapevi;Parque Mira Flores;Guilhermina Coelho    ;6683525;88;-23.540324;-46.9702097
+Sao Paulo;Cotia;Centro;Professor Joaquim Barreto   ;6700170;26;-23.5492651;-46.9331962
+Sao Paulo;Cotia;Jardim Nova Vida;das Poesias    ;6702335;230;-23.6053017;-46.9395456
+Sao Paulo;Cotia;Granja Carneiro Viana;Jurua     ;6704762;74;-23.5809185;-46.9249721
+Sao Paulo;Cotia;Granja Viana II;Aguas Verdes    ;6706205;297;-23.5750937;-46.9067299
+Sao Paulo;Cotia;Parque Sao George;Lucia     ;6708170;76;-23.5783559;-46.863032
+Sao Paulo;Cotia;Palos Verdes;Aries     ;6709660;59;-23.5977139;-46.8508069
+Sao Paulo;Cotia;Jardim Barro Branco;Guaranta     ;6716240;24;-23.5778492;-46.8402279
+Sao Paulo;Cotia;Jardim Sabia;do Capuava    ;6716580;87;-23.607783;-46.8979566
+Sao Paulo;Cotia;Outeiro de Passargada;India     ;6719660;205;-23.610843;-46.8841113
+Sao Paulo;Cotia;Parque Mirante da Mata;Lamartine Babo    ;6720150;18;-23.6103028;-46.9516971
+Sao Paulo;Cotia;da Graca;Mario Andreatini    ;6721507;54;-23.6207695;-46.9486586
+Sao Paulo;Cotia;Agua Espraiada (Caucaia do Alto);Malvina Maria de Oliveira  ;6726465;51;-23.6235148;-46.9323975
+Sao Paulo;Cotia;Parque Doutor Mendonca Cortez(Caucaia do Alto);Andrea     ;6726670;205;-23.6026684;-46.9194693
+Sao Paulo;Cotia;Centro (Caucaia do Alto);Joaquim Pires de Oliveira  ;6727186;146;-23.5391976;-46.8842676
+Sao Paulo;Taboao da Serra;Parque Santos Dumont;Rua Ernesto Capelari   ;6754904;124;-23.6852477;-47.0195098
+Sao Paulo;Taboao da Serra;Parque Monte Alegre;Africa     ;6756430;25;-23.6081502;-46.7569624
+Sao Paulo;Taboao da Serra;Jardim Irapua;Durvalina Firmino Alves   ;6766400;173;-23.6047366;-46.7768159
+Sao Paulo;Taboao da Serra;Parque Pinheiros;Joao Batista da Fonseca  ;6767010;39;-23.6229965;-46.7802557
+Sao Paulo;Taboao da Serra;Jardim Silvio Sampaio;Maria Rita Assuncao Ferreira  ;6773330;290;-23.6249154;-46.786848
+Sao Paulo;Taboao da Serra;Jardim Sao Luiz;Rodrigo Monteiro    ;6785525;186;-23.642046;-46.7907188
+Sao Paulo;Taboao da Serra;Jardim Saint Moritz;Joao Reis Lacerda   ;6787595;16;-23.6228759;-46.7816647
+Sao Paulo;Embu das Artes;Tingidor;Domingos de Paschoal   ;6803005;284;-23.6200576;-46.8015888
+Sao Paulo;Embu das Artes;Centro;Avenida Elias Yazbek   ;6803903;99;-23.6511706;-46.8523764
+Sao Paulo;Embu das Artes;Moinho Velho;do Portal    ;6805240;102;-23.6566876;-46.8519589
+Sao Paulo;Embu das Artes;Jardim de Lourdes;Jose Marcelino da Silva  ;6806025;94;-23.6265482;-46.8456612
+Sao Paulo;Embu das Artes;Jardim Vista Alegre;Criciuma     ;6807040;231;-23.6515085;-46.8521864
+Sao Paulo;Embu das Artes;Jardim Vista Alegre;Caxinguele     ;6807817;139;-23.6312947;-46.8238736
+Sao Paulo;Embu das Artes;Jardim Sao Marcos;Augusto de Almeida Batista  ;6814165;80;-23.6515085;-46.8521864
+Sao Paulo;Embu das Artes;Jardim do Colegio;Augusto de Almeida Batista  ;6814555;184;-23.665549;-46.8120258
+Sao Paulo;Embu das Artes;Jardim Fabiana;Julio Mesquita    ;6820060;176;-23.6577888;-46.8150576
+Sao Paulo;Embu das Artes;Jardim Pinheiros;Monte Azul    ;6835020;42;-23.653969;-46.7943381
+Sao Paulo;Embu das Artes;Jardim Santo Antonio;Santa Zita    ;6835516;219;-23.6694067;-46.8551489
+Sao Paulo;Embu das Artes;Chacaras Lidia;Tupiniquins     ;6843463;268;-23.6515085;-46.8521864
+Sao Paulo;Itapecerica da Serra;Jardim Sampaio;Jose Antonio da Silva Junior ;6851360;56;-23.6114332;-46.9057747
+Sao Paulo;Itapecerica da Serra;Olaria;das Nacoes    ;6859090;46;-23.7190126;-46.8649611
+Sao Paulo;Itapecerica da Serra;Parque Jandaia;Apucarana     ;6866200;263;-23.7166271;-46.8576421
+Sao Paulo;Itapecerica da Serra;Jardim Santa Julia;Maraba     ;6867520;213;-23.7562606;-46.7943785
+Sao Paulo;Itapecerica da Serra;Aldeinha;Maria Cintra Domingues   ;6880101;148;-23.7619824;-46.8077244
+Sao Paulo;Itapecerica da Serra;Potuvera;Jose Silverio da Silva  ;6886505;223;-23.7166271;-46.8576421
+Sao Paulo;Guarulhos;Vila Pedro Moreira;Marcolina Moreira    ;7021010;239;-23.7166271;-46.8576421
+Sao Paulo;Guarulhos;Vila Augusta;Augusta     ;7025130;33;-23.4731625;-46.536244
+Sao Paulo;Guarulhos;Vila da Fabrica;Assis     ;7031180;78;-23.4816604;-46.5455585
+Sao Paulo;Guarulhos;Vila Adelaide Perella;Pedro Perella    ;7031240;94;-23.4597092;-46.5241801
+Sao Paulo;Guarulhos;Ponte Grande;Soldado Antonio Mathias Camargo  ;7031280;102;-23.5009265;-46.5495482
+Sao Paulo;Guarulhos;Ponte Grande;Garuva     ;7032310;78;-23.5014819;-46.5490496
+Sao Paulo;Guarulhos;Jardim Munhoz;Monte Horebe    ;7033252;146;-23.5035992;-46.5488025
+Sao Paulo;Guarulhos;Vila Flora;Lages     ;7042160;70;-23.4542498;-46.5337925
+Sao Paulo;Guarulhos;Vila Capitao Rabelo;Urutai     ;7050170;16;-23.4430147;-46.510365
+Sao Paulo;Guarulhos;Cidade Brasil;Leon Diniz    ;7052130;140;-23.4614985;-46.551275
+Sao Paulo;Guarulhos;Jardim Leblon;Peri Mirim    ;7053010;40;-23.4719837;-46.5566181
+Sao Paulo;Guarulhos;Jardim Rosana;Celeste Fernandes Dalphorno   ;7075125;53;-23.4750906;-46.5567882
+Sao Paulo;Guarulhos;Jardim Rosana;Paulo Faria    ;7075161;239;-23.4542498;-46.5337925
+Sao Paulo;Guarulhos;Jardim dos Cardoso;Treze     ;7075430;188;-23.4358157;-46.563491
+Sao Paulo;Guarulhos;Jardim Paulista;Araguacema     ;7083110;296;-23.4625555;-46.3975127
+Sao Paulo;Guarulhos;Jardim Betel;Tres Fronteiras    ;7083350;173;-23.4387369;-46.5495465
+Sao Paulo;Guarulhos;Parque Continental II;Carlos Rodrigues    ;7084320;259;-23.4348596;-46.5492943
+Sao Paulo;Guarulhos;Vila Sao Paulo;Camila Martins dos Santos  ;7094070;261;-23.4101025;-46.4486037
+Sao Paulo;Guarulhos;Jardim Santa Mena;Segundo-Tenente Ary Rauen   ;7096130;268;-23.4534283;-46.5421624
+Sao Paulo;Guarulhos;Jardim Santa Mena;Cabo Eutropio Wilhelm de Freitas ;7096232;236;-23.4501849;-46.5376036
+Sao Paulo;Guarulhos;Jardim Bom Clima;Onofre Miranda Neto   ;7122091;77;-23.4542498;-46.5337925
+Sao Paulo;Guarulhos;Vila Florida;Rubil de Almeida Barbosa  ;7130450;87;-23.4542498;-46.5337925
+Sao Paulo;Guarulhos;Residencial Cerconi;Dois     ;7130543;31;-23.4438963;-46.515396
+Sao Paulo;Guarulhos;Jardim Sao Paulo;Sao Goncalo do Abaete  ;7131130;265;-23.4260505;-46.5350552
+Sao Paulo;Guarulhos;Jardim Bela Vista;Sao Joao do Oriente  ;7133060;143;-23.4386893;-46.5281062
+Sao Paulo;Guarulhos;Parque Continental;Pedro Paulo de Medeiros  ;7135383;254;-23.4396284;-46.511106
+Sao Paulo;Guarulhos;Jardim Marilena;Espirito Santo Dourado   ;7140340;27;-23.4217745;-46.5300522
+Sao Paulo;Guarulhos;Jardim Sao Domingos;Pinhal     ;7142060;44;-23.4227736;-46.4950853
+Sao Paulo;Guarulhos;Jardim Dona Meri;Elisa Premier    ;7142680;283;-23.4178003;-46.4957295
+Sao Paulo;Guarulhos;Recreio Sao Jorge;do Cacau    ;7144430;33;-23.4195787;-46.4975257
+Sao Paulo;Guarulhos;Cidade Serodio;Monaco     ;7150050;59;-23.4015111;-46.5172005
+Sao Paulo;Guarulhos;Jardim Lenize;Lagoa das Pedras   ;7151760;24;-23.4194894;-46.4620337
+Sao Paulo;Guarulhos;Parque Santos Dumont;Cerro Cora    ;7152211;142;-23.403013;-46.4544459
+Sao Paulo;Guarulhos;Parque Santos Dumont;Teera     ;7152560;192;-23.4040016;-46.4693872
+Sao Paulo;Guarulhos;Jardim Fortaleza;Joao Alves de Souza Reis ;7154210;66;-23.404066;-46.4633704
+Sao Paulo;Guarulhos;Jardim Jade;Iacri     ;7160222;49;-23.3737529;-46.4466759
+Sao Paulo;Guarulhos;Jardim Cristina;Jefe     ;7160240;88;-23.4542498;-46.5337925
+Sao Paulo;Guarulhos;Cidade Soberana;Tabocas     ;7161456;258;-23.4110745;-46.4500788
+Sao Paulo;Guarulhos;Jardim Presidente Dutra;Oliveira     ;7172330;177;-23.3901514;-46.433809
+Sao Paulo;Guarulhos;Vila Nova Bonsucesso;Resende Costa    ;7176458;33;-23.4200004;-46.4279012
+Sao Paulo;Guarulhos;Jardim Fatima;Una     ;7177010;20;-23.4542498;-46.5337925
+Sao Paulo;Guarulhos;Residencial e Comercial Guarulhos;Nove     ;7178700;15;-23.420854;-46.401705
+Sao Paulo;Guarulhos;Jardim Ponte Alta I;da Mina    ;7179333;178;-23.4105263;-46.422936
+Sao Paulo;Guarulhos;Jardim Sao Francisco;Italia     ;7195030;95;-23.3632568;-46.4215002
+Sao Paulo;Guarulhos;Macedo;Doutor Wenceslau Bras   ;7197190;131;-23.4493003;-46.5129938
+Sao Paulo;Guarulhos;Cidade Industrial Satelite de Sao Paulo;Sume     ;7224030;217;-23.4604757;-46.5052611
+Sao Paulo;Guarulhos;Cidade Industrial Satelite de Sao Paulo;Serra Branca    ;7224050;266;-23.4619588;-46.483974
+Sao Paulo;Guarulhos;Jardim Ottawa;Laercio Nazareno    ;7230620;19;-23.46331;-46.483837
+Sao Paulo;Guarulhos;Jardim Ferrao;Antonina do Norte   ;7252160;259;-23.4471494;-46.4508688
+Sao Paulo;Guarulhos;Jardim Anny;Yara     ;7262540;96;-23.4489918;-46.4051961
+Sao Paulo;Guarulhos;Cidade Tupinamba;Sodre     ;7263100;70;-23.4775434;-46.3961545
+Sao Paulo;Guarulhos;Conjunto Marcos Freire;Vinte e Oito   ;7263737;13;-23.4628607;-46.4128983
+Sao Paulo;Guarulhos;Jardim Leblon;Zulu     ;7272050;285;-23.4347346;-46.5540944
+Sao Paulo;Guarulhos;Jardim dos Pimentas;Eldorado     ;7272260;26;-23.4542498;-46.5337925
+Sao Paulo;Aruja;Centro;Istilita Antonio Morais   ;7400790;214;-23.4674423;-46.4198288
+Sao Paulo;Aruja;Portao;Azaleias     ;7411440;47;-23.3969682;-46.3204265
+Sao Paulo;Aruja;Perobal;Perimetral     ;7432435;59;-23.4064099;-46.3451882
+Sao Paulo;Aruja;Caputera;das Palmeiras    ;7434535;33;-23.4248484;-46.3673667
+Sao Paulo;Aruja;Caputera;Jacy     ;7435705;200;-23.415936;-46.3244479
+Sao Paulo;Caieiras;Regiao Central;Santo Antonio    ;7700050;55;-23.3616;-46.7395344
+Sao Paulo;Caieiras;Nova Caieiras;Johannes Ludwis Nauer   ;7703000;38;-23.3612198;-46.7401869
+Sao Paulo;Caieiras;Serpa;Antonio Francisco Leme   ;7713305;49;-23.3495199;-46.7453229
+Sao Paulo;Caieiras;Vila Rosina;Braz Alves Batista   ;7749155;59;-23.3612198;-46.7401869
+Sao Paulo;Cajamar;Guaturinho;Maria Luiza Pinto   ;7756600;74;-23.3555044;-46.8785941
+Sao Paulo;Cajamar;Jordanesia (Jordanesia);Deovair Cruz de Oliveira  ;7776435;247;-23.3350499;-46.8403979
+Sao Paulo;Cajamar;Santa Terezinha (Jordanesia);Doutor Jose Luis Leme Maciel ;7786450;275;-23.3332837;-46.8272545
+Sao Paulo;Cajamar;Altos de Jordanesia (Jordanesia);Alfredo Marcondes    ;7786770;281;-23.3375512;-46.8286666
+Sao Paulo;Cajamar;Colina Maria Luiza (Jordanesia);Indiana     ;7787330;256;-23.3410457;-46.8267528
+Sao Paulo;Cajamar;Empresarial Mirante de Cajamar (Polvilho);Silverio Augusto Tavares   ;7790485;193;-23.4080183;-46.8383398
+Sao Paulo;Cajamar;Ipes (Polvilho);Jean Anastace Kovelis   ;7791842;222;-23.4077615;-46.85564
+Sao Paulo;Franco da Rocha;Jardim Luciana;Edgard Maximo Zamboto   ;7810160;262;-23.3195987;-46.7592551
+Sao Paulo;Franco da Rocha;Vila Leopolis;Cinco     ;7832290;210;-23.2792776;-46.7219053
+Sao Paulo;Franco da Rocha;Vila Ida;Pedro Vaz de Caminha  ;7845210;33;-23.3166587;-46.7290372
+Sao Paulo;Francisco Morato;Jardim Rogerio Levorin;Santiago Dantas    ;7902200;202;-23.2918115;-46.7412175
+Sao Paulo;Francisco Morato;Jardim Nossa Senhora Aparecida;Leao IX    ;7930100;266;-23.2580393;-46.7531711
+Sao Paulo;Francisco Morato;Jardim Constancia;Colombia     ;7942250;190;-23.3073249;-46.7458909
+Sao Paulo;Francisco Morato;Residencial Sao Luis;Santa Cecilia    ;7996100;225;-23.2997859;-46.7271571
+Sao Paulo;Sao Paulo;Sao Miguel Paulista;Idioma Esperanto    ;8010350;78;-23.4911428;-46.4379883
+Sao Paulo;Sao Paulo;Parque Sonia;Manuel Moreira Ramos   ;8020070;161;-23.5002008;-46.4459817
+Sao Paulo;Sao Paulo;Vila Rosaria;Xavier     ;8021227;235;-23.5021635;-46.4360401
+Sao Paulo;Sao Paulo;Vila Curuca;Coca     ;8030000;194;-23.5010512;-46.4266814
+Sao Paulo;Sao Paulo;Cidade Nova Sao Miguel;Mamorana     ;8042190;271;-23.5095739;-46.4367574
+Sao Paulo;Sao Paulo;Jardim das Camelias;Natureza Morta    ;8050260;50;-23.5505199;-46.6333094
+Sao Paulo;Sao Paulo;Limoeiro;Mario Pati    ;8051350;184;-23.5112545;-46.4706295
+Sao Paulo;Sao Paulo;Parque Paulistano;Anivaldo Lopes    ;8080096;116;-21.156977;-47.8315083
+Sao Paulo;Sao Paulo;Jardim Helena;Doutor Gregorio de Oliveira e Castro ;8090390;209;-23.5505199;-46.6333094
+Sao Paulo;Sao Paulo;Jardim das Oliveiras;Leonil     ;8122415;80;-23.493129;-46.3846822
+Sao Paulo;Sao Paulo;Jardim Miriam;Vitoria do Espirito Santo  ;8141004;72;-23.5183937;-46.390722
+Sao Paulo;Sao Paulo;Jardim Miriam;Candido Pereira de Castro  ;8142377;235;-23.5232099;-46.3902007
+Sao Paulo;Sao Paulo;Jardim Indaia;Tupassi     ;8143015;86;-23.5166686;-46.3992358
+Sao Paulo;Sao Paulo;Jardim Rosina;Heraclito Sandano    ;8151170;198;-23.5208944;-46.4009429
+Sao Paulo;Sao Paulo;Vila Simone;Dom Jaime Comere   ;8160440;159;-23.5025215;-46.4091422
+Sao Paulo;Sao Paulo;Vila Aimore;Buity     ;8190090;170;-23.4927789;-46.4011123
+Sao Paulo;Sao Paulo;Cidade Antonio Estevao de Carvalho;Vinte e Cinco   ;8220041;208;-23.617887;-46.4669484
+Sao Paulo;Sao Paulo;Conjunto Residencial Jose Bonifacio;Dom Jose Botelho   ;8253390;282;-23.5487171;-46.4375199
+Sao Paulo;Sao Paulo;Conjunto Residencial Jose Bonifacio;Garcia Barco    ;8255070;71;-23.5565957;-46.4326989
+Sao Paulo;Sao Paulo;Jardim Cibele;Geraldine Farrar    ;8260180;191;-23.5768804;-46.4393943
+Sao Paulo;Sao Paulo;Vila Carmosina;Cachoeira Utupanema    ;8270140;123;-23.5560085;-46.4639454
+Sao Paulo;Sao Paulo;Vila Carmosina;Joao Abreu Castelo Branco  ;8270150;255;-23.5594771;-46.4640648
+Sao Paulo;Sao Paulo;Jardim Nossa Senhora do Carmo;Baltazar Vidal    ;8275370;70;-23.5775338;-46.4828896
+Sao Paulo;Sao Paulo;Cidade Lider;Sebastiao Miguel da Silva  ;8280350;201;-23.5589791;-46.4735602
+Sao Paulo;Sao Paulo;Cidade Satelite Santa Barbara;Phobus     ;8340130;60;-23.6058929;-46.4624231
+Sao Paulo;Sao Paulo;Jardim Sao Joao (Sao Rafael);Georgina Mongruel    ;8370390;60;-23.5922636;-46.4402723
+Sao Paulo;Sao Paulo;Jardim Helena;Santa Edith    ;8420400;173;-23.5392237;-46.4272295
+Sao Paulo;Sao Paulo;Jardim Soares;Maria Vitalina de Moraes  ;8460151;64;-23.5493504;-46.4036799
+Sao Paulo;Sao Paulo;Vila Iolanda II;Claudio Leguine    ;8473380;212;-23.5792774;-46.3862647
+Sao Paulo;Sao Paulo;Jardim Wilma Flor;Zola Amaro    ;8473465;105;-23.5717606;-46.3974637
+Sao Paulo;Sao Paulo;Conjunto Habitacional Barro Branco II;Cesare Zoilo    ;8473526;291;-23.5832693;-46.3922447
+Sao Paulo;Sao Paulo;Vila Paulista I;Claudio Bonifacio    ;8490627;219;-23.5375884;-46.4197073
+Sao Paulo;Ferraz de Vasconcelos;Vila Sao Paulo;Corinthians     ;8507032;197;-23.5289582;-46.3635823
+Sao Paulo;Ferraz de Vasconcelos;Jardim Cambiri;Yoshico Utaka    ;8511060;191;-23.5648776;-46.3560493
+Sao Paulo;Ferraz de Vasconcelos;Chacara Descansolandia;Renato Ribeiro Santana   ;8515100;248;-23.57645;-46.3735634
+Sao Paulo;Ferraz de Vasconcelos;Jardim Figueiredo;Marcia Angelica Lopes   ;8526040;231;-23.5572113;-46.3858101
+Sao Paulo;Ferraz de Vasconcelos;Jardim Renata;Jose Esmerio da Silva Filho ;8537060;27;-23.5289582;-46.3635823
+Sao Paulo;Ferraz de Vasconcelos;Jardim Sao Joao;Marcos Ferreira da Cruz  ;8545210;247;-23.5328418;-46.3729863
+Sao Paulo;Poa;Vila Lucia;Variante     ;8557260;105;-23.5337777;-46.3477362
+Sao Paulo;Poa;Vila Ibar;Dejair Alves de Carvalho  ;8559430;249;-23.5206395;-46.3332602
+Sao Paulo;Poa;Calmon Viana;Primeiro de Maio   ;8560030;175;-23.5268425;-46.3350877
+Sao Paulo;Poa;Jardim Ruth;Deputado Joviano Alvim   ;8561500;112;-23.5303399;-46.3411771
+Sao Paulo;Poa;Jardim Aurea;Cambe     ;8563660;271;-23.504993;-46.3521104
+Sao Paulo;Poa;Jardim Obelisco;Luzia Ruth da Silva  ;8565310;86;-23.5399381;-46.3427757
+Sao Paulo;Itaquaquecetuba;Jardim do Algarve;Amazonas     ;8572680;12;-23.4511228;-46.3031494
+Sao Paulo;Itaquaquecetuba;Vila Virginia;Uberaba     ;8573070;44;-23.4914741;-46.352821
+Sao Paulo;Itaquaquecetuba;Jardim Valparaiso;Taubate     ;8577680;48;-23.4914133;-46.3648004
+Sao Paulo;Itaquaquecetuba;Jardim Paineira;Serra Acarai    ;8581070;254;-23.4552637;-46.3557143
+Sao Paulo;Itaquaquecetuba;Jardim Sao Jeronimo;Bonsucesso     ;8581300;81;-23.4595135;-46.3522385
+Sao Paulo;Itaquaquecetuba;Parque Piratininga;Joaquim Serra    ;8583680;122;-23.4849456;-46.3494828
+Sao Paulo;Itaquaquecetuba;Jardim Morada Feliz;Cinco     ;8585020;46;-23.4763945;-46.2917905
+Sao Paulo;Itaquaquecetuba;Parque Residencial Scaffid II;Joaquim Tavora    ;8587819;232;-23.4849456;-46.3494828
+Sao Paulo;Itaquaquecetuba;Parque Nossa Senhora das Gracas;Estancia Velha    ;8590035;101;-23.4476112;-46.2770643
+Sao Paulo;Itaquaquecetuba;Jardim Altos de Itaqua;Alvarenga Peixoto    ;8598412;92;-23.4665216;-46.3226192
+Sao Paulo;Itaquaquecetuba;Campo da Venda;Sao Jose    ;8599480;192;-23.4648918;-46.3375513
+Sao Paulo;Suzano;Vila Amorim;Brasilia     ;8610100;150;-23.5436771;-46.3001576
+Sao Paulo;Suzano;Vila Santana;Benedito Leite de Siqueira  ;8613530;265;-23.5453209;-46.311625
+Sao Paulo;Suzano;Jardim Residencial Suzano;Shiguenobu Takahashi    ;8615540;171;-23.5453209;-46.311625
+Sao Paulo;Suzano;Vila Colorado;Helio de Souza Melo  ;8616876;219;-23.5656425;-46.29361
+Sao Paulo;Suzano;Jardim Sao Luis;Aurendina Pinto Lara   ;8630440;173;-23.5453209;-46.311625
+Sao Paulo;Suzano;Estancia Angelina;Treze     ;8633744;170;-23.5551833;-46.3247964
+Sao Paulo;Suzano;Jardim Nova America;Carim Jorge    ;8655760;266;-23.6022406;-46.3071394
+Sao Paulo;Suzano;Jardim Altos de Suzano;Maria Favoti Cusma   ;8665305;107;-23.5453209;-46.311625
+Sao Paulo;Suzano;Jardim dos Ipes;Senador Roberto Simonsen   ;8671035;33;-23.5406764;-46.3229865
+Sao Paulo;Suzano;Conjunto Residencial Irai;Antonio dos Reis   ;8673100;35;-23.5392162;-46.3163662
+Sao Paulo;Suzano;Vila Figueira;Kaneji Kodama    ;8676010;21;-23.5487087;-46.3058636
+Sao Paulo;Suzano;Vila Figueira;Rivaldo Venancio da Silva  ;8676400;120;-23.5453209;-46.311625
+Sao Paulo;Suzano;Cidade Miguel Badra;Setenta e Nove   ;8690425;212;-23.5084921;-46.322005
+Sao Paulo;Suzano;Cidade Miguel Badra;Cento e Cinquenta   ;8690780;249;-23.5064638;-46.3122295
+Sao Paulo;Suzano;Cidade Miguel Badra;Fernando Rego    ;8690896;169;-23.5453209;-46.311625
+Sao Paulo;Suzano;Cidade Miguel Badra (Gleba 02);Ernesto Asbeck    ;8692015;121;-23.4929587;-46.3195192
+Sao Paulo;Mogi das Cruzes;Centro;Capitao Mariano    ;8717050;144;-23.5284193;-46.192242
+Sao Paulo;Mogi das Cruzes;Jardim Camila;Luiz Joao Bourg   ;8720350;10;-23.5401886;-46.1810748
+Sao Paulo;Mogi das Cruzes;Alto Ipiranga;Joao Macedo    ;8737210;152;-23.5418639;-46.2020321
+Sao Paulo;Mogi das Cruzes;Braz Cubas;Alberto Bertalmio    ;8745130;154;-23.5407165;-46.2331156
+Sao Paulo;Mogi das Cruzes;Jardim Layr;Tingassu     ;8762470;294;-23.5656846;-46.2177258
+Sao Paulo;Mogi das Cruzes;Vila Industrial;Presidente Campos Salles   ;8770210;136;-23.5256506;-46.2005647
+Sao Paulo;Mogi das Cruzes;Arua;Girassol     ;8771321;262;-23.5455646;-46.1994638
+Sao Paulo;Mogi das Cruzes;Chacara Guanabara;Mato Grosso    ;8771600;260;-23.3573565;-46.1599996
+Sao Paulo;Mogi das Cruzes;Vila Mogilar;Antonia Veiga Ruiz   ;8773060;160;-23.5169417;-46.199076
+Sao Paulo;Mogi das Cruzes;Jardim Piata A;Candido Sales    ;8774150;247;-23.4633343;-46.282014
+Sao Paulo;Mogi das Cruzes;Parque Ponte Grande;Serra da Mantiqueira   ;8775070;180;-23.5091221;-46.2033336
+Sao Paulo;Mogi das Cruzes;Jardim Marica;Sebastiao Vasconcelos Filho   ;8775395;85;-23.5213131;-46.1858528
+Sao Paulo;Mogi das Cruzes;Jardim Sao Pedro;Joao Mello Reis   ;8830120;271;-23.5118554;-46.1350406
+Sao Paulo;Mogi das Cruzes;Vila Nova Aparecida;da Matriz    ;8830650;148;-23.5234449;-46.192024
+Sao Paulo;Mogi das Cruzes;Vila Nova Aparecida;Mirim     ;8830660;68;-23.5658656;-46.2177107
+Sao Paulo;Mogi das Cruzes;Cezar de Souza;Quatro     ;8832030;290;-23.548372;-46.1910509
+Sao Paulo;Santo Andre;Vila Floresta;Doutor Armando de Arruda Pereira ;9050070;180;-23.6697225;-46.5421305
+Sao Paulo;Santo Andre;Vila Guiomar;Santana     ;9071460;82;-21.180798;-50.4575349
+Sao Paulo;Santo Andre;Vila Guiomar;Paramirim     ;9071487;79;-23.6742228;-46.5436003
+Sao Paulo;Santo Andre;Vila Guiomar;3 de Marco   ;9090503;132;-23.6546848;-46.5407984
+Sao Paulo;Santo Andre;Vila Guiomar;6 de Junho   ;9090506;16;-23.655437;-46.5405054
+Sao Paulo;Santo Andre;Cidade Sao Jorge;Para     ;9111720;153;-23.6748126;-46.4835986
+Sao Paulo;Santo Andre;Vila Lutecia;Armando Sales de Oliveira  ;9130210;210;-23.6923994;-46.5045714
+Sao Paulo;Santo Andre;Jardim Club de Campo;Lilas     ;9160354;260;-23.7674747;-46.4637603
+Sao Paulo;Santo Andre;Jardim Cipreste;Aipe     ;9171834;59;-23.6557833;-46.5518491
+Sao Paulo;Santo Andre;Vila Linda;Angico     ;9175700;248;-23.6856862;-46.5174399
+Sao Paulo;Santo Andre;Vila Linda;Fausto     ;9175810;194;-23.6841825;-46.5207538
+Sao Paulo;Santo Andre;Jardim Stella;Guararema     ;9185700;221;-23.680043;-46.5385975
+Sao Paulo;Santo Andre;Vila Gilda;General Osorio    ;9190440;48;-23.6726827;-46.5391091
+Sao Paulo;Santo Andre;Paraiso;Senador Victorino Freire   ;9190720;136;-23.6742228;-46.5436003
+Sao Paulo;Santo Andre;Santa Terezinha;dos Estados    ;9210580;228;-23.6382188;-46.5341596
+Sao Paulo;Santo Andre;Vila Metalurgica;Helena     ;9220160;62;-23.584895;-46.5512795
+Sao Paulo;Santo Andre;Utinga;Lisboa     ;9230030;76;-23.6231893;-46.5344362
+Sao Paulo;Santo Andre;Vila Alto de Santo Andre;Jandaia     ;9240700;83;-23.6295703;-46.5223703
+Sao Paulo;Santo Andre;Jardim Utinga;Jonas Neto    ;9250355;33;-23.6742228;-46.5436003
+Sao Paulo;Santo Andre;Jardim Alzira Franco;Ilha Grande    ;9272386;266;-23.7641361;-46.4072085
+Sao Paulo;Santo Andre;Jardim Alzira Franco;Itaqui     ;9272434;82;-23.6742228;-46.5436003
+Sao Paulo;Maua;Jardim Zaira;Maria Messias dos Santos  ;9320771;45;-23.6574419;-46.4384484
+Sao Paulo;Maua;Jardim Zaira;Dona Emilia Scarparo   ;9321460;163;-23.6495296;-46.4452108
+Sao Paulo;Maua;Jardim Bela Vista;Victorio Chiarotti    ;9340350;180;-23.6707118;-46.4387216
+Sao Paulo;Maua;Jardim Paulista;Laercio Carlucci    ;9340550;58;-23.668163;-46.4617086
+Sao Paulo;Maua;Parque das Americas;Santiago     ;9350570;155;-23.6857529;-46.4465156
+Sao Paulo;Maua;Vila Mercedes;Arcelindo Benetti    ;9361174;137;-23.668163;-46.4617086
+Sao Paulo;Maua;Jardim Camila;Lontras     ;9361190;256;-23.6975224;-46.4579351
+Sao Paulo;Maua;Matriz;Sao Roque    ;9370210;51;-23.671893;-46.4611748
+Sao Paulo;Ribeirao Pires;Centro;Capitao Jose Gallo   ;9400080;249;-23.7041431;-46.4263631
+Sao Paulo;Ribeirao Pires;Centro;Miguel Prisco    ;9400110;250;-23.7087638;-46.4143104
+Sao Paulo;Ribeirao Pires;Centro;Jose Laurito    ;9401090;294;-23.7047781;-46.4121237
+Sao Paulo;Ribeirao Pires;Colonia;Russia     ;9402190;263;-23.6997527;-46.412855
+Sao Paulo;Ribeirao Pires;Colonia;Ernesto Molon    ;9405250;237;-23.6984394;-46.4005623
+Sao Paulo;Ribeirao Pires;Centro Alto;Ovidio Abrantes    ;9424150;58;-23.7157943;-46.4174125
+Sao Paulo;Ribeirao Pires;Pilar Velho;Servilio Lunardi    ;9432535;132;-23.7071623;-46.4062503
+Sao Paulo;Ribeirao Pires;Tanque Caio;Helena Del Corto   ;9436290;181;-23.6746412;-46.3763877
+Sao Paulo;Ribeirao Pires;Somma;Leticia     ;9445200;159;-23.7071623;-46.4062503
+Sao Paulo;Sao Caetano do Sul;Fundacao;Mariano Pamplona    ;9520440;49;-23.6028068;-46.5769338
+Sao Paulo;Sao Caetano do Sul;Ceramica;das Mangueiras    ;9530740;219;-23.6291873;-46.5714493
+Sao Paulo;Sao Caetano do Sul;Barcelona;Goias     ;9550051;31;-23.6168425;-46.5530813
+Sao Paulo;Sao Caetano do Sul;Boa Vista;Frederico Jose Furlanetto   ;9572110;275;-23.6422417;-46.5599003
+Sao Paulo;Sao Caetano do Sul;Maua;Jose Salustiano Santana   ;9580540;285;-23.6467734;-46.5704228
+Sao Paulo;Sao Bernardo do Campo;Rudge Ramos;Vinte e Quatro de Maio ;9625000;45;-23.6621913;-46.5671614
+Sao Paulo;Sao Bernardo do Campo;Rudge Ramos;Afonsina     ;9633000;26;-23.6540996;-46.566434
+Sao Paulo;Sao Bernardo do Campo;Taboao;Guilherme Tell    ;9663010;140;-23.6558461;-46.5981933
+Sao Paulo;Sao Bernardo do Campo;Vila Goncalves;Capitao-mor Antonio de Oliveira  ;9725110;152;-23.7122659;-46.5598726
+Sao Paulo;Sao Bernardo do Campo;Anchieta;Paulo Setubal    ;9732220;99;-23.6821458;-46.5640651
+Sao Paulo;Sao Bernardo do Campo;Anchieta;Olegario Herculano    ;9732570;13;-23.6824385;-46.5589915
+Sao Paulo;Sao Bernardo do Campo;Montanhao;Sapucaia     ;9765620;240;-23.712818;-46.6160844
+Sao Paulo;Sao Bernardo do Campo;Montanhao;Nobre     ;9772000;82;-23.7416401;-46.6868516
+Sao Paulo;Sao Bernardo do Campo;Ferrazopolis;Joaquim Jose Maia   ;9790450;262;-23.7338649;-46.5389944
+Sao Paulo;Sao Bernardo do Campo;Montanhao;Joao Antonio    ;9791255;112;-23.7206495;-46.5878506
+Sao Paulo;Sao Bernardo do Campo;Demarchi;Mateos Demarchi    ;9820270;47;-23.7395138;-46.5559593
+Sao Paulo;Sao Bernardo do Campo;Rio Grande;Emilia     ;9830220;258;-23.7803016;-46.5327259
+Sao Paulo;Sao Bernardo do Campo;Rio Grande;do Araca    ;9832080;25;-23.6898429;-46.5648481
+Sao Paulo;Sao Bernardo do Campo;Dos Casa;Jeronymo Moratti    ;9840450;191;-23.7378393;-46.5751013
+Sao Paulo;Sao Bernardo do Campo;Batistini;Cotegipe     ;9843230;177;-23.7777038;-46.5895257
+Sao Paulo;Sao Bernardo do Campo;Planalto;Padre Cicero    ;9890320;149;-23.6970766;-46.5703708
+Sao Paulo;Sao Bernardo do Campo;Jordanopolis;Bahia     ;9891570;23;-23.7162204;-46.5254364
+Sao Paulo;Sao Bernardo do Campo;Planalto;Cecilia Meireles    ;9896240;14;-23.7037952;-46.5675854
+Sao Paulo;Sao Bernardo do Campo;Planalto;Luiz Gonzaga    ;9896280;248;-23.7134754;-46.5266792
+Sao Paulo;Diadema;Centro;Antonio Pedrozelli    ;9910030;141;-23.6922017;-46.6318534
+Sao Paulo;Diadema;Taboao;Ararangua     ;9932150;170;-23.6642005;-46.6146854
+Sao Paulo;Diadema;Taboao;Cairo     ;9941050;259;-23.6818396;-46.620967
+Sao Paulo;Diadema;Vila Nogueira;Corpo e Alma   ;9952395;177;-23.6818396;-46.620967
+Sao Paulo;Diadema;Casa Grande;Sao Gaspar    ;9960503;255;-23.6846712;-46.5967712
+Sao Paulo;Diadema;Casa Grande;Sao Serafim    ;9962630;284;-23.70207;-46.5980451
+Sao Paulo;Diadema;Eldorado;Gilberto     ;9971370;79;-23.7242655;-46.6277068
+Sao Paulo;Diadema;Inamar;das Margaridas    ;9972425;26;-23.7203606;-46.6151554
+Sao Paulo;Diadema;Serraria;Antonio Bispo Jose dos Reis ;9980243;167;-23.6818396;-46.620967
+Sao Paulo;Diadema;Serraria;Antonio Braz de Figueiredo  ;9980791;15;-23.7053691;-46.6130445
+Sao Paulo;Diadema;Inamar;Marco Antonio    ;9981110;222;-23.713839;-46.6078121
+Sao Paulo;Diadema;Serraria;Mae Rainha    ;9990104;121;-23.6818396;-46.620967
+Sao Paulo;Santos;Centro;General Camara    ;11010120;144;-23.934495;-46.3244729
+Sao Paulo;Santos;Vila Nova;Henrique Dias    ;11013230;11;-23.9398281;-46.3180813
+Sao Paulo;Santos;Jabaquara;Professor Celso da Cunha Alves ;11013570;101;-23.9393696;-46.3353265
+Sao Paulo;Santos;Centro;Senador Feijo    ;11015501;197;-23.9376998;-46.3255184
+Sao Paulo;Santos;Boqueirao;Professor Torres Homem   ;11025020;129;-23.9651588;-46.314073
+Sao Paulo;Santos;Ponta da Praia;Almirante Moraes Rego   ;11030170;29;-23.9856706;-46.2961077
+Sao Paulo;Santos;Aparecida;Professor Alcides Luiz Alves  ;11040310;66;-23.9745448;-46.3075185
+Sao Paulo;Santos;Boqueirao;Avenida Conselheiro Nebias   ;11045901;36;-23.9604318;-46.3230834
+Sao Paulo;Santos;Gonzaga;Doutor Manoel Victorino   ;11060430;35;-23.9621321;-46.3357369
+Sao Paulo;Santos;Morro Sao Bento;B     ;11081420;255;-23.9532418;-46.3526467
+Sao Paulo;Santos;Chico de Paula;Julia Ferreira de Carvalho  ;11090050;148;-23.9341556;-46.3688319
+Sao Paulo;Santos;Alemoa;Eustachio Alves de Souza  ;11095550;56;-23.925734;-46.3725561
+Sao Paulo;Sao Vicente;Vila Margarida;Dois Mil Cento e Sessenta ;11330770;294;-23.9607656;-46.3960797
+Sao Paulo;Sao Vicente;Esplanada dos Barreiros;Pedro Alves    ;11340370;95;-23.9528331;-46.4148274
+Sao Paulo;Sao Vicente;Jardim Irma Dolores;Ribeirao Preto    ;11347710;10;-23.9780958;-46.4539743
+Sao Paulo;Sao Vicente;Parque Continental;Jose Viegas    ;11348390;79;-23.6558275;-46.467885
+Sao Paulo;Sao Vicente;Parque Sao Vicente;Galeao Coutinho    ;11365000;105;-23.9469015;-46.39376
+Sao Paulo;Sao Vicente;Vila Valenca;Nossa Senhora das Gracas  ;11390080;263;-23.9649937;-46.3761952
+Sao Paulo;Sao Vicente;Catiapoa;Mecanizada Nove Mil Novecentos e ;11390590;268;-23.9607656;-46.3960797
+Sao Paulo;Guaruja;Acapulco;Romao Fidalgo Salgado Neto  ;11445450;113;-23.948121;-46.1875214
+Sao Paulo;Guaruja;Sitio Paecara (Vicente de Carvalho);Jaragua     ;11461540;21;-23.6529964;-46.5402057
+Sao Paulo;Cubatao;Jardim Sao Francisco;Raul Picado    ;11500170;292;-23.8830953;-46.4160641
+Sao Paulo;Cubatao;Vila Sao Jose;Pastor Jaconias Leite da Silva ;11523150;44;-23.9099561;-46.4233332
+Sao Paulo;Cubatao;Vila Caraguata;Jose Cascardi    ;11535080;96;-23.9336592;-46.4304138
+Sao Paulo;Cubatao;Vale Verde;Pedro Alvares Cabral   ;11542090;236;-22.4356977;-46.8353103
+Sao Paulo;Cubatao;Jardim das Industrias;Engenheiro Plinio de Queiroz  ;11570000;281;-23.8438375;-46.3778349
+Sao Paulo;Caraguatatuba;Sumare;Monsenhor Ascanio Brandao   ;11661210;64;-23.6217677;-45.3970857
+Sao Paulo;Caraguatatuba;Indaia;Manoel Calixto de Souza  ;11665555;161;-23.6354842;-45.4296259
+Sao Paulo;Caraguatatuba;Praia das Palmeiras;Joao Ribeiro    ;11666490;146;-23.669897;-45.4335941
+Sao Paulo;Caraguatatuba;Jardim Porto Novo;Josefina Galiano Nobre   ;11667370;65;-23.6255903;-45.4241453
+Sao Paulo;Caraguatatuba;Travessao;Adalia     ;11669350;18;-23.7017226;-45.4436774
+Sao Paulo;Caraguatatuba;Morro do Algodao;Sao Miguel    ;11671230;283;-23.6743015;-45.4510678
+Sao Paulo;Caraguatatuba;Rio do Ouro;Jorge Alvares Maciel   ;11675615;96;-23.6255903;-45.4241453
+Sao Paulo;Caraguatatuba;Rio do Ouro;D     ;11675642;277;-23.5918201;-45.3411144
+Sao Paulo;Caraguatatuba;Recanto Som do Mar;Recanto Som do Mar  ;11676248;186;-23.6081604;-45.3501563
+Sao Paulo;Caraguatatuba;Portal da Fazendinha;Dom Antonio Luiz de Souza ;11676330;20;-23.5946483;-45.3446385
+Sao Paulo;Caraguatatuba;Capricornio I;Pegasso     ;11676535;236;-23.6107734;-45.3522916
+Sao Paulo;Caraguatatuba;Capricornio III;Jose Garcia da Fonseca  ;11676691;126;-23.6255903;-45.4241453
+Sao Paulo;Caraguatatuba;Capriconio III;Dez     ;11676706;47;-23.6975874;-45.4356952
+Sao Paulo;Caraguatatuba;Massaguacu;E     ;11677532;225;-23.5913494;-45.3435724
+Sao Paulo;Caraguatatuba;Jardim Adalgisa;Paraguai     ;11677560;65;-23.5759632;-45.3165705
+Sao Paulo;Praia Grande;Canto do Forte;Presidente Castelo Branco   ;11700805;198;-24.0134636;-46.4181577
+Sao Paulo;Praia Grande;Ocian;Nilza Ferreira Genario   ;11704250;25;-24.0224362;-46.4795249
+Sao Paulo;Praia Grande;Solemar;Assis Valente    ;11709100;44;-24.0761639;-46.584297
+Sao Paulo;Praia Grande;Cidade da Crianca;Projetada E    ;11710320;90;-23.9752324;-46.3995607
+Sao Paulo;Praia Grande;Vila Sonia;Antonio Rodrigues dos Reis  ;11722100;273;-24.0025029;-46.4478221
+Sao Paulo;Praia Grande;Gloria;D     ;11724250;168;-24.0074833;-46.4379016
+Sao Paulo;Taubate;Parque Senhor do Bonfim;Itapoa     ;12040630;219;-23.031655;-45.5990386
+Sao Paulo;Taubate;Vila Iapi;Campos de Jordao   ;12060060;274;-23.0204539;-45.5618542
+Sao Paulo;Taubate;Parque Santo Antonio;Jose Vicente de Barros  ;12061000;215;-23.0051329;-45.5553195
+Sao Paulo;Taubate;Parque Sao Luis;Waldomiro Berbare    ;12061440;60;-23.0002202;-45.5599891
+Sao Paulo;Taubate;Conjunto Residencial Sao Francisco;Professor Emilio Simonetti   ;12080221;55;-23.0204559;-45.5563555
+Sao Paulo;Taubate;Campos Eliseos;das Azaleas    ;12090240;278;-23.0382508;-45.5537221
+Sao Paulo;Taubate;Loteamento Chacaras Ingrid;Tucano     ;12093742;130;-23.0204559;-45.5563555
+Sao Paulo;Taubate;Jardim Marlene Miranda;Jose Beatriz    ;12095200;191;-23.0745948;-45.5409
+Sao Paulo;Sao Jose dos Campos;Vila Maria;Rio de Janeiro   ;12209270;43;-23.1756113;-45.8794455
+Sao Paulo;Sao Jose dos Campos;Cidade Vista Verde;Nair de Souza Camargo Oliveira ;12223105;156;-23.1837757;-45.8372564
+Sao Paulo;Sao Jose dos Campos;Jardim das Cerejeiras;Vinte e Nove de Junho ;12225520;300;-23.1939223;-45.7895737
+Sao Paulo;Sao Jose dos Campos;Campos de Sao Jose;Terceiro-Sargento-Policia Militar Alexandre de Souza ;12226370;55;-23.223701;-45.9009074
+Sao Paulo;Sao Jose dos Campos;Residencial Interlagos;Landulfo Caetano dos Santos  ;12229072;126;-23.2745216;-45.8610122
+Sao Paulo;Sao Jose dos Campos;Jardim Satelite;Porto Novo    ;12230060;192;-23.2233663;-45.8847876
+Sao Paulo;Sao Jose dos Campos;Floradas de Sao Jose;Paulo da Silva Santos  ;12230091;297;-23.2192813;-45.886757
+Sao Paulo;Sao Jose dos Campos;Jardim Satelite;Carina     ;12230440;294;-23.2256298;-45.8863737
+Sao Paulo;Sao Jose dos Campos;Jardim Satelite;Cotegipe     ;12230551;53;-23.2264705;-45.8913739
+Sao Paulo;Sao Jose dos Campos;Vila Sao Bento;Paranapanema     ;12231510;212;-23.2220122;-45.8776908
+Sao Paulo;Sao Jose dos Campos;Conjunto Residencial Dom Pedro I;Antonio Joaquim de Alvarenga Filho ;12232570;138;-23.2769486;-45.8917071
+Sao Paulo;Sao Jose dos Campos;Bosque dos Eucaliptos;das Bandeiras    ;12233003;103;-23.2480495;-45.8848678
+Sao Paulo;Sao Jose dos Campos;Jardim Imperial;Roberto Baranov    ;12234190;295;-23.2813102;-45.9000219
+Sao Paulo;Sao Jose dos Campos;Parque Industrial;Alenquer     ;12235800;123;-23.2504328;-45.9129692
+Sao Paulo;Sao Jose dos Campos;Jardim Terras do Sul;Doutor Octavio Monteiro Becker  ;12236066;240;-23.2466194;-45.8937671
+Sao Paulo;Sao Jose dos Campos;Loteamento Conjunto Morada do Sol II;Raimundo Batista Conceicao   ;12237591;77;-23.2532344;-45.916486
+Sao Paulo;Sao Jose dos Campos;Chacaras Reunidas;Buzios     ;12238370;123;-23.2467145;-45.927321
+Sao Paulo;Sao Jose dos Campos;Jardim Apolo I;Ubatuba     ;12243130;144;-23.2015359;-45.9005061
+Sao Paulo;Sao Jose dos Campos;Urbanova;Arnaldo Pinto Pereira   ;12244310;106;-23.1996146;-45.9376933
+Sao Paulo;Sao Jose dos Campos;Urbanova;Ub-31     ;12244511;19;-23.2000392;-45.9591891
+Sao Paulo;Sao Jose dos Campos;Jardim Sao Dimas;Rua Euclides Miragaia   ;12245902;271;-23.1918876;-45.8884464
+Sao Paulo;Sao Jose dos Campos;Jardim Santa Ines II;dos Cirurgioes Dentistas   ;12248515;13;-23.1685092;-45.8051877
+Sao Paulo;Cacapava;Residencial Esperanca;Durvalina Costa da Silva  ;12285405;54;-23.1268595;-45.7204152
+Sao Paulo;Cacapava;Jardim Cacapava;Bolivia     ;12286020;212;-23.10921;-45.7197874
+Sao Paulo;Cacapava;Vila Galvao;Professora Zelia de Souza Madureira ;12286210;222;-23.1173284;-45.720535
+Sao Paulo;Cacapava;Loteamento Real Park;Cantidio Victor    ;12289400;227;-23.0996965;-45.7080824
+Sao Paulo;Cacapava;Guamirim;Ciro de Andrade   ;12295232;147;-23.0996965;-45.7080824
+Sao Paulo;Jacarei;Loteamento Villa Branca;Walter Durst    ;12301611;124;-23.2651229;-45.9454636
+Sao Paulo;Jacarei;Loteamento Villa Branca;Maria Martins    ;12301635;26;-23.2617932;-45.9462169
+Sao Paulo;Jacarei;Parque Itamarati;Veneza     ;12307310;189;-23.2955883;-45.9548584
+Sao Paulo;Jacarei;Parque Itamarati;Montese     ;12307380;189;-23.2965387;-45.9554362
+Sao Paulo;Jacarei;Vila Aprazivel;da Penha    ;12307700;298;-23.3033843;-45.9557179
+Sao Paulo;Jacarei;Cidade Salvador;Euripedes Barsanulfo    ;12312370;213;-23.2988194;-45.9249807
+Sao Paulo;Jacarei;Jardim Emilia;Rodovia Presidente Dutra s/n  ;12321902;243;-23.2987827;-45.9662542
+Sao Paulo;Jacarei;Rio Abaixo;Luciana de Souza Magalhaes  ;12334441;22;-23.2599445;-45.9574219
+Sao Paulo;Jacarei;Jardim Conquista;Benedito Garboci    ;12335506;18;-23.310112;-46.087315
+Sao Paulo;Jacarei;Parque Residencial Jequitiba;Tres     ;12340601;219;-22.9240706;-45.4633141
+Sao Paulo;Pindamonhangaba;Centro;Doutor Francisco Romeiro   ;12400210;126;-22.9251224;-45.4616987
+Sao Paulo;Pindamonhangaba;Vila Suica;Irene Prado de Jesus  ;12405100;244;-22.9336355;-45.4495733
+Sao Paulo;Pindamonhangaba;Jardim Santa Luzia;Jose Emiliano dos Santos  ;12411180;295;-22.9251224;-45.4616987
+Sao Paulo;Pindamonhangaba;Alto do Piracuama;Jose Estevam de Amorim  ;12423780;60;-22.9251224;-45.4616987
+Sao Paulo;Pindamonhangaba;Jardim Regina (Moreira Cesar);Orondina Sathler Rodrigues   ;12442440;113;-22.8454891;-45.1985616
+Sao Paulo;Guaratingueta;Jardim Tamandare;Tamandare     ;12503710;160;-22.7945666;-45.1473414
+Sao Paulo;Guaratingueta;Rocinha;Municipal     ;12503780;86;-22.81432;-45.2004021
+Sao Paulo;Guaratingueta;Campo do Galvao;Benedito Paula dos Santos  ;12505220;152;-22.8080266;-45.1942201
+Sao Paulo;Guaratingueta;Parque das Garcas;Izabel Costa dos Santos  ;12508380;157;-22.775433;-45.2492658
+Sao Paulo;Guaratingueta;Bosque dos Ipes;Deputado Roberto Cardoso Alves  ;12510510;162;-22.8053102;-45.2061712
+Sao Paulo;Guaratingueta;Vila Comendador Rodrigues Alves;Expedicionario Benedito Patricio   ;12511040;209;-22.8080266;-45.1942201
+Sao Paulo;Guaratingueta;Pedregulho;Maria das Dores Goncalves  ;12515090;58;-22.8080266;-45.1942201
+Sao Paulo;Guaratingueta;Parque Residencial Anna Guilhermina Rois Alves;Doutor Antonio Andrade Costa  ;12517130;261;-22.7861359;-45.1788249
+Sao Paulo;Guaratingueta;Jardim Esperanca;Jair dos Santos   ;12518290;286;-22.7365627;-45.1232971
+Sao Paulo;Lorena;Centro;Sao Jose    ;12600560;169;-22.7174539;-45.1201226
+Sao Paulo;Lorena;Nova Lorena;Severino Fittipaldi    ;12602320;149;-22.7453304;-45.1074137
+Sao Paulo;Lorena;Cruz;Goncalves Dias    ;12606450;208;-22.7338724;-45.1201112
+Sao Paulo;Lorena;Parque Mondesir;Eunice Bastos Galvao   ;12609110;283;-22.7338724;-45.1201112
+Sao Paulo;Lorena;Vila dos Comerciarios I;Domingos S. Gilio Lopes  ;12610160;141;-22.7579082;-45.129824
+Sao Paulo;Lorena;Cecap;Milton C de Medeiros  ;12610205;46;-22.573256;-44.9693894
+Sao Paulo;Cruzeiro;Jardim America;Carlos Corsi Guazelli   ;12702065;140;-22.5624841;-44.960417
+Sao Paulo;Cruzeiro;Retiro da Mantiqueira;Plinio Moreira    ;12712060;116;-22.5670966;-44.9423237
+Sao Paulo;Cruzeiro;Vila Doutor Joao Batista (Parte Baixa);Cavalheiro Euclides    ;12720630;265;-22.559558;-44.9481799
+Sao Paulo;Cruzeiro;Loteamento Residencial Vista Verde;Doutor Geraldo Cosme de Menezes ;12721628;142;-22.9602449;-46.5425508
+Sao Paulo;Braganca Paulista;Centro;Dom Aguirre    ;12900430;279;-22.9446241;-46.556474
+Sao Paulo;Braganca Paulista;Jardins;Canada     ;12903391;129;-22.9531705;-46.5423239
+Sao Paulo;Braganca Paulista;Nucleo Habitacional Padre Aldo Bolini;Voluntario Juvenal Vasconcelos   ;12908411;282;-22.9531705;-46.5423239
+Sao Paulo;Braganca Paulista;Nucleo Habitacional Padre Aldo Bolini;Djanira Brandi Bertolotti   ;12908420;275;-22.9531705;-46.5423239
+Sao Paulo;Braganca Paulista;Vila Municipal;Celina     ;12912040;209;-22.9606452;-46.5253802
+Sao Paulo;Braganca Paulista;Residencial das Ilhas;Antilhas     ;12913022;92;-22.958338;-46.5301999
+Sao Paulo;Braganca Paulista;Jardim Santa Rita de Cassia;Castro Alves    ;12914300;252;-22.9531705;-46.5423239
+Sao Paulo;Braganca Paulista;Jardim Sao Jose;Justina Chiovatto    ;12916180;199;-22.9531705;-46.5423239
+Sao Paulo;Braganca Paulista;Condominio Residencial e Comercial Fazenda Santa P;Aurora     ;12916397;84;-22.9637251;-46.7140604
+Sao Paulo;Braganca Paulista;Parque Residencial Rosa do Sul;Marginal Um    ;12918142;130;-22.993714;-46.5286556
+Sao Paulo;Braganca Paulista;Condominio Terras de Santa Cruz;dos Jacarandas    ;12918223;159;-22.9305199;-46.5649208
+Sao Paulo;Braganca Paulista;Chacaras Luzia Vicente;Nove     ;12926332;61;-23.1153763;-46.5579821
+Sao Paulo;Atibaia;Centro;Major Juvenal Alvim   ;12940060;54;-23.1175492;-46.5567066
+Sao Paulo;Atibaia;Vila Salles;Nagib Salles    ;12940304;159;-23.1183209;-46.5658387
+Sao Paulo;Atibaia;Alvinopolis;Joao Serbino    ;12942500;68;-23.1151231;-46.5573954
+Sao Paulo;Atibaia;Jardim Alvinopolis;Santa Rosa    ;12943050;87;-23.1325132;-46.5671167
+Sao Paulo;Atibaia;Jardim Alvinopolis;Alcebiades Chicaroni    ;12943380;229;-23.1082283;-46.5568465
+Sao Paulo;Atibaia;Jardim Roseli;Antonio Puga Archilla   ;12944310;100;-23.1175492;-46.5567066
+Sao Paulo;Atibaia;Loteamento Loanda;Geralda Alves Macedo   ;12945120;192;-23.1466425;-46.5479468
+Sao Paulo;Atibaia;Retiro das Fontes;dos Filodendros    ;12946715;190;-23.1328047;-46.5597212
+Sao Paulo;Atibaia;Jardim do Lago;Ministro Doutor Jose Geraldo Rodrigues ;12947262;169;-23.1720947;-46.6294288
+Sao Paulo;Atibaia;Jardim Estancia Brasil;Tres     ;12949100;138;-23.1112052;-46.5411534
+Sao Paulo;Atibaia;Jardim Sueli;E     ;12952481;133;-23.0836096;-46.5600065
+Sao Paulo;Atibaia;Atibaia Belvedere;da Torre    ;12954414;78;-23.1470226;-46.5472262
+Sao Paulo;Atibaia;Condominio Residencial Reserva Ecologica Atibaia;dos Manacas    ;12954739;285;-22.8972753;-47.0488766
+Sao Paulo;Campinas;Cambui;Antonio Lapa    ;13025240;140;-22.9414767;-47.1476959
+Sao Paulo;Campinas;Vila Teixeira;John Boyd Dunlop   ;13032377;93;-22.9246896;-47.0624496
+Sao Paulo;Campinas;Jardim Leonor;Santa Rosa do Viterbo  ;13041260;187;-22.7597086;-47.058953
+Sao Paulo;Campinas;Chacaras Sao Martinho;Municipal     ;13042846;233;-22.9410458;-47.0414193
+Sao Paulo;Campinas;Jardim dos Oliveiras;Agnaldo Macedo    ;13044000;263;-22.9099384;-47.0626332
+Sao Paulo;Campinas;Nucleo Residencial Bairro da Vitoria;da Libertacao    ;13044784;53;-22.9437524;-47.0824613
+Sao Paulo;Campinas;Jardim Monte Cristo/Parque Oziel;Joao Barbosa    ;13049038;269;-22.9355174;-47.0798067
+Sao Paulo;Campinas;Jardim Monte Cristo/Parque Oziel;Adao Soares da Silva  ;13049127;293;-22.9667178;-47.0712997
+Sao Paulo;Campinas;Swiss Park;Odilla Longo Fiquetti   ;13049380;96;-22.9744965;-47.0669756
+Sao Paulo;Campinas;Swiss Park;Geraldo Vicente    ;13049429;265;-22.926735;-47.0826167
+Sao Paulo;Campinas;Jardim do Lago;das Amoreiras    ;13050035;132;-22.946289;-47.0915258
+Sao Paulo;Campinas;Jardim das Bandeiras;dos Manacas    ;13050078;255;-22.9241938;-47.0886035
+Sao Paulo;Campinas;Cidade Jardim;Gastao Rocha Leao   ;13050400;291;-22.9486556;-47.1078503
+Sao Paulo;Campinas;Jardim Novo Campos Eliseos;Andre de Souza Campos  ;13050730;124;-22.9485349;-47.0899545
+Sao Paulo;Campinas;Jardim das Bandeiras;Sebastiao Ananias Nogueira   ;13051101;162;-22.9845069;-47.0974104
+Sao Paulo;Campinas;Jardim Nova Mercedes;Maria Jose Simoes Aguiar  ;13052510;201;-23.0309231;-47.1040678
+Sao Paulo;Campinas;Vila Palmeiras I;Maria Cristina de Lima Tavares ;13053243;15;-23.0404409;-47.1018142
+Sao Paulo;Campinas;Jardim Sao Domingos;Iracema Santos de Oliveira  ;13053310;98;-22.9804979;-47.1255462
+Sao Paulo;Campinas;Dic V (Conjunto Habitacional Chico Mendes);Abigail Zeni Nader   ;13054500;287;-22.9099384;-47.0626332
+Sao Paulo;Campinas;Jardim Planalto de Viracopos;Virgilina D. M. Santos  ;13056002;243;-22.8482004;-47.1627193
+Sao Paulo;Campinas;Vila Tancredo Neves;A     ;13056193;24;-22.9891937;-47.1523356
+Sao Paulo;Campinas;Jardim Adhemar de Barros;Rodney Ricci    ;13056227;241;-23.0349487;-47.126484
+Sao Paulo;Campinas;Loteamento Residencial Rosario;Oito     ;13057179;201;-22.9139296;-47.2371363
+Sao Paulo;Campinas;Conjunto Habitacional Vida Nova;Vinte e Cinco   ;13057526;48;-22.9621431;-47.1947387
+Sao Paulo;Campinas;Conjunto Habitacional Parque Itajai;Celso Soares Couto   ;13058050;291;-22.9674596;-47.1981612
+Sao Paulo;Campinas;Conjunto Residencial Parque Sao Bento;Carlos Fiolo    ;13058149;294;-22.8639968;-47.1395953
+Sao Paulo;Campinas;Jardim Bassoli;Nove     ;13058169;136;-22.9502336;-47.1737083
+Sao Paulo;Campinas;Loteamento Residencial Novo Mundo;Romeu Micheloni    ;13058303;198;-22.9099384;-47.0626332
+Sao Paulo;Campinas;Chacaras Recanto da Colina Verde;Jose de Toledo Neto  ;13058838;290;-22.9853959;-47.1166888
+Sao Paulo;Campinas;Jardim Uruguai;Treze     ;13059853;259;-22.9296871;-47.1059223
+Sao Paulo;Campinas;Jardim Campos Eliseos;Uniao     ;13060052;91;-22.9099384;-47.0626332
+Sao Paulo;Campinas;Jardim Nova Morada;Famosa     ;13060272;82;-22.9442691;-47.1191415
+Sao Paulo;Campinas;Parque Residencial Vila Uniao;Roza Morganti Bueno   ;13060755;298;-22.9099384;-47.0626332
+Sao Paulo;Campinas;Vila Castelo Branco;Augusta Parreira Belintani   ;13061253;27;-;-
+Sao Paulo;Campinas;Parque Santa Barbara;Joaquim Tarcisio Gallace Zambon  ;13064400;48;-22.89816;-47.1541648
+Sao Paulo;Campinas;Parque Fazendinha;Colomba Lorencetti Lunardi   ;13064730;163;-22.9099384;-47.0626332
+Sao Paulo;Campinas;Conjunto Habitacional Padre Anchieta;Papa Santo Estevao   ;13068233;260;-22.8660926;-47.1561603
+Sao Paulo;Campinas;Conjunto Habitacional Padre Anchieta;Sao Judas Tadeu   ;13068265;111;-22.8607731;-47.1499987
+Sao Paulo;Campinas;Conjunto Habitacional Padre Anchieta;Dom Eugenio de Araujo Sales ;13068305;264;-22.8853157;-47.0821077
+Sao Paulo;Campinas;Jardim Chapadao;Sampaio Vidal    ;13070090;261;-22.8921751;-47.0815889
+Sao Paulo;Campinas;Jardim Chapadao;Noel Rosa    ;13070109;19;-22.8954363;-47.081828
+Sao Paulo;Campinas;Jardim Chapadao;Erasmo Braga    ;13070147;99;-22.8806601;-47.0724439
+Sao Paulo;Campinas;Vila Nova;Fernando Martini    ;13073060;131;-22.8778952;-47.0642805
+Sao Paulo;Campinas;Jardim Nossa Senhora Auxiliadora;Doutor Sebastiao Otranto   ;13075620;163;-22.8254335;-47.0971177
+Sao Paulo;Campinas;Chacara de Recreio Barao;Tenente-Coronel Waldomiro Vasconcellos Ferreira  ;13082730;148;-22.7837052;-47.0446025
+Sao Paulo;Campinas;Bosque das Palmeiras;Sylvio Moreira    ;13086708;234;-22.9099384;-47.0626332
+Sao Paulo;Campinas;Parque Rural Fazenda Santa Candida;Alcides Fernandes Carvalho   ;13087551;199;-22.8424642;-47.0429364
+Sao Paulo;Campinas;Parque Rural Fazenda Santa Candida;Jose Francisco Barbosa   ;13087553;91;-22.8609771;-47.0339342
+Sao Paulo;Campinas;Parque Sao Quirino;Maria Luisa Furlani Melchert  ;13088135;218;-22.9099384;-47.0626332
+Sao Paulo;Campinas;Jardim Bom Retiro;Bernardino Carvalho Grade   ;13092450;72;-22.9099384;-47.0626332
+Sao Paulo;Campinas;Loteamento Parque dos Alecrins;Francisco Irineo Rosa   ;13098575;146;-22.9099384;-47.0626332
+Sao Paulo;Campinas;Recanto dos Dourados;Delacir Toffoli    ;13098765;18;-22.9099384;-47.0626332
+Sao Paulo;Campinas;Bananal;Sonia Barreto Tupynamba Freire  ;13099008;69;-22.856822;-46.9758794
+Sao Paulo;Campinas;Loteamento Caminhos de Sao Conrado (Sousas);do Passeio    ;13104144;20;-22.8796057;-46.9645642
+Sao Paulo;Campinas;Sousas;Rua Siqueira Campos   ;13106970;191;-22.8742667;-46.9602432
+Sao Paulo;Campinas;Jardim Sorirama (Sousas);Ayres Pereira    ;13107118;230;-22.7744121;-47.1712217
+Sao Paulo;Paulinia;Vila Monte Alegre;Magdalena Kubiac Leoni   ;13142486;100;-22.7256196;-47.1767953
+Sao Paulo;Paulinia;Joao Aranha;Edimeia Pereira Bernardo   ;13145787;202;-22.7787453;-47.170212
+Sao Paulo;Paulinia;Boa Esperanca;Angelina Vicentim Beraldo   ;13148066;257;-22.8209029;-47.2732726
+Sao Paulo;Sumare;Jardim Paulistano;Bealina Raposeiro Carvalho   ;13174590;124;-22.8067898;-47.1943663
+Sao Paulo;Sumare;Parque Dante Marmirolli;Sete     ;13176306;64;-22.8209029;-47.2732726
+Sao Paulo;Sumare;Parque Florenca;Izaltine Orlandine Terra   ;13177452;243;-22.8210689;-47.1669
+Sao Paulo;Sumare;Jardim Viel;Tres     ;13178322;268;-22.8165229;-47.167802
+Sao Paulo;Sumare;Jardim Amelia;Cinco     ;13178654;226;-22.8209029;-47.2732726
+Sao Paulo;Sumare;Residencial Parque Pavan;Eduardo Hoffmann    ;13179418;125;-22.8182896;-47.2651429
+Sao Paulo;Sumare;Jardim das Oliveiras (Nova Veneza);Tres     ;13180171;85;-22.8070557;-47.1938096
+Sao Paulo;Sumare;Jardim Santa Terezinha (Nova Veneza);Oito     ;13180261;288;-22.8052185;-47.1927191
+Sao Paulo;Sumare;Jardim Ipiranga (Nova Veneza);Dezoito     ;13181125;124;-22.8489551;-47.1895113
+Sao Paulo;Sumare;Jardim Bom Retiro (Nova Veneza);Manoel Vitor Diniz   ;13181660;249;-22.8570182;-47.2148109
+Sao Paulo;Hortolandia;Vila Real Continuacao;Rosa Pinelli Gomes   ;13183218;270;-22.8753799;-47.2140783
+Sao Paulo;Hortolandia;Loteamento Recanto do Sol;Oito     ;13183412;184;-22.8533412;-47.2147082
+Sao Paulo;Hortolandia;Jardim Nossa Senhora Auxiliadora;Atevio Alves de Souza  ;13183554;293;-22.8539733;-47.1997063
+Sao Paulo;Hortolandia;Parque Terras de Santa Maria;Vinte e Cinco   ;13183855;200;-23.1945;-46.876
+Sao Paulo;Hortolandia;Residencial Jardim do Jatoba;Laranjeira     ;13184066;98;-22.8533412;-47.2147082
+Sao Paulo;Hortolandia;Jardim Carmen Cristina;Adelino Crispiliano    ;13184695;128;-22.8529385;-47.1995524
+Sao Paulo;Hortolandia;Jardim Santa Emilia;Quatorze     ;13185022;210;-22.8979459;-47.1752605
+Sao Paulo;Hortolandia;Jardim Santa Izabel;Orlando Pavan    ;13185213;59;-22.8533412;-47.2147082
+Sao Paulo;Hortolandia;Jardim Green Park Residence;Maria Dirce Muller   ;13186690;94;-22.9099755;-47.2065107
+Sao Paulo;Hortolandia;Jardim Boa Vista;Amor Perfeito    ;13187051;155;-23.2531965;-46.8568727
+Sao Paulo;Jundiai;Jardim Santa Gertrudes;Joao Buscato    ;13205180;268;-23.2165737;-46.8808927
+Sao Paulo;Jundiai;Vila Salermo;Santa Ines    ;13206510;26;-23.1857076;-46.8978057
+Sao Paulo;Jundiai;Bela Vista;Washington Luiz Pereira de Souza ;13207749;280;-23.1707099;-46.7993801
+Sao Paulo;Jundiai;Parque Morangaba;Dois     ;13210888;260;-23.1784904;-46.9207952
+Sao Paulo;Jundiai;Vila Nova Esperia;Amelia Latorre    ;13211000;176;-23.1894076;-46.9186321
+Sao Paulo;Jundiai;Retiro;Ismael Antunes de Freitas  ;13211644;256;-23.2026446;-47.0107144
+Sao Paulo;Jundiai;Portal do Medeiros;Passaro Preto    ;13212824;28;-23.1857076;-46.8978057
+Sao Paulo;Jundiai;Jardim das Tulipas;Maria Luiza Gaspari Muller  ;13213131;178;-23.1449485;-46.9631115
+Sao Paulo;Jundiai;Rio Abaixo;Jose Pellizzari    ;13213210;145;-23.1857076;-46.8978057
+Sao Paulo;Jundiai;Ponte de Sao Joao;Benedito Rigolo    ;13218033;68;-23.1855526;-46.859285
+Sao Paulo;Jundiai;Jardim Pacaembu;Yolanda Ferreira Breda   ;13218300;61;-23.1452559;-46.9288488
+Sao Paulo;Jundiai;Vila Sao Joao Batista;Jose Demarchi    ;13218380;297;-23.1810825;-46.8696332
+Sao Paulo;Jundiai;Vila Aparecida;Sao Benedito    ;13218430;100;-23.1908196;-46.8494613
+Sao Paulo;Jundiai;Jardim Tamoio;Santa Teresa D'Avila   ;13219281;113;-23.2116378;-46.8460402
+Sao Paulo;Varzea Paulista;Vila Santa Terezinha;Maria Ines    ;13220070;237;-23.2122785;-46.8374312
+Sao Paulo;Varzea Paulista;Jardim Sao Goncalo;Professor Joaquim Candelario de Freitas ;13220330;49;-23.191681;-46.8350021
+Sao Paulo;Varzea Paulista;Cidade Nova II;Joao de Barro   ;13221591;192;-23.1907878;-46.8179698
+Sao Paulo;Varzea Paulista;Jardim America;Borda da Mata   ;13222281;54;-24.458262;-46.542221
+Sao Paulo;Varzea Paulista;Residencial Laguna;F     ;13223336;201;-23.2140719;-46.8238911
+Sao Paulo;Varzea Paulista;Jardim Paraiso;Amparo Domingos de Andrade  ;13224105;218;-23.2219998;-46.8452473
+Sao Paulo;Varzea Paulista;Vila Marajo;Arua     ;13225572;138;-23.2014326;-46.793027
+Sao Paulo;Campo Limpo Paulista;Jardim Europa;Avenida Alfried Krupp   ;13231900;171;-23.2046398;-46.7663208
+Sao Paulo;Campo Limpo Paulista;Jardim Marcheti;Diamante     ;13232445;69;-23.2089055;-46.7970988
+Sao Paulo;Campo Limpo Paulista;Jardim Guanciale;Afonso Pena    ;13236060;11;-23.2108373;-46.7978028
+Sao Paulo;Campo Limpo Paulista;Jardim Santa Lucia;Pintassilgo     ;13236221;73;-23.0039859;-46.8467996
+Sao Paulo;Itatiba;Vila Penteado;Celso Pupo    ;13251280;29;-23.0144718;-46.8426326
+Sao Paulo;Itatiba;Bairro da Ponte;Nossa Senhora do Carmo  ;13251709;38;-23.0039859;-46.8467996
+Sao Paulo;Itatiba;Clube de Campo Fazenda;Bacuri     ;13252638;130;-23.006223;-46.8214157
+Sao Paulo;Itatiba;Jardim Mexico;Luiz Rossi    ;13253413;193;-23.0116118;-46.8433095
+Sao Paulo;Itatiba;Jardim de Lucca;Luiz Scavone    ;13255290;193;-23.0127467;-46.8515318
+Sao Paulo;Itatiba;Nova Itatiba;Maria Alice Consoline   ;13256140;223;-23.0039859;-46.8467996
+Sao Paulo;Itatiba;Nucleo Habitacional Prefeito Erasmo Chrispim;Magdalena Benedetti Giaretta   ;13256753;58;-23.0093264;-46.8619388
+Sao Paulo;Itatiba;Vila Brasileira;Avenida Campinas    ;13256970;47;-22.9869961;-46.8468882
+Sao Paulo;Itatiba;Jardim Virginia;Jose Fumachi    ;13257450;138;-23.0039859;-46.8467996
+Sao Paulo;Itatiba;Recanto dos Passaros;Diogo Sanches Fernandes   ;13257851;61;-22.9907146;-46.8271868
+Sao Paulo;Itatiba;Loteamento Caminhos do Sol;Osilvio Rosa    ;13257875;233;-22.9510173;-46.9909855
+Sao Paulo;Valinhos;Vila Capuava;Gildo Tordin    ;13273157;91;-22.9717642;-46.9877
+Sao Paulo;Valinhos;Jardim Santa Rosa;Domingos Tordin    ;13275095;251;-22.9406062;-46.9971151
+Sao Paulo;Valinhos;Jardim Nova Palmares II;Quinze     ;13275728;209;-22.9802091;-46.9997309
+Sao Paulo;Valinhos;Vila Olivo;Independencia     ;13276030;133;-22.9702933;-46.9978148
+Sao Paulo;Valinhos;Vale Verde;Luiz Lazaretti    ;13279010;13;-23.2569254;-47.2901342
+Sao Paulo;Itu;Liberdade;da Convencao    ;13301101;211;-23.2548858;-47.2931392
+Sao Paulo;Itu;Brasil;Para     ;13301454;39;-23.2931788;-47.3134442
+Sao Paulo;Itu;Jardim Aeroporto I;Fernando Dias Ferraz   ;13304631;209;-23.2548858;-47.2931392
+Sao Paulo;Itu;Cidade Nova II;Y     ;13308262;19;-23.2636661;-47.3065776
+Sao Paulo;Itu;Parque Village Castelo;Serra do Maracaju   ;13308584;252;-23.2548858;-47.2931392
+Sao Paulo;Itu;Cruz das Almas;Tres     ;13310403;255;-23.2548858;-47.2931392
+Sao Paulo;Itu;Parque Residencial Guitti;Luiz de Oliveira Martins Alves Junior;13310510;144;-23.2548858;-47.2931392
+Sao Paulo;Itu;Nucleo Industrial Jardim Porto Seguro;Tres     ;13312096;63;-23.2548858;-47.2931392
+Sao Paulo;Itu;Estancia Vila Verde;Jose Antonio Sbrissa   ;13312860;28;-23.2479609;-47.3138206
+Sao Paulo;Itu;Vila Mariah;Antonia Ianni Leis   ;13313190;288;-23.2460954;-47.3138121
+Sao Paulo;Itu;Vila Bandeirantes;Luiz Manoel da Luz Cintra ;13313203;59;-23.3000032;-47.1413893
+Sao Paulo;Itu;Vila Bandeirantes;Paulo Steiner    ;13313212;259;-23.2000805;-47.293538
+Sao Paulo;Cabreuva;Pinhal;Rua Primavera    ;13315971;148;-23.189427;-47.292435
+Sao Paulo;Salto;Jardim Tres Marias;Thomaz Antonio Gonzaga   ;13320550;237;-23.2233526;-47.2682717
+Sao Paulo;Salto;Bela Vista;Marfim     ;13321362;210;-23.17524;-47.3099982
+Sao Paulo;Salto;Jardim Santa Cruz;Domingos Jorge Velho   ;13323591;21;-23.0789703;-47.2319632
+Sao Paulo;Salto;Loteamento Santa Edwiges;Santa Maria Goretti   ;13327482;43;-23.0519746;-47.2397188
+Sao Paulo;Indaiatuba;Jardim Residencial Maria Dulce;Antonio Perez Canovas   ;13331637;126;-23.0805498;-47.1949737
+Sao Paulo;Indaiatuba;Conjunto Habitacional Residencial Veredas da Conqu;Ayrton Senna da Silva  ;13332809;18;-23.064364;-47.1846427
+Sao Paulo;Indaiatuba;Vila Maria Helena;Caete     ;13335370;173;-23.0878589;-47.2086087
+Sao Paulo;Indaiatuba;Chacara Polaris;Amsterdan     ;13337051;274;-23.1052637;-47.1851762
+Sao Paulo;Indaiatuba;Vila Furlan;Vinte e Quatro de Maio ;13339315;187;-23.1086861;-47.1739981
+Sao Paulo;Indaiatuba;Vila Florenca;Reverendo Manoel Pereira da Silva ;13340520;71;-23.1033634;-47.1682694
+Sao Paulo;Indaiatuba;Colinas do Mosteiro de Itaici;dos Jacarandas    ;13341014;296;-23.1091941;-47.2111029
+Sao Paulo;Indaiatuba;Recanto dos Passaros;dos Uirapurus    ;13341210;56;-23.1106378;-47.2291362
+Sao Paulo;Indaiatuba;Jardim Belo Horizonte;Romeu Ferigati    ;13344652;155;-23.1206695;-47.2403956
+Sao Paulo;Indaiatuba;Jardim Tancredo Neves;Neusa Maria Camargo Costa  ;13346130;56;-23.1546603;-47.1833279
+Sao Paulo;Indaiatuba;Jardim Morada do Sol;Oscar Ribeira    ;13348410;175;-22.7810374;-47.6720794
+Sao Paulo;Indaiatuba;Jardim Residencial Veneza;Sete     ;13348837;174;-22.7342864;-47.6480644
+Sao Paulo;Piracicaba;Campestre;Boituva     ;13401816;129;-22.7342864;-47.6480644
+Sao Paulo;Piracicaba;Campestre;Bruno Bettoni    ;13401823;80;-22.7451201;-47.6698046
+Sao Paulo;Piracicaba;Campestre;das Gerberas    ;13401848;87;-22.7342864;-47.6480644
+Sao Paulo;Piracicaba;Jardim Gloria;Carlos Raya    ;13402251;154;-22.7370099;-47.6718142
+Sao Paulo;Piracicaba;Loteamento Residencial Reserva do Engenho;Maria Cecilia Machado Bonachella  ;13402376;228;-22.6716767;-47.7029446
+Sao Paulo;Piracicaba;Jardim Irapua;Um     ;13408045;285;-22.7388033;-47.6379366
+Sao Paulo;Piracicaba;Jardim Residencial Javary I;Geraldo Rocha    ;13408131;232;-22.7243599;-47.639689
+Sao Paulo;Piracicaba;Jardim Elite;Joao Jose Abdalla   ;13417431;85;-22.7221641;-47.6444479
+Sao Paulo;Piracicaba;Alemaes;Alfredo Guedes    ;13419285;281;-22.7354451;-47.6282473
+Sao Paulo;Piracicaba;Alemaes;Regente Feijo    ;13419290;218;-22.7368692;-47.6243023
+Sao Paulo;Piracicaba;Morumbi;Leontino Boscariol    ;13420340;74;-22.7342864;-47.6480644
+Sao Paulo;Piracicaba;Piracicamirim;Padre Jose Maria de Oliveira ;13420625;80;-22.7545989;-47.5858728
+Sao Paulo;Piracicaba;Dois Corregos;Edson Rontani    ;13420828;195;-22.7605034;-47.6146526
+Sao Paulo;Piracicaba;Santa Rita;Livio Ferraciu    ;13423282;220;-22.7342864;-47.6480644
+Sao Paulo;Piracicaba;Jardim Alvorada;Sergio Cardoso    ;13425694;201;-22.6602863;-47.7899713
+Sao Paulo;Piracicaba;Chico;Indiapora     ;13426712;180;-22.7557422;-47.4147585
+Sao Paulo;Piracicaba;Colinas do Piracicaba (Artemis);Cubatao     ;13432560;58;-22.7520356;-47.4171658
+Sao Paulo;Santa Barbara D'Oeste;Centro;Joao XXIII    ;13450018;261;-22.7624776;-47.41643
+Sao Paulo;Santa Barbara D'Oeste;Vila Pires;Alfredo Maluf    ;13450227;118;-22.7557422;-47.4147585
+Sao Paulo;Santa Barbara D'Oeste;Jardim Sao Luiz;Waldomiro Pedroso    ;13450357;208;-22.7372751;-47.3929839
+Sao Paulo;Santa Barbara D'Oeste;Jardim Primavera;Professora Elizabeth Steagall Pirtouscheg  ;13451019;218;-22.7249993;-47.3932171
+Sao Paulo;Santa Barbara D'Oeste;Conjunto Habitacional Trabalhadores;Vereador Benedito A. Atanaz  ;13453528;48;-22.7475343;-47.3696245
+Sao Paulo;Santa Barbara D'Oeste;Jardim das Orquideas;Hermano Parazzi    ;13453744;181;-22.7435527;-47.3818323
+Sao Paulo;Santa Barbara D'Oeste;Loteamento Industrial;da Agricultura    ;13454005;206;-22.7424205;-47.3677291
+Sao Paulo;Santa Barbara D'Oeste;Cidade Nova II;Taubate     ;13454052;57;-22.7680368;-47.4011957
+Sao Paulo;Santa Barbara D'Oeste;Jardim Perola;da Borracha    ;13454206;198;-22.7706419;-47.3876454
+Sao Paulo;Santa Barbara D'Oeste;Parque Residencial Santa Ines;Cassiano Ricardo    ;13457003;194;-22.774548;-47.3818306
+Sao Paulo;Santa Barbara D'Oeste;Jardim Santa Rita de Cassia;Ismael Alves    ;13457110;248;-22.7678773;-47.4112023
+Sao Paulo;Santa Barbara D'Oeste;Conjunto Habitacional Francisco de Cillo (INOCOOP);Francisco E. G. de Godoy ;13457145;21;-22.7696954;-47.4129566
+Sao Paulo;Santa Barbara D'Oeste;Parque Olaria;Ipiranga     ;13458031;229;-22.7745665;-47.420597
+Sao Paulo;Santa Barbara D'Oeste;Parque Olaria;Freire de Andrade   ;13458046;220;-22.7400068;-47.3304376
+Sao Paulo;Santa Barbara D'Oeste;Conjunto Habitacional Roberto Romano;Joao Luiz Erbolato   ;13458188;126;-22.7458004;-47.3422245
+Sao Paulo;Americana;Centro;Comendador Muller    ;13465289;211;-22.7442618;-47.3470196
+Sao Paulo;Americana;Jardim Girassol;Argentina     ;13465690;71;-22.7286546;-47.3154802
+Sao Paulo;Americana;Vila Louricilda;Alexandre Herculano    ;13469010;282;-22.7366555;-47.3561384
+Sao Paulo;Americana;Jardim Sao Roque;Santo Onofre    ;13469416;65;-22.7051942;-47.2951367
+Sao Paulo;Americana;Jardim Sao Roque;Sao Thiago    ;13469425;67;-22.7015439;-47.2908864
+Sao Paulo;Americana;Jardim Nossa Senhora Aparecida;Anisio Teixeira    ;13474461;57;-22.7453556;-47.2857418
+Sao Paulo;Americana;Antonio Zanaga I;Leopoldo Froes    ;13474651;12;-22.7331435;-47.2381766
+Sao Paulo;Americana;Iate Clube de Americana;Cinco     ;13475175;24;-22.7457921;-47.2401242
+Sao Paulo;Americana;Sao Sebastiao;Praia Azul    ;13476010;290;-22.7336901;-47.3191992
+Sao Paulo;Americana;Parque Dom Pedro II;Felicio Zamperlin    ;13476622;214;-22.5668467;-47.3984433
+Sao Paulo;Americana;Jardim Santana;Emilio Leao Brambilla   ;13478170;133;-22.5814763;-47.405774
+Sao Paulo;Limeira;Centro;Quadros Sobrinho    ;13480223;225;-22.6024353;-47.4054035
+Sao Paulo;Limeira;Jardim Sao Manoel;Olavo Ferreira    ;13480503;117;-22.5665354;-47.3974368
+Sao Paulo;Limeira;Jardim Santa Eulalia;Adinir Irineu de Gaspari  ;13481104;195;-22.5884961;-47.4599902
+Sao Paulo;Limeira;Jardim Residencial Guimaraes;Jaciel Leandro de Souza  ;13481712;69;-22.5636763;-47.4252108
+Sao Paulo;Limeira;Jardim Senador Vergueiro;Limeira-Piracicaba     ;13482383;108;-22.5411602;-47.4166193
+Sao Paulo;Limeira;Jardim Senador Vergueiro;Joaquim Daniel dos Santos  ;13482384;32;-22.5594758;-47.4111408
+Sao Paulo;Limeira;Jardim Laranjeiras;Antonio Kerpe de Oliveira  ;13484150;64;-22.5607951;-47.3755101
+Sao Paulo;Limeira;Vila Mathias;Atirador Paulo Roberto Vialle  ;13484312;179;-22.5585301;-47.3903042
+Sao Paulo;Limeira;Jardim Porto Real;Olivio Machado    ;13485355;276;-22.5543916;-47.3765703
+Sao Paulo;Limeira;Jardim Nereide;Setimo Fracalossi    ;13486198;22;-22.5727718;-47.3708131
+Sao Paulo;Limeira;Vila Nova;Doutor Hipolito Pinto Ribeiro  ;13486321;246;-22.7338174;-47.3611984
+Sao Paulo;Limeira;Residencial Antonio Brigato;Ricardo de Brito Jorge  ;13486519;274;-22.423813;-47.5698096
+Sao Paulo;Limeira;Jardim Residencial e Comercial Alto dos Laranjais;Noruega     ;13487477;14;-22.381765;-47.5591295
+Sao Paulo;Rio Claro;Jardim Sao Paulo;23;13503008;128;-22.3758374;-47.542921
+Sao Paulo;Rio Claro;Jardim Floridiana;1 JF    ;13505030;146;-22.3691516;-47.5255721
+Sao Paulo;Rio Claro;Conjunto Residencial Vila Verde;5 RV    ;13506136;138;-22.3994852;-47.550614
+Sao Paulo;Rio Claro;Residencial Florenca;4 RF    ;13506273;174;-22.3922231;-47.5543623
+Sao Paulo;Rio Claro;Vila Indaia;20 A    ;13506710;284;-22.0157562;-47.8917631
+Sao Paulo;Rio Claro;Vila Indaia;0,291666667;13506726;239;-23.2856561;-47.6626765
+Sao Paulo;Sao Carlos;Centro;Rua Episcopal    ;13560905;126;-23.6673418;-46.7690202
+Sao Paulo;Sao Carlos;Condominio Parque Residencial Damha l;H     ;13565297;160;-21.9964404;-47.8634912
+Sao Paulo;Sao Carlos;Residencial Samambaia;Nicolla Fiorentino    ;13565575;28;-22.0031599;-47.8573939
+Sao Paulo;Sao Carlos;Jardim Munique;Jose Tiberti    ;13568500;223;-22.016521;-47.8475729
+Sao Paulo;Sao Carlos;Jardim Munique;Oswaldo Denari    ;13568600;47;-22.0009501;-47.8544377
+Sao Paulo;Sao Carlos;Residencial Parque Douradinho;Emerson Radames Gatto   ;13568640;216;-22.0087082;-47.8909263
+Sao Paulo;Sao Carlos;Residencial Itamarati;Joao Muniz    ;13568780;67;-21.9955838;-47.8646324
+Sao Paulo;Sao Carlos;Residencial  Astolpho Luiz do Prado;Jorge Antonio Hildebrand   ;13568801;186;-22.0305636;-47.8807647
+Sao Paulo;Sao Carlos;Conjunto Habitacional Dom Constantino Amstalden;Irineu Mello    ;13568825;67;-22.0087082;-47.8909263
+Sao Paulo;Sao Carlos;Jardim Mercedes;Maestro Andrelino Vieira   ;13570510;168;-22.0374915;-47.8636177
+Sao Paulo;Sao Carlos;Nucleo Residencial Castelo Branco;Professor Eduardo de Martini  ;13571100;13;-22.0669425;-47.8817368
+Sao Paulo;Sao Carlos;Jardim Maracana;Gelsomino Saia    ;13571310;192;-22.3756183;-47.3914225
+Sao Paulo;Sao Carlos;CEAT;Jose Zanetti    ;13573400;226;-22.3604911;-47.3798391
+Sao Paulo;Araras;Parque Industrial;Pernambuco     ;13601342;71;-22.3371641;-47.354983
+Sao Paulo;Araras;Vila Dona Rosa Zurita;Adolfo Matthiensen    ;13601356;161;-22.3594364;-47.331258
+Sao Paulo;Araras;Chacaras Granja Sao Francisco;Joao Rossi    ;13605300;15;-22.3495006;-47.3328128
+Sao Paulo;Araras;Jardim Jose Ometto II;Jose Oliveira    ;13606411;237;-22.3498437;-47.3273098
+Sao Paulo;Araras;Parque Tiradentes;Octavio Daltro    ;13606603;273;-22.3604911;-47.3798391
+Sao Paulo;Araras;Parque Dom Pedro;Carlos Cerri    ;13606832;182;-22.3791545;-47.3739522
+Sao Paulo;Araras;Jardim Luiza Maria;Ricieri Pechinatti    ;13607251;123;-22.1910244;-47.392893
+Sao Paulo;Araras;Jardim Residencial Flamboyant;Lourdes Petruz Siviero   ;13609510;236;-22.2041058;-47.3850618
+Sao Paulo;Leme;Jardim Amalia;Ernesto Gatto    ;13610360;184;-22.1706511;-47.3935098
+Sao Paulo;Leme;Jardim Sao Jose;Isis Fernandes    ;13611129;96;-22.1752296;-47.3871042
+Sao Paulo;Leme;Cidade Jardim;Demezio Nabarreti    ;13614300;61;-22.1678091;-47.3766622
+Sao Paulo;Leme;Barra Funda;Professor Zulingo    ;13615270;260;-22.1902353;-47.364115
+Sao Paulo;Leme;Jardim Sao Joaquim;Raul Krempel    ;13615609;115;-22.1813407;-47.3845574
+Sao Paulo;Leme;Jardim Ana Lucia;Jose Costenaro    ;13617732;56;-21.9995103;-47.4263012
+Sao Paulo;Leme;Jardim Jequitiba;Anna da Silva Camargo  ;13617743;175;-22.0028515;-47.4271382
+Sao Paulo;Pirassununga;Centro;Bom Jesus    ;13630105;96;-22.0030935;-47.4100955
+Sao Paulo;Pirassununga;Centro;Amador Bueno    ;13631080;188;-22.0158604;-47.4178035
+Sao Paulo;Pirassununga;Vila Sao Pedro;Jose Manoel Ribeiro   ;13632160;21;-22.0003971;-47.4328155
+Sao Paulo;Pirassununga;Cidade Jardim;das Acucenas    ;13632460;272;-21.9695007;-47.4296269
+Sao Paulo;Pirassununga;Vila Steola;Bom Jesus    ;13634048;40;-21.9765469;-47.4263813
+Sao Paulo;Pirassununga;Parque Clayton Malaman;Jose Luiz Franco de Oliveira ;13635236;242;-21.4574311;-47.0201261
+Sao Paulo;Pirassununga;Jardim Limoeiro;Sebastiao B. O. Alves  ;13641043;117;-21.4589846;-47.0175263
+Sao Paulo;Mococa;Nucleo Habitacional Nene Pereira Lima;Raul Roberto Campos   ;13732419;125;-21.4626973;-47.0003553
+Sao Paulo;Mococa;Nucleo Habitacional Nene Pereira Lima;Andre Somagio    ;13732459;145;-21.470975;-46.9999891
+Sao Paulo;Mococa;Jardim Santa Cecilia;Paulo Rigobello    ;13733049;274;-21.4649238;-47.0145295
+Sao Paulo;Mococa;Bras;Joao Batista Giacoia   ;13735017;106;-21.3169676;-47.0320449
+Sao Paulo;Mococa;Jardim das Figueiras;Heloisa de Figueiredo Ferraz  ;13737120;299;-22.4282006;-46.9544961
+Sao Paulo;Sao Benedito das Areias (Mococa);-;Sao Benedito das Areias (Mococa) ;13755000;27;-22.4458177;-46.9624217
+Sao Paulo;Mogi Mirim;Centro;Francisco Alves    ;13800057;70;-22.461942;-46.9781862
+Sao Paulo;Mogi Mirim;Vila Bianchi;Santa Maria    ;13801475;98;-22.432364;-46.9509597
+Sao Paulo;Mogi Mirim;Parque Real;Vanderley Poterio    ;13803801;33;-22.3599559;-46.9375657
+Sao Paulo;Mogi Mirim;Jardim Bi-Centenario;Professora Ana Luiza de Souza Aranha;13807490;231;-22.3719647;-46.9190048
+Sao Paulo;Mogi Guacu;Jardim Jacira;Trajano de Souza Moraes  ;13840121;89;-22.3679387;-46.9432454
+Sao Paulo;Mogi Guacu;Loteamento Cidade Nova Mogi-Guacu;Nair Galhardoni    ;13841150;293;-22.3679387;-46.9432454
+Sao Paulo;Mogi Guacu;Vila Maria;Presidente Costa e Silva  ;13843040;205;-22.3363376;-46.9480049
+Sao Paulo;Mogi Guacu;Loteamento Morro Amarelo;Julia Barbosa do Couto  ;13843229;23;-22.343036;-46.9544988
+Sao Paulo;Mogi Guacu;Jardim Ipe I;Joao de Oliveira Machado  ;13846047;210;-22.3584412;-46.94493
+Sao Paulo;Mogi Guacu;Jardim Ipe III;Sao Jose dos Pinhais  ;13846124;204;-22.3313784;-46.928
+Sao Paulo;Mogi Guacu;Arruamento Primavera;Antonio de Paula   ;13847017;249;-22.3679387;-46.9432454
+Sao Paulo;Mogi Guacu;Jardim Santa Terezinha;Orlando Girard Franco   ;13848226;105;-22.3679387;-46.9432454
+Sao Paulo;Mogi Guacu;Jardim Boa Vista;Octavio Franco    ;13848443;161;-21.9712313;-46.7947989
+Sao Paulo;Mogi Guacu;Jardim Chaparral II;Marcilio Leme    ;13848871;199;-21.9734544;-46.8176155
+Sao Paulo;Sao Joao da Boa Vista;Jardim Santa Rita;Joao Ferreira Giao   ;13871097;57;-21.9712313;-46.7947989
+Sao Paulo;Sao Joao da Boa Vista;Jardim Novo Horizonte;Paulo Marcio B. Amaral  ;13872467;134;-22.0056323;-46.7814495
+Sao Paulo;Sao Joao da Boa Vista;Vila Valentin;Maurilio Alvares    ;13873060;55;-22.0061421;-46.783807
+Sao Paulo;Sao Joao da Boa Vista;Jardim dos Ipes II;Palmira Maria de Souza  ;13876604;95;-22.6990488;-46.7522544
+Sao Paulo;Sao Joao da Boa Vista;Jardim Lucas Teixeira;Jose Paulino    ;13876842;164;-22.7080593;-46.7726654
+Sao Paulo;Amparo;Centro;Doutor Virgilio Paiva Junior  ;13900271;32;-22.697789;-46.7948441
+Sao Paulo;Amparo;Residencial Paulistano;Maria Castelucci    ;13901264;168;-22.718924;-46.8013022
+Sao Paulo;Amparo;Jardim Santa Helena;do Jaburu    ;13901400;268;-22.4314787;-46.812487
+Sao Paulo;Amparo;Jardim Silvestre I;Rosario Ferrari    ;13905467;201;-22.4519949;-46.8108102
+Sao Paulo;Itapira;Vila Vieira;Mexico     ;13972263;93;-22.4333363;-46.8367982
+Sao Paulo;Itapira;Parque Fortaleza;Olegario Pereira da Silva  ;13973026;82;-22.4274038;-46.8368718
+Sao Paulo;Itapira;Nova Itapira;Marechal Rondon    ;13974210;108;-21.1695497;-47.8467626
+Sao Paulo;Itapira;Vila Santa Marta;dos Girassois    ;13976405;186;-21.1925894;-47.8146442
+Sao Paulo;Ribeirao Preto;Jardim Botanico;O     ;14021729;282;-21.1955452;-47.839229
+Sao Paulo;Ribeirao Preto;Alto da Boa Vista;Sete de Setembro   ;14025200;27;-21.2028878;-47.8334795
+Sao Paulo;Ribeirao Preto;Parque Ribeirao Preto;Monteiro Lobato    ;14031243;175;-21.2014424;-47.8419914
+Sao Paulo;Ribeirao Preto;Jardim Marchesi;Abel Conceicao    ;14031276;63;-21.1808066;-47.7256085
+Sao Paulo;Ribeirao Preto;Parque Ribeirao Preto;Alfredo Condeixa    ;14031383;208;-21.1807729;-47.7255868
+Sao Paulo;Ribeirao Preto;Jardim Progresso;A-14     ;14031842;142;-21.1704008;-47.8103238
+Sao Paulo;Ribeirao Preto;Jardim Progresso;A-15     ;14031843;144;-21.1704008;-47.8103238
+Sao Paulo;Ribeirao Preto;Jardim Recreio;Magnolias     ;14040299;25;-21.1329476;-47.8138457
+Sao Paulo;Ribeirao Preto;Jardim Doutor Paulo Gomes Romeo;Albino Rodrigues de Almeida  ;14056711;214;-21.1362094;-47.8270498
+Sao Paulo;Ribeirao Preto;Jardim Jandaia;Japura     ;14060406;55;-21.1704008;-47.8103238
+Sao Paulo;Ribeirao Preto;Jardim Jose Sampaio Junior;Elydio Pontes    ;14065270;101;-21.1704008;-47.8103238
+Sao Paulo;Ribeirao Preto;Parque dos Sabias;Dirce de Almeida Fantini  ;14070732;110;-21.1247245;-47.7818443
+Sao Paulo;Ribeirao Preto;Adelino Simioni;Joao Saretta Neto   ;14071570;273;-21.149759;-47.7924378
+Sao Paulo;Ribeirao Preto;Vila Carvalho;Campinas     ;14075070;208;-21.1597886;-47.7887729
+Sao Paulo;Ribeirao Preto;Vila Mariana;Guiana Francesa    ;14075220;18;-21.1512459;-47.7864003
+Sao Paulo;Ribeirao Preto;Independencia;Modesto Junqueira    ;14076120;163;-21.1704008;-47.8103238
+Sao Paulo;Ribeirao Preto;Independencia;Professor Joao Salles Pupo  ;14076430;231;-21.1704008;-47.8103238
+Sao Paulo;Ribeirao Preto;Jardim Professor Antonio Palocci;Maria do Rosario Kenan  ;14079100;215;-21.1635064;-47.8026003
+Sao Paulo;Ribeirao Preto;Jardim Porto Seguro;Doutor Antonio Atallah   ;14079624;138;-21.1760351;-47.774498
+Sao Paulo;Ribeirao Preto;Campos Eliseos;da Saudade    ;14080000;214;-21.1910979;-47.7706163
+Sao Paulo;Ribeirao Preto;Jardim Novo Mundo;Doutor Morais Lima   ;14092160;130;-21.1704008;-47.8103238
+Sao Paulo;Ribeirao Preto;Parque Industrial Lagoinha;Benedicta Rodrigues Domingos   ;14095050;61;-21.1236715;-47.9991624
+Sao Paulo;Ribeirao Preto;Jardim Cybelli;Mozart Gomes Martins   ;14098834;164;-21.1202866;-47.9955535
+Sao Paulo;Sertaozinho;Jardim Primeiro de Maio;Theodoro Rodrigues    ;14161187;46;-21.1229086;-48.0019291
+Sao Paulo;Sertaozinho;Jardim Jamaica;Guerino Molesin    ;14164110;270;-21.107829;-47.9873078
+Sao Paulo;Sertaozinho;Jardim Nassim Mamed;Ernesto Matricardi    ;14164160;162;-21.1431049;-47.9752635
+Sao Paulo;Sertaozinho;Jardim Santa Rosa;Jose Americo Baratela   ;14165458;54;-21.1409569;-48.0017985
+Sao Paulo;Sertaozinho;Jardim Sao Sebastiao;Luiz Lopes    ;14169218;119;-21.1549562;-47.990032
+Sao Paulo;Sertaozinho;Sao Joao;Joaquim Manoel Justino   ;14170339;30;-21.1373214;-48.0093302
+Sao Paulo;Sertaozinho;Jardim Recreio dos Bandeirantes;Matheus Benelli    ;14171115;243;-21.129571;-48.0116596
+Sao Paulo;Sertaozinho;Vila Industrial;Atilio Magon    ;14177015;68;-20.5280072;-47.389182
+Sao Paulo;Sertaozinho;Parque Residencial Francisco Paschoal;Domingos Prizon    ;14177159;213;-21.8780914;-51.8399827
+Sao Paulo;Franca;Vila Aparecida;Capitao Canuto de Azevedo  ;14401253;204;-20.5217579;-47.375939
+Sao Paulo;Franca;Parque das Aguas;da Camara    ;14401306;174;-20.5393288;-47.4013437
+Sao Paulo;Franca;Jardim Paulista;Amazonas     ;14401408;272;-20.5574507;-47.3930353
+Sao Paulo;Franca;Jardim Paulistano;Primo Meneghetti    ;14402465;162;-20.5393288;-47.4013437
+Sao Paulo;Franca;Parque do Castelo;Leontina Odette de Castro  ;14403204;200;-20.5393288;-47.4013437
+Sao Paulo;Franca;Prolongamento Jardim Angela Rosa;Manif Elias Pedro   ;14403662;68;-20.5958508;-47.3658104
+Sao Paulo;Franca;Parque Mundo Novo;Antonieta Almada Miranda   ;14404004;89;-20.5089264;-47.4052038
+Sao Paulo;Franca;Jardim Aeroporto III;Vanildo Candido da Costa  ;14404226;36;-20.5441054;-47.4551691
+Sao Paulo;Franca;Parque dos Pinhais;dos Angicos    ;14405631;201;-20.5393288;-47.4013437
+Sao Paulo;Franca;Parque das Esmeraldas;Benedita Gabriela Barbosa Ignez  ;14406156;175;-20.5358277;-47.4593498
+Sao Paulo;Franca;Residencial Peres Elias;Rodrigo da Silva Teodoro  ;14406804;172;-20.5393288;-47.4013437
+Sao Paulo;Franca;Residencial Peres Elias;Daniel Martins Tristao   ;14406814;52;-20.4909718;-47.4179697
+Sao Paulo;Franca;Residencial Meireles;Estacio Bernardino Seixas   ;14407272;129;-20.4874047;-47.4203238
+Sao Paulo;Franca;Residencial Moreira Junior;Maria Aparecida Dias   ;14407513;236;-20.488244;-47.4315061
+Sao Paulo;Franca;Jardim Luiza;Luiz Milani    ;14407522;241;-20.4848034;-47.4271792
+Sao Paulo;Franca;Jardim Luiza II;Osvaldo Paes de Mello  ;14407629;123;-20.5393288;-47.4013437
+Sao Paulo;Franca;Jardim Luiza II;Jose Barcellos Cardoso   ;14407643;203;-20.5172953;-47.3851155
+Sao Paulo;Franca;Villagio Mundo Novo;Nelson Pires de Castro  ;14408112;222;-20.5092685;-47.3967063
+Sao Paulo;Franca;Jardim Planalto;Antonio Herrero    ;14409091;181;-20.5120274;-47.3940032
+Sao Paulo;Franca;Parque Moema;Elias Candido de Souza  ;14409175;29;-20.4892039;-47.4035181
+Sao Paulo;Franca;Prolongamento Jardim Doutor Antonio Petraglia;Jeres Benedito de Souza  ;14409194;99;-20.5393288;-47.4013437
+Sao Paulo;Franca;Parque do Horto;Joao Baptista dos Santos  ;14409361;227;-20.5666859;-47.3595204
+Sao Paulo;Franca;Recreio Campo Belo;Doutor William Azzuz   ;14409400;119;-20.949552;-48.4795365
+Sao Paulo;Franca;Franca Polo Club;Geraldo Rodrigues de Souza  ;14412310;72;-20.9435352;-48.4929851
+Sao Paulo;Bebedouro;Centro;Doutor Cambauva    ;14700409;299;-20.971313;-48.4701142
+Sao Paulo;Bebedouro;Jardim Casagrande;Salim Boremer Filho   ;14701638;241;-20.949552;-48.4795365
+Sao Paulo;Bebedouro;Jardim Sao Carlos;Geraldo Ferreira    ;14702226;292;-20.9150995;-48.4950154
+Sao Paulo;Bebedouro;Jardim Menino Deus I;Camburiu     ;14708078;125;-20.949552;-48.4795365
+Sao Paulo;Bebedouro;Residencial Vale do Sol;Carlos Busse Junior   ;14708274;131;-20.521103;-48.5595143
+Sao Paulo;Bebedouro;Jardim Italia;Paulo Sergio da Silva Pedro ;14710152;178;-20.5862626;-48.5588584
+Sao Paulo;Barretos;Distrito Industrial II;Celso Daniel Galvani   ;14781145;283;-20.5536189;-48.570285
+Sao Paulo;Barretos;Cristiano de Carvalho;C-24     ;14781468;82;-20.5770358;-48.5477847
+Sao Paulo;Barretos;Jardim Silvia;Jorge Olegario de Almeida Abreu ;14783000;22;-20.5785578;-48.5444336
+Sao Paulo;Barretos;City Barretos;Ceilao     ;14784064;183;-20.5732844;-48.5670416
+Sao Paulo;Barretos;Jardim Nova Barretos;Julio Calil    ;14784094;148;-21.8112294;-48.1815587
+Sao Paulo;Barretos;Jardim Soares;Hildebrando de Souza Filho  ;14784339;35;-21.7902935;-48.1864094
+Sao Paulo;Araraquara;Jardim Santa Lucia;Coronel Jose Xavier de Mendonca ;14800556;32;-21.7784063;-48.1865003
+Sao Paulo;Araraquara;Vila Santana;Barroso     ;14801165;293;-21.7916734;-48.1705364
+Sao Paulo;Araraquara;Vila Yamada;Doutor Mario Arantes de Almeida ;14802030;157;-21.7848272;-48.1786486
+Sao Paulo;Araraquara;Condominio Bella Vitta II;Vinte e quatro   ;14803843;154;-21.7604166;-48.1874349
+Sao Paulo;Araraquara;Chacara Flora Araraquara;Joao Ciomino    ;14805356;83;-21.7436027;-48.1497698
+Sao Paulo;Araraquara;Residencial Cambuy;Manoel Tavares de Campos  ;14805423;186;-21.7313449;-48.1523161
+Sao Paulo;Araraquara;Jardim Roberto Selmi Dei;Bento Amadeu Malavolta   ;14806287;25;-21.813057;-48.1720375
+Sao Paulo;Araraquara;Jardim Roberto Selmi Dei;Said Azzem    ;14806332;174;-21.8118005;-48.168896
+Sao Paulo;Araraquara;Vila Melhado;Capitao Noray de Paula e Silva;14807045;26;-21.7848272;-48.1786486
+Sao Paulo;Araraquara;Jardim Panorama;Doutor Adhemar Pereira de Barros ;14807083;75;-21.8028912;-48.1636619
+Sao Paulo;Araraquara;Jardim Guanabara;Arthur Lopes de Castro  ;14807127;216;-21.8088065;-48.1563571
+Sao Paulo;Araraquara;Jardim Padre Anchieta;Vicente Gullo    ;14807214;15;-21.8062773;-48.1536321
+Sao Paulo;Araraquara;Jardim Eliana;Benevenuto Colombo    ;14807258;210;-21.2537784;-48.3446699
+Sao Paulo;Araraquara;Jardim Residencial Agua Branca;Alfredo Gabriel Haddad   ;14807341;221;-20.8158352;-49.3882247
+Sao Paulo;Jaboticabal;Conjunto Habitacional Hugo Lacorte Vitalle II;Osmar Ramos Tocantins   ;14875456;228;-20.817174;-49.404682
+Sao Paulo;Sao Jose do Rio Preto;Centro;Coronel Spinola de Castro  ;15015500;10;-20.8133973;-49.3936747
+Sao Paulo;Sao Jose do Rio Preto;Santos Dumont;Jesus Vilanova Vidal   ;15020060;289;-20.811761;-49.3762272
+Sao Paulo;Sao Jose do Rio Preto;Vila Nossa Senhora da Paz;Paqueta     ;15025180;16;-20.7889914;-49.4250429
+Sao Paulo;Sao Jose do Rio Preto;Jardim Residencial Vetorasso;Antonio Carlos Mariotti   ;15040285;238;-20.811761;-49.3762272
+Sao Paulo;Sao Jose do Rio Preto;Jardim Bianco;Walter Carlos Araujo   ;15041516;16;-20.7797544;-49.3884396
+Sao Paulo;Sao Jose do Rio Preto;Residencial Floresta Park (Zona Rural);Joao Rodrigues da Silveira  ;15044651;24;-20.811761;-49.3762272
+Sao Paulo;Sao Jose do Rio Preto;Jardim Paraiso;Francisco Ovidio    ;15045215;65;-20.7792119;-49.3979919
+Sao Paulo;Sao Jose do Rio Preto;Jardim Itapema;Nelson Marques Pimentel   ;15045360;42;-20.7731211;-49.3883299
+Sao Paulo;Sao Jose do Rio Preto;Residencial Ana Celia;Direitos Humanos    ;15045512;63;-20.9255585;-49.4573336
+Sao Paulo;Sao Jose do Rio Preto;Parque Residencial Dom Lafaiete Libanio;Antonio Francisco Coutinho   ;15046080;106;-20.811761;-49.3762272
+Sao Paulo;Sao Jose do Rio Preto;Estancia Santa Clara (Zona Rural);8;15051679;145;-20.7802628;-49.3583861
+Sao Paulo;Sao Jose do Rio Preto;Estancia San Carlos (Zona Rural);Celso Pereira dos Santos  ;15052872;51;-20.811761;-49.3762272
+Sao Paulo;Sao Jose do Rio Preto;Jardim Nazareth;Joao Oliveira de Faria  ;15054040;86;-20.8012075;-49.3670014
+Sao Paulo;Sao Jose do Rio Preto;Loteamento Parque Residencial da Lealdade;Ivete Moreno Cetrone   ;15054632;266;-20.8458656;-49.3336523
+Sao Paulo;Sao Jose do Rio Preto;Jardim Paulista;Francisco Xavier Pedroso   ;15060170;62;-20.811761;-49.3762272
+Sao Paulo;Sao Jose do Rio Preto;Chacara Jockey Club (Zona Rural);Silvio Pelicer Filho   ;15062002;191;-20.8329534;-49.3474323
+Sao Paulo;Sao Jose do Rio Preto;Parque Residencial Damha VI;Missionaria Joaquina Machado de Oliveira ;15063123;190;-20.8266206;-49.3678431
+Sao Paulo;Sao Jose do Rio Preto;Parque Residencial Lauriano Tebar II;Irma Helena Augusta Alves  ;15076493;117;-20.7845558;-49.4094684
+Sao Paulo;Sao Jose do Rio Preto;Jardim Santa Catarina;Francisco Alves    ;15080190;178;-20.839757;-49.3968104
+Sao Paulo;Sao Jose do Rio Preto;Estancia Santa Apolonia (Zona Rural);Asturias     ;15087281;183;-20.811761;-49.3762272
+Sao Paulo;Sao Jose do Rio Preto;Jardim Francisco Fernandes;Nair dos Santos Lima  ;15090290;63;-20.811761;-49.3762272
+Sao Paulo;Sao Jose do Rio Preto;Estancia Matinha (Zona Rural);Shoichi Ohno    ;15092226;88;-20.3995742;-49.9615033
+Sao Paulo;Sao Jose do Rio Preto;Loteamento San Fernando Valley;das Araucarias    ;15093683;150;-20.4173291;-49.9702752
+Sao Paulo;Votuporanga;Propovo;dos Canarios    ;15503114;35;-20.4173291;-49.9702752
+Sao Paulo;Votuporanga;Votuporanga I;Joaquim Vicente Goncalves   ;15503286;167;-20.2686874;-50.5490441
+Sao Paulo;Votuporanga;Conjunto Habitacional Sonho Meu;Basilio Augusto de Souza  ;15506072;22;-20.2652501;-50.5344115
+Sao Paulo;Jales;Jardim Samambaia;Presidente Juscelino Kubitschek   ;15700214;283;-20.2664078;-50.5293234
+Sao Paulo;Jales;Jardim Estados Unidos;Florida     ;15700274;89;-20.2860071;-50.543429
+Sao Paulo;Jales;Jardim Estados Unidos;Arizona     ;15700284;136;-20.2933511;-50.5420048
+Sao Paulo;Jales;Parque Industrial I;B     ;15703360;260;-20.281693;-50.5463365
+Sao Paulo;Jales;Parque Industrial I;Industrial     ;15703362;12;-20.2841392;-50.5465174
+Sao Paulo;Jales;Jardim Brasil;dos Guatambus    ;15704248;198;-20.2686874;-50.5490441
+Sao Paulo;Jales;Vila Talma;Pedro Dutra da Silva  ;15704268;236;-20.2728067;-50.5593607
+Sao Paulo;Jales;Jardim Pires de Andrade;Antonio Pelarini    ;15706002;218;-20.25119;-50.5542826
+Sao Paulo;Jales;Vila Stafusa;das Violetas    ;15706050;218;-20.2433348;-50.5567551
+Sao Paulo;Jales;Conjunto Habitacional Jose Antonio Caparroz Bogaz;Sebastiao Jose Salviano   ;15707666;221;-20.2686874;-50.5490441
+Sao Paulo;Jales;Conjunto Habitacional Jose Antonio Caparroz Bogaz;Vitoria     ;15707702;41;-21.1491265;-48.9917052
+Sao Paulo;Jales;Residencial Alpha Jales;Esparta     ;15708076;265;-21.1445832;-49.0012884
+Sao Paulo;Catanduva;Parque Residencial Agudo Romao;Itirapina     ;15802004;15;-23.6011045;-46.7610853
+Sao Paulo;Catanduva;Parque Residencial Agudo Romao II;Belo Monte    ;15802305;264;-21.1456771;-48.9482663
+Sao Paulo;Catanduva;Jardim Pedro Borgoni;das Tulipas    ;15804380;72;-21.1318555;-48.977473
+Sao Paulo;Catanduva;Distrito Industrial Antonio Zacaro;Iguatemi     ;15808325;89;-21.1318555;-48.977473
+Sao Paulo;Catanduva;Conjunto Habitacional Prefeito Joao Righini;Paulo Coimbra Patto   ;15810376;140;-21.6028309;-48.3516083
+Sao Paulo;Catanduva;Loteamento Cidade Jardim;Icapui     ;15810455;183;-21.6076969;-48.3536703
+Sao Paulo;Matao;Jardim Ballista;Carlos Mariani    ;15990280;80;-21.6140546;-48.3632364
+Sao Paulo;Matao;Jardim Buscardi;Narciso Baldan    ;15990460;221;-21.6029893;-48.3644226
+Sao Paulo;Matao;Nova Matao;Felice Zambon    ;15990568;171;-21.5969911;-48.359957
+Sao Paulo;Matao;Nova Matao;Renato Picchi    ;15990660;176;-21.2244393;-50.4388796
+Sao Paulo;Matao;Alto;Tiradentes     ;15997080;168;-21.2285902;-50.4305811
+Sao Paulo;Aracatuba;Jardim Nova Yorque;Jose Guimaraes Marques de Oliveira ;16018080;107;-21.2336188;-50.4668417
+Sao Paulo;Aracatuba;Jardim Nova Yorque;Herculano Teodoro Rodrigues   ;16018287;21;-21.2399456;-50.459166
+Sao Paulo;Aracatuba;Morada dos Nobres;Alberto Cerqueira Leite   ;16022190;145;-21.2028539;-50.4536793
+Sao Paulo;Aracatuba;Conjunto Habitacional Clovis Valentin Picolotto;Antonio Cerizza    ;16022440;108;-21.212913;-50.449097
+Sao Paulo;Aracatuba;Jardim Moreira;Evaristo dos Santos   ;16022731;256;-21.21472;-50.4489822
+Sao Paulo;Aracatuba;Sao Joao;Cussy de Almeida Junior  ;16025050;61;-21.2001144;-50.4452179
+Sao Paulo;Aracatuba;Bairro das Bandeiras;Tupinambas     ;16025180;181;-21.1937557;-50.4488163
+Sao Paulo;Aracatuba;Sao Vicente;Sao Vicente    ;16050070;144;-21.1929897;-50.4496754
+Sao Paulo;Aracatuba;Dona Amelia;Imaculado Coracao de Maria  ;16050683;51;-21.1564683;-50.4561408
+Sao Paulo;Aracatuba;Dona Amelia;Sao Luiz    ;16050685;264;-21.1963712;-50.4790155
+Sao Paulo;Aracatuba;Chacaras Versalhes;Fermino Marques de Brito  ;16058500;219;-21.1813236;-50.4561136
+Sao Paulo;Aracatuba;Conjunto Habitacional Ezequiel Barbosa;Fundador Paulino Gatto   ;16070272;299;-21.186673;-50.4651303
+Sao Paulo;Aracatuba;Primavera;Pedro Grassi    ;16075185;207;-21.2694609;-50.3369942
+Sao Paulo;Aracatuba;Chacaras TV;Isamar     ;16075475;250;-21.2915812;-50.3437261
+Sao Paulo;Birigui;Jardim Sao Conrado;Felipe Elias Bucharles   ;16201105;40;-21.2915812;-50.3437261
+Sao Paulo;Birigui;Recanto Verde;Luiz Catharin    ;16201198;125;-21.2915812;-50.3437261
+Sao Paulo;Birigui;Residencial San Marino;Joao Gregolin    ;16201491;168;-21.2876607;-50.3041951
+Sao Paulo;Birigui;Joao Crevelaro;Odemir Constantino    ;16202345;71;-21.2849846;-50.3305517
+Sao Paulo;Birigui;Joao Crevelaro;Vinte e Oito   ;16202355;36;-21.2915812;-50.3437261
+Sao Paulo;Birigui;Jardim Sao Genaro;Piaui     ;16202448;74;-21.3015403;-50.3512049
+Sao Paulo;Birigui;Vila Guanabara;Domingos Lot    ;16203022;102;-21.2915812;-50.3437261
+Sao Paulo;Birigui;Jardim Jussara Maria;Augusto Silva    ;16204009;292;-21.4199005;-50.0816002
+Sao Paulo;Birigui;Alto Colinas;Avelino Bertaglia    ;16207038;81;-21.6745267;-49.7585088
+Sao Paulo;Penapolis;Jardim Sao Luiz;Rua Amazonas    ;16300971;205;-21.6732766;-49.7471452
+Sao Paulo;Lins;Centro;Jaragua     ;16400103;300;-21.6802438;-49.7613794
+Sao Paulo;Lins;Parque Xingu;Joao Alves da Costa  ;16400363;167;-21.6716357;-49.7611512
+Sao Paulo;Lins;Jardim Ariano;Jose Garcia de Carvalho  ;16400460;18;-21.6717046;-49.7472302
+Sao Paulo;Lins;Vila Alta;da Concordia    ;16400513;239;-21.6732766;-49.7471452
+Sao Paulo;Lins;Vila Sao Jose;Jose Francisco Ribeiro   ;16401036;143;-21.6732766;-49.7471452
+Sao Paulo;Lins;Vila Paulista;Monsenhor Joao Baptista Toffoli  ;16401052;178;-21.6697042;-49.738371
+Sao Paulo;Lins;Jardim Linense;Coronel Jose Braulio Junqueira de Andrade;16401140;46;-21.6710849;-49.7248869
+Sao Paulo;Lins;Jardim Aeroporto;Catarino Sales da Exaltacao  ;16401379;63;-21.6791412;-49.7428127
+Sao Paulo;Lins;Residencial Jardim do Sol;Leopoldo Dias Quintella   ;16402712;210;-21.2247468;-50.866584
+Sao Paulo;Lins;Vila Ester;Fatima Regina Pereira   ;16403107;254;-20.9037662;-51.373509
+Sao Paulo;Valparaiso;Centro;Rua Manoel Parada de Carvalho 11;16880970;101;-20.9055648;-51.3553897
+Sao Paulo;Andradina;Vila Feltrini;Benjamin Constant    ;16900447;143;-22.3337003;-49.0687429
+Sao Paulo;Andradina;Jardim Bela Vista;Izabel dos Santos Knecht  ;16902211;36;-22.3233765;-49.0783188
+Sao Paulo;Bauru;Vila Santa Tereza;Antonio Garcia    ;17012050;195;-22.314459;-49.0586951
+Sao Paulo;Bauru;Centro;Monsenhor Claro    ;17015130;125;-22.2746972;-49.0671386
+Sao Paulo;Bauru;Parque Residencial Castelo;Joao Garcia Martinez   ;17021180;241;-22.2763013;-49.0867514
+Sao Paulo;Bauru;Vila Sao Paulo;Jose Bombini    ;17022124;162;-22.2930977;-49.0695182
+Sao Paulo;Bauru;Nucleo Residencial Edison Bastos Gasparini;dos Graficos    ;17022440;215;-22.314459;-49.0586951
+Sao Paulo;Bauru;Novo Jardim Pagani;Mario Manoel Sales Algodoal  ;17024240;232;-22.3038253;-49.0530459
+Sao Paulo;Bauru;Residencial Nova Florida;Jeryes Shayeb    ;17024843;62;-22.294554;-49.0463452
+Sao Paulo;Bauru;Parque Residencial Jardim Araruna;Marechal Rondon    ;17025162;46;-22.3190275;-49.0213927
+Sao Paulo;Bauru;Vila Nova Santa Luzia;Jose Antonio Barreto   ;17025400;277;-22.3626714;-49.1040463
+Sao Paulo;Bauru;Nucleo Habitacional Mary Dota;Doutor Marcos de Paula Raphael ;17026000;247;-22.3203115;-49.0043395
+Sao Paulo;Bauru;Parque Julio Nobrega;Jose Ferreira Leite   ;17031451;91;-22.314459;-49.0586951
+Sao Paulo;Bauru;Nucleo Habitacional Jose Regino;Cinco     ;17031707;56;-22.314459;-49.0586951
+Sao Paulo;Bauru;Tangaras;Natal Fornazari    ;17035070;91;-22.314459;-49.0586951
+Sao Paulo;Bauru;Vale do Igapo;Tacha     ;17036043;275;-22.3317953;-49.087711
+Sao Paulo;Bauru;Jardim Mary;Orlando Stefano    ;17048180;33;-21.18685;-50.4293327
+Sao Paulo;Bauru;Residencial Village Campo Novo;Noboru Kasama    ;17048795;58;-22.314459;-49.0586951
+Sao Paulo;Bauru;Parque Fortaleza;Ambleto Bertolucci    ;17052021;92;-22.3224878;-49.1338024
+Sao Paulo;Bauru;Vila Industrial;Aracatuba     ;17055519;211;-22.3219343;-49.1314746
+Sao Paulo;Bauru;Quinta Ranieri;Antonio Vanini    ;17055802;286;-22.3235751;-49.1345738
+Sao Paulo;Bauru;Monte Verde;Dois     ;17056265;118;-22.314459;-49.0586951
+Sao Paulo;Bauru;Parque Santa Candida;Elizabete Bortolomai    ;17057651;74;-22.30275;-48.5755491
+Sao Paulo;Bauru;Parque Santa Candida;Victor Daniel Juarez   ;17057656;299;-22.2884229;-48.5712412
+Sao Paulo;Bauru;Vila Santa Rosa;Agostinho Fornetti    ;17063430;88;-22.2881388;-48.5639725
+Sao Paulo;Jau;Jardim Odete;Tufik Sarkis    ;17204550;116;-22.2709794;-48.5593945
+Sao Paulo;Jau;Vila Sampaio Bueno;Sampaio Bueno    ;17205070;223;-22.30275;-48.5755491
+Sao Paulo;Jau;Vila Sampaio Bueno;Alfredo Leitao    ;17205080;118;-22.3057122;-48.5414639
+Sao Paulo;Jau;Jardim Ana Carolina;Olivio Crozera    ;17208433;77;-22.30275;-48.5755491
+Sao Paulo;Jau;Jardim America;Luiz Spirandelli    ;17210710;142;-22.30275;-48.5755491
+Sao Paulo;Jau;Jardim das Paineiras;Padre Bonilha    ;17211380;142;-22.2615241;-48.5467413
+Sao Paulo;Jau;Jardim Pedro Ometto;Dona Mariquinha Pacheco   ;17212541;152;-22.3680231;-48.6778365
+Sao Paulo;Jau;Jardim Nova Jau;Norberto Leonelli Filho   ;17213590;201;-22.2175846;-49.9505291
+Sao Paulo;Jau;Jardim Dona Emilia;Pedro Gasparotto    ;17215079;138;-22.19426;-49.9669142
+Sao Paulo;Jau;Jardim Esperanca (Potunduva);Santa Catarina    ;17220200;139;-22.1908073;-49.9491415
+Sao Paulo;Marilia;Jardim Marilia;Girassol     ;17502410;108;-22.1918512;-49.9561971
+Sao Paulo;Marilia;Vila Operaria Alimentacao I;Waldemar Tome    ;17505610;172;-22.1651735;-49.9552124
+Sao Paulo;Marilia;Palmital;Salvador Salgueiro    ;17510480;256;-22.1580441;-49.9613821
+Sao Paulo;Marilia;Nucleo Habitacional Castelo Branco;Washington Luiz    ;17511190;242;-22.1469735;-49.9625122
+Sao Paulo;Marilia;Cesar de Almeida;Manoel Maldonado    ;17511825;255;-22.1554982;-49.9708101
+Sao Paulo;Marilia;Distrito Industrial;Guiomar Novaes    ;17512100;38;-22.2321064;-49.9386467
+Sao Paulo;Marilia;Jardim Santa Antonieta;Sergio Faria    ;17512450;80;-22.2426371;-49.9793986
+Sao Paulo;Marilia;Jardim Edisom da Silva Lima;Athanizio Senna da Silva  ;17512816;219;-22.226243;-49.9694975
+Sao Paulo;Marilia;Jardim Portal do Sol;Sebastiao Goncalves Sobrinho   ;17519410;113;-22.2135954;-49.9769496
+Sao Paulo;Marilia;Jardim Morumbi;Manoel Pereira    ;17526000;130;-21.995418;-49.9777986
+Sao Paulo;Marilia;Jardim Polyana;Edgard Silva Lima   ;17527030;208;-22.2175846;-49.9505291
+Sao Paulo;Marilia;Conjunto Habitacional Vila dos Comerciarios II;Darcilio Ambrosio    ;17527617;289;-21.9235465;-50.5100003
+Sao Paulo;Marilia;Sitios de Recreio Leticia (Padre Nobrega);Rosalia     ;17533220;300;-21.9351729;-50.5144111
+Sao Paulo;Marilia;Pedro Pereira de Mesquita (Lacio);Emerenciana Alves Neves   ;17539108;235;-21.9326526;-50.4842374
+Sao Paulo;Tupa;Centro;Timbores     ;17601040;31;-21.9421189;-50.4974483
+Sao Paulo;Tupa;Centro;Tabajaras     ;17601120;169;-21.9390499;-50.5203241
+Sao Paulo;Tupa;Conjunto Habitacional Antonio Pereira Gaspar;Jose Simoes    ;17602850;130;-21.9173719;-50.5245519
+Sao Paulo;Tupa;Parque Bela Vista;Nicola de Molla   ;17603252;223;-23.499079;-47.454496
+Sao Paulo;Tupa;Centro;Luiz Gonzaga Junqueira de Andrade Filho;17605110;74;-23.5138221;-47.4071574
+Sao Paulo;Tupa;Vila Abarca;Rosa Magi Convento   ;17607152;253;-23.5214853;-47.4332558
+Sao Paulo;Sorocaba;Centro;Doutor Ferreira Braga   ;18010250;278;-23.5015899;-47.4735761
+Sao Paulo;Sorocaba;Caputera;Jose D'Ambrosio    ;18017368;224;-23.5143894;-47.4745189
+Sao Paulo;Sorocaba;Vila Joao Romao;Paulo Miranda    ;18022050;251;-23.5118704;-47.5030669
+Sao Paulo;Sorocaba;Vila Augusta;Acre     ;18040080;267;-23.5288779;-47.4950639
+Sao Paulo;Sorocaba;Vila Jardini;Itapura     ;18044290;214;-23.5015299;-47.4525603
+Sao Paulo;Sorocaba;Central Parque Sorocaba;Mario Soave    ;18051045;101;-23.4870299;-47.4844909
+Sao Paulo;Sorocaba;Jardim Nova Manchester;Palmo Carani    ;18052020;252;-23.48656;-47.4923883
+Sao Paulo;Sorocaba;Jardim Residencial Mont Blanc;Agenor Cruz    ;18052826;129;-23.5015299;-47.4525603
+Sao Paulo;Sorocaba;Vila Barao;Quarenta e Sete   ;18065509;152;-23.5015299;-47.4525603
+Sao Paulo;Sorocaba;Vila Aeroporto;Olimpio Mentone    ;18066015;252;-23.4512832;-47.485088
+Sao Paulo;Sorocaba;Parque Sao Bento;Ondina Vilas Boas Albergoni  ;18072367;151;-23.4758614;-47.4734046
+Sao Paulo;Sorocaba;Jardim Santa Marta;Familia Pagliato    ;18073415;119;-23.4521636;-47.4789478
+Sao Paulo;Sorocaba;Jardim Sao Guilherme;Antonio Matiello    ;18074635;234;-23.5015299;-47.4525603
+Sao Paulo;Sorocaba;Vila Guimaraes;Rua Juvenal Wey   ;18075970;27;-23.4440364;-47.4572287
+Sao Paulo;Sorocaba;Parque das Laranjeiras;Diogo Gomes Filho   ;18077510;33;-23.5015299;-47.4525603
+Sao Paulo;Sorocaba;Parque Vitoria Regia;Maria Josefa Gimenes Gerrero  ;18078452;212;-23.4198776;-47.4857935
+Sao Paulo;Sorocaba;Jardim Santa Esmeralda;Amadeu de Souza   ;18079133;56;-23.4860225;-47.4634762
+Sao Paulo;Sorocaba;Jardim Paulista;Professor Alberto Rossi   ;18079342;257;-23.4753351;-47.4480877
+Sao Paulo;Sorocaba;Habiteto - Ana Paula Eleuterio;Chico Xavier    ;18079720;130;-23.5015299;-47.4525603
+Sao Paulo;Sorocaba;Jardim Leandro Dromani;Augusto Silva    ;18080250;237;-23.4283209;-47.35785
+Sao Paulo;Sorocaba;Jardim Maria do Carmo;Joao Gabriel Mendes   ;18081110;165;-23.5269947;-47.3479592
+Sao Paulo;Sorocaba;Iporanga;Carlos Tomazine    ;18087178;192;-23.540286;-47.4445978
+Sao Paulo;Sorocaba;Aparecida;Vela Olimpica    ;18087350;95;-23.5561712;-47.4406381
+Sao Paulo;Sorocaba;Inhayba;Joao dos Santos Bueno  ;18108828;44;-23.5626902;-47.4515269
+Sao Paulo;Votorantim;Vila Vasques;Natalina Irene Amorim   ;18111132;291;-23.5662218;-47.4583809
+Sao Paulo;Votorantim;Vila Votocel;Pedro Meira Sobrinho   ;18115320;291;-23.540286;-47.4445978
+Sao Paulo;Votorantim;Vila Rodrigues;Eufrazia Pereira Camargo   ;18115700;80;-23.5770751;-47.4684817
+Sao Paulo;Votorantim;Parque Jatai;Maria Jose Nunes   ;18117260;162;-23.540286;-47.4445978
+Sao Paulo;Votorantim;Vila Pedroso;Judith de Campos Machado  ;18117530;98;-23.5307554;-47.1353998
+Sao Paulo;Votorantim;Vila Pedroso;Vereador Georgino Marques Dias  ;18117674;261;-23.5307554;-47.1353998
+Sao Paulo;Votorantim;Parque Santa Marcia;Miguel Martins de Oliveira  ;18119286;295;-23.0436587;-47.836108
+Sao Paulo;Sao Roque;Guacu;Maria Augusta Ferreira   ;18132653;175;-23.5307554;-47.1353998
+Sao Paulo;Sao Roque;Mombaca;das Primaveras do Mombaca  ;18132804;48;-23.5395065;-47.1360672
+Sao Paulo;Sao Roque;Jardim Tanzi;Princesa Isabel    ;18134350;19;-23.6052371;-46.7431219
+Sao Paulo;Sao Roque;Taboao;Antonio Pannellini    ;18135131;170;-23.5307554;-47.1353998
+Sao Paulo;Sao Roque;Vila Junqueira;dos Portugueses    ;18136160;261;-23.6015207;-48.0174217
+Sao Paulo;Sao Roque;Vila Darcy Penteado (Mailasqui);Tarsila do Amaral   ;18143856;144;-23.589095;-48.0487846
+Sao Paulo;Sao Roque;Residencial Sitio Pinheiro (Canguera);Leandro de Goes   ;18145037;297;-23.6123697;-48.0762121
+Sao Paulo;Itapetininga;Vale San Fernando;Crisoberilo     ;18204010;290;-23.589095;-48.0487846
+Sao Paulo;Itapetininga;Vila La Brunetti;Teotonio Brandao Vilela   ;18205750;209;-23.5847574;-48.0769552
+Sao Paulo;Itapetininga;Jardim Bela Vista;Doutor Evandro Ruivo   ;18207700;171;-23.589095;-48.0487846
+Sao Paulo;Itapetininga;Tupy;Salvador Costa    ;18207816;83;-23.5737276;-48.0207731
+Sao Paulo;Itapetininga;Vila Regina;Mauricio Jacinto de Almeida  ;18209320;290;-23.589095;-48.0487846
+Sao Paulo;Itapetininga;Vila Prado;Tenente Jose de Almeida Barros ;18212479;159;-23.3477335;-47.8413108
+Sao Paulo;Itapetininga;Jardim Maraba;Bento Antunes de Moraes  ;18213605;37;-23.3432751;-47.8436227
+Sao Paulo;Itapetininga;Jardim Nova Era;Lauro Thibes Cordeiro   ;18214719;178;-23.3492186;-47.8465761
+Sao Paulo;Tatui;Centro;Professor Francisco Pereira de Almeida ;18270780;171;-23.3606716;-47.8556394
+Sao Paulo;Tatui;Chacara Junqueira;Bepe Vanni    ;18271170;300;-23.3459258;-47.8585249
+Sao Paulo;Tatui;Jardim Novo Horizonte;Eliza Pinto da Silveira  ;18274660;64;-24.00216;-48.3502638
+Sao Paulo;Tatui;Jardim Rosa Garcia;Santo Urso    ;18275610;230;-23.490609;-46.3563818
+Sao Paulo;Tatui;Vila Sao Paulo;Palmira Vanni    ;18278610;168;-24.0190683;-48.3386416
+Sao Paulo;Capao Bonito;Vila Nova Capao Bonito;Municipal Capuava    ;18304518;224;-24.00216;-48.3502638
+Sao Paulo;Capao Bonito;Querencia do Turvo;das Violetas    ;18304763;255;-24.0328504;-48.3518261
+Sao Paulo;Capao Bonito;Jardim Alvorada;Kalil Selem Safadi   ;18305120;232;-23.9793102;-48.8768997
+Sao Paulo;Capao Bonito;Jardim Cruzeiro;Luiza Kurtz Camargo   ;18305455;117;-23.9721272;-48.8669485
+Sao Paulo;Capao Bonito;Vila Santa Isabel;Quarenta e Seis   ;18306530;213;-23.9793102;-48.8768997
+Sao Paulo;Itapeva;Centro;Praca do Correio   ;18400970;274;-23.9793102;-48.8768997
+Sao Paulo;Itapeva;Vila Aparecida;Joao Pinn    ;18401060;294;-23.925376;-48.695372
+Sao Paulo;Itapeva;Bairro de Cima;Severino Alves Rodrigues de Oliveira ;18404510;201;-23.8643129;-49.1404554
+Sao Paulo;Itapeva;Kantia;Nagib Rodrigues de Almeida  ;18412151;296;-22.8834209;-48.4300474
+Sao Paulo;Taquarivai;Centro;Rodovia Francisco Alves Negrao  ;18425970;136;-22.8848041;-48.4271021
+Sao Paulo;Itabera;-;Itabera     ;18440000;290;-22.9029728;-48.4345158
+Sao Paulo;Botucatu;Vila Santa Clara;Maria Joana Felix Diniz  ;18601010;104;-22.8841808;-48.4441654
+Sao Paulo;Botucatu;Conjunto Residencial Indamar;Santa Clara    ;18601121;123;-22.8702586;-48.4347806
+Sao Paulo;Botucatu;Conjunto Habitacional Joaquim Vernini;Luiz Vizotto    ;18601696;129;-22.898581;-48.5002978
+Sao Paulo;Botucatu;Jardim Paraiso II;Joao Cecilio    ;18610141;113;-22.9278729;-48.4392561
+Sao Paulo;Botucatu;Jardim Cristina;Professor Adolfo Pinheiro Machado  ;18611440;259;-22.8841808;-48.4441654
+Sao Paulo;Botucatu;Jardim Nossa Senhora das Gracas (Rubiao Junior);Antonio Raimundo    ;18618018;90;-22.6086806;-48.7929639
+Sao Paulo;Botucatu;Jardim Dona Marta (Rubiao Junior);E     ;18618154;196;-22.5799458;-48.8113335
+Sao Paulo;Botucatu;Querencia do Rio Bonito (Vitoriana);dos Pirangueiros    ;18619286;142;-23.1072154;-48.925516
+Sao Paulo;Lencois Paulista;Vila Sao Judas Tadeu;Luiz Paccola    ;18682650;116;-23.1072154;-48.925516
+Sao Paulo;Lencois Paulista;Nucleo Habitacional Luis Zillo;Cantilio Orsi    ;18685460;28;-23.1251353;-48.9317642
+Sao Paulo;Avare;Conjunto Habitacional Mario Emilio Bannwart;Joao Tezza Neto   ;18701813;132;-23.1238845;-48.9418444
+Sao Paulo;Avare;Jardim Paraiso;Benedicta Cunha de Paula  ;18702593;75;-23.1072154;-48.925516
+Sao Paulo;Avare;Parque Residencial Gilberto Filgueiras II;Heitor de Barros   ;18703580;248;-23.1072154;-48.925516
+Sao Paulo;Avare;Loteamento Terras de Sao Jose;Armando Silveira    ;18704574;269;-23.0858214;-48.928723
+Sao Paulo;Avare;Loteamento Porto Seguro;Nicola Gambini    ;18705863;129;-23.0974404;-48.9199691
+Sao Paulo;Avare;Loteamento Porto Seguro;Professora Eloiza Helena Agostini de Oliveira;18705872;29;-22.8993818;-49.6251185
+Sao Paulo;Avare;Jardim Boa Vista;Isaac Rodrigues Alves   ;18706300;82;-22.0699025;-51.3829243
+Sao Paulo;Avare;Morada do Sol;Paulo Rangel    ;18708831;295;-22.0939403;-51.4091037
+Sao Paulo;Santa Cruz do Rio Pardo;-;Santa Cruz do Rio Pardo ;18900000;164;-22.115736;-51.3783087
+Sao Paulo;Presidente Prudente;Porto Bello Residence;Seis     ;19024418;144;-22.1272669;-51.3774722
+Sao Paulo;Presidente Prudente;Jardim Cobral;Maria Aparecida Cuissi Cesco  ;19026765;109;-22.1017349;-51.3827213
+Sao Paulo;Presidente Prudente;Parque Residencial Jarina;Soubhie Chafic Chedid   ;19030615;252;-22.0818208;-51.3821992
+Sao Paulo;Presidente Prudente;Jardim Santa Filomena;Santos Pardo    ;19031120;171;-22.0810934;-51.3818809
+Sao Paulo;Presidente Prudente;Vila Angelica;Eduardo Ramos    ;19033480;280;-22.0729752;-51.3816973
+Sao Paulo;Presidente Prudente;Brasil Novo;Thereza Matheus Pardo   ;19034665;298;-22.121126;-51.393006
+Sao Paulo;Presidente Prudente;Brasil Novo;Laura da Silva Antoniatti  ;19034675;35;-22.129804;-51.4015704
+Sao Paulo;Presidente Prudente;Conjunto Habitacional Joao Domingos Netto;Geraldo Vieira  Laido  ;19036142;128;-22.1445817;-51.4176278
+Sao Paulo;Presidente Prudente;Jardim Santa Monica;Josephina Peternussi Girotto   ;19045290;152;-22.1347063;-51.4494824
+Sao Paulo;Presidente Prudente;Vila Mathilde Vieira;Guaicurus     ;19050630;200;-22.1598229;-51.4557628
+Sao Paulo;Presidente Prudente;Parque Residencial Damha;Ana Maia Eugenio   ;19053687;87;-22.121126;-51.393006
+Sao Paulo;Presidente Prudente;Jardim Santa Fe;Jose Gimenes    ;19063400;279;-22.128726;-51.393006
+Sao Paulo;Presidente Prudente;Conjunto Habitacional Ana Jacinta;Mitoshi Mitsunaga    ;19064460;276;-22.121187;-51.39365
+Sao Paulo;Presidente Prudente;Jardim Novo Bongiovani;Projetada     ;19066295;143;-21.8024948;-51.3002051
+Sao Paulo;Presidente Prudente;Parque Residencial Francisco Belo Galindo;Alfredo Soares da Silva  ;19097608;138;-22.294824;-51.9078245
+Sao Paulo;Presidente Prudente;Conjunto Habitacional Jardim Humberto Salvador;Waldir Greghi    ;19100380;211;-22.6674742;-50.4201247
+Sao Paulo;Presidente Prudente;Centro (Ameliopolis);Rogerio Nazaro da Silva  ;19140025;217;-22.6744704;-50.4339246
+Sao Paulo;Mirante do Paranapanema;-;Mirante do Paranapanema   ;19260000;158;-22.6610692;-50.4341811
+Sao Paulo;Assis;Vila Funari;Brasil     ;19800101;189;-22.6672505;-50.4452713
+Sao Paulo;Assis;Vila Ribeiro;Vivaldo Teixeira Carvalho   ;19803015;265;-22.6419193;-50.4007016
+Sao Paulo;Assis;Vila Cambui;Luiz Batista Silveira   ;19804190;278;-22.6565116;-50.4094882
+Sao Paulo;Assis;Nucleo Habitacional Dirceu Gomes Cervilha;Jose Vitor    ;19804725;77;-22.6530078;-50.4108349
+Sao Paulo;Assis;Parque das Flores;Professora Maria Helena Gonso de Lima;19813367;89;-22.9788806;-49.8680867
+Sao Paulo;Assis;Centro;Castro Alves    ;19814060;251;-22.995676;-49.8595849
+Sao Paulo;Assis;Vila Maria;Arlindo Quintino Freitas   ;19814140;263;-22.9727284;-49.8651775
+Sao Paulo;Ourinhos;Centro;Doutor Altino Arantes   ;19900030;217;-22.9691011;-49.8533706
+Sao Paulo;Ourinhos;Vila Sao Silvestre;Amelia de Jesus Madeira  ;19902444;36;-22.9798796;-49.8699377
+Sao Paulo;Ourinhos;Vila Christoni;Para     ;19911700;159;-22.9600;-49.8590087
+Sao Paulo;Ourinhos;Jardim Sao Domingos;Francisco Vara    ;19914210;268;-19.7731211;-48.3883299
+Sao Paulo;Ourinhos;Conjunto Habitacional Orlando Quagliato;Corino Martins de Oliveira  ;19915488;191;-19.9255585;-48.4573336
+Sao Paulo;Ourinhos;Jardim Anchieta;Miguel Durante Sobrinho   ;19915550;239;-19.811761;-48.3762272
+Sao Paulo;Votorantim;Parque Jatai;Maria Jose Nunes   ;18117260;86;-19.7802628;-48.3583861
+Sao Paulo;Votorantim;Vila Pedroso;Judith de Campos Machado  ;18117530;134;-19.811761;-48.3762272
+Sao Paulo;Votorantim;Vila Pedroso;Vereador Georgino Marques Dias  ;18117674;200;-19.8012075;-48.3670014
+Sao Paulo;Votorantim;Parque Santa Marcia;Miguel Martins de Oliveira  ;18119286;38;-19.8458656;-48.3336523
+Sao Paulo;Sao Roque;Guacu;Maria Augusta Ferreira   ;18132653;254;-19.811761;-48.3762272
+Sao Paulo;Sao Roque;Mombaca;das Primaveras do Mombaca  ;18132804;93;-19.8329534;-48.3474323
+Sao Paulo;Sao Roque;Jardim Tanzi;Princesa Isabel    ;18134350;103;-19.8266206;-48.3678431
+Sao Paulo;Sao Roque;Taboao;Antonio Pannellini    ;18135131;176;-19.7845558;-48.4094684
+Sao Paulo;Sao Roque;Vila Junqueira;dos Portugueses    ;18136160;56;-19.839757;-48.3968104
+Sao Paulo;Sao Roque;Vila Darcy Penteado (Mailasqui);Tarsila do Amaral   ;18143856;253;-19.811761;-48.3762272
+Sao Paulo;Sao Roque;Residencial Sitio Pinheiro (Canguera);Leandro de Goes   ;18145037;188;-19.811761;-48.3762272
+Sao Paulo;Itapetininga;Vale San Fernando;Crisoberilo     ;18204010;119;-19.3995742;-48.9615033
+Sao Paulo;Itapetininga;Vila La Brunetti;Teotonio Brandao Vilela   ;18205750;20;-19.4173291;-48.9702752
+Sao Paulo;Itapetininga;Jardim Bela Vista;Doutor Evandro Ruivo   ;18207700;36;-19.4173291;-48.9702752
+Sao Paulo;Itapetininga;Tupy;Salvador Costa    ;18207816;295;-19.2686874;-49.5490441
+Sao Paulo;Itapetininga;Vila Regina;Mauricio Jacinto de Almeida  ;18209320;130;-19.2652501;-49.5344115
+Sao Paulo;Itapetininga;Vila Prado;Tenente Jose de Almeida Barros ;18212479;83;-19.2664078;-49.5293234
+Sao Paulo;Itapetininga;Jardim Maraba;Bento Antunes de Moraes  ;18213605;111;-19.2860071;-49.543429
+Sao Paulo;Itapetininga;Jardim Nova Era;Lauro Thibes Cordeiro   ;18214719;119;-19.2933511;-49.5420048
+Sao Paulo;Tatui;Centro;Professor Francisco Pereira de Almeida ;18270780;260;-19.281693;-49.5463365
+Sao Paulo;Tatui;Chacara Junqueira;Bepe Vanni    ;18271170;106;-19.2841392;-49.5465174
+Sao Paulo;Tatui;Jardim Novo Horizonte;Eliza Pinto da Silveira  ;18274660;85;-19.2686874;-49.5490441
+Sao Paulo;Tatui;Jardim Rosa Garcia;Santo Urso    ;18275610;271;-19.2728067;-49.5593607
+Sao Paulo;Tatui;Vila Sao Paulo;Palmira Vanni    ;18278610;174;-19.25119;-49.5542826
+Sao Paulo;Capao Bonito;Vila Nova Capao Bonito;Municipal Capuava    ;18304518;68;-19.2433348;-49.5567551
+Sao Paulo;Capao Bonito;Querencia do Turvo;das Violetas    ;18304763;132;-19.2686874;-49.5490441
+Sao Paulo;Sao Paulo;Cambuci;Heitor Peixoto    ;1543000;43;-20.1491265;-47.9917052
+Sao Paulo;Sao Paulo;Jardim da Gloria;Sao Joao Del Rei  ;1546120;174;-20.1445832;-48.0012884
+Sao Paulo;Sao Paulo;Carandiru;Conceicao     ;2072001;63;-22.6011045;-45.7610853
+Sao Paulo;Sao Paulo;Vila Isolina Mazzei;Articura     ;2084150;209;-20.1456771;-47.9482663
+Sao Paulo;Sao Paulo;Vila Maria Baixa;Prefeito Milton Improta   ;2119020;282;-20.1318555;-47.977473
+Sao Paulo;Sao Paulo;Jardim Japao;Manuel Lainez    ;2123005;121;-20.1318555;-47.977473
+Sao Paulo;Sao Paulo;Vila Maria Alta;Hiroshima     ;2131040;120;-20.6028309;-47.3516083
+Sao Paulo;Sao Paulo;Vila Sabrina;Lourenco Billis    ;2138000;112;-20.6076969;-47.3536703
+Sao Paulo;Sao Paulo;Vila Sabrina;Antionha     ;2140030;180;-20.6140546;-47.3632364
+Sao Paulo;Sao Paulo;Parque Novo Mundo;Claudio Leonardi    ;2147015;25;-20.6029893;-47.3644226
+Sao Paulo;Sao Paulo;Parque Novo Mundo;Joao de Lara da Cunha ;2190080;80;-20.5969911;-47.359957
+Sao Paulo;Sao Paulo;Vila Gustavo;Alipio de Sousa   ;2201020;173;-20.2244393;-49.4388796
+Sao Paulo;Sao Paulo;Vila Medeiros;Carlos Alberto Luiz   ;2207080;144;-20.2285902;-49.4305811
+Sao Paulo;Sao Paulo;Vila Medeiros;Ana Ferrara    ;2209150;147;-20.2336188;-49.4668417
+Sao Paulo;Sao Paulo;Vila Medeiros;Armando Paim    ;2216060;228;-20.2399456;-49.459166
+Sao Paulo;Sao Paulo;Vila Medeiros;Joaquim de Souza Pacheco Filho ;2217020;210;-20.2028539;-49.4536793
+Sao Paulo;Sao Paulo;Jardim Brasil (Zona Norte);Carlos Cardin    ;2221140;225;-20.212913;-49.449097
+Sao Paulo;Sao Paulo;Jardim Brasil (Zona Norte);Major Roberto dos Santos  ;2224010;243;-20.21472;-49.4489822
+Sao Paulo;Sao Paulo;Jardim Brasil (Zona Norte);Erotides de Campos   ;2227310;180;-20.2001144;-49.4452179
+Sao Paulo;Sao Paulo;Parada Inglesa;Cruz de Malta   ;2248001;170;-20.1937557;-49.4488163
+Sao Paulo;Sao Paulo;Jardim Brasil (Zona Norte);Halesia     ;2280105;192;-20.1929897;-49.4496754
+Sao Paulo;Sao Paulo;Parque Casa de Pedra;Triplice Alianca    ;2320160;19;-20.1564683;-49.4561408
+Sao Paulo;Sao Paulo;Parque Ramos Freitas;Salvador Alvares    ;2354240;170;-20.1963712;-49.4790155
+Sao Paulo;Sao Paulo;Tremembe;Jose Correa Gomes   ;2357100;178;-20.1813236;-49.4561136
+Sao Paulo;Sao Paulo;Jardim Fontalis;H     ;2360281;47;-20.186673;-49.4651303
+Sao Paulo;Sao Paulo;Vila Albertina;Bias     ;2371020;169;-20.2694609;-49.3369942
+Sao Paulo;Sao Paulo;Vila Albertina;Luiz Janucci    ;2375170;51;-20.2915812;-49.3437261
+Sao Paulo;Sao Paulo;Agua Fria;Antonio Zunkeller Leite   ;2408000;286;-20.2915812;-49.3437261
+Sao Paulo;Sao Paulo;Jardim Paraiso;Francisco Queirolo    ;2417122;80;-20.2915812;-49.3437261
+Sao Paulo;Sao Paulo;Parque Mandaqui;Eduardo Zumkeller    ;2420030;119;-20.2876607;-49.3041951
+Sao Paulo;Sao Paulo;Lauzane Paulista;Diogo Grasson Tinoco   ;2435010;14;-20.2849846;-49.3305517
+Sao Paulo;Sao Paulo;Lauzane Paulista;Sion     ;2441070;115;-20.2915812;-49.3437261
+Sao Paulo;Sao Paulo;Imirim;Padre Rosano Stofella   ;2467103;273;-20.3015403;-49.3512049
+Sao Paulo;Sao Paulo;Vila Romero;Pedro Romero    ;2468075;41;-20.2915812;-49.3437261
+Sao Paulo;Sao Paulo;Imirim;Aida Gomes Toledo   ;2472050;16;-20.4199005;-49.0816002
+Sao Paulo;Sao Paulo;Casa Verde;Arpui     ;2514050;199;-20.6745267;-48.7585088
+Sao Paulo;Sao Paulo;Casa Verde;Padre Antonio D'Angelo   ;2516040;185;-20.6732766;-48.7471452
+Sao Paulo;Sao Paulo;Casa Verde Alta;Isabela Leonarda    ;2545120;148;-20.6802438;-48.7613794
+Sao Paulo;Sao Paulo;Limao;do Limao    ;2551110;69;-20.6716357;-48.7611512
+Sao Paulo;Sao Paulo;Jardim Peri Novo;Luiz Macario de Castro  ;2672010;260;-20.6717046;-48.7472302
+Sao Paulo;Sao Paulo;Vila Bancaria Munhoz;Icatuacu     ;2757100;110;-20.6732766;-48.7471452
+Sao Paulo;Sao Paulo;Vila Acre;Andre Martins    ;2759040;65;-20.6732766;-48.7471452
+Sao Paulo;Sao Paulo;Vila Hebe;Dirceu da Conceicao Pinto  ;2765080;110;-20.6697042;-48.738371
+Sao Paulo;Sao Paulo;Itaberaba;Joaquim Vagliengo    ;2831040;209;-20.6710849;-48.7248869
+Sao Paulo;Sao Paulo;Parque Sao Luis;Crespo de Carvalho   ;2832210;225;-20.6791412;-48.7428127
+Sao Paulo;Sao Paulo;Jardim Ondina;Cristovao Santiago    ;2871040;31;-20.2247468;-49.866584
+Sao Paulo;Sao Paulo;Conjunto Promorar Estrada da Parada;Salvador     ;2873011;61;-19.9037662;-50.373509
+Sao Paulo;Sao Paulo;Jardim Centenario;Mario de Sa Carneiro  ;2882140;246;-19.9055648;-50.3553897
+Sao Paulo;Sao Paulo;Vila Barreto;Jose Rovira    ;2916010;135;-21.3337003;-48.0687429
+Sao Paulo;Sao Paulo;Vila Pereira Cerca;Enrico Carafa    ;2932010;125;-21.3233765;-48.0783188
+Sao Paulo;Sao Paulo;Vila Yara;Sao Urbano    ;2966000;48;-21.314459;-48.0586951
+Sao Paulo;Osasco;Centro;Paulo Licio Rizzo   ;6018010;233;-21.2746972;-48.0671386
+Sao Paulo;Osasco;Vila Yara;Benedito Americo de Oliveira  ;6028080;140;-21.2763013;-48.0867514
+Sao Paulo;Osasco;Adalgisa;Jose Aristides Jofre   ;6030130;90;-21.2930977;-48.0695182
+Sao Paulo;Osasco;Adalgisa;Aroeira Vermelha    ;6030314;156;-21.314459;-48.0586951
+Sao Paulo;Osasco;Jardim D'Abril;Joao Bitencourt    ;6038090;24;-21.3038253;-48.0530459
+Sao Paulo;Osasco;Jardim D'Abril;Jacomo Sbravatti    ;6038270;35;-21.294554;-48.0463452
+Sao Paulo;Osasco;Novo Osasco;Doutor Theodoro de Souza Brandao ;6045150;276;-21.3190275;-48.0213927
+Sao Paulo;Osasco;Novo Osasco;Nelson Palamin    ;6045180;187;-21.3626714;-48.1040463
+Sao Paulo;Osasco;Bela Vista;Caetano de Campos   ;6070260;257;-21.3203115;-48.0043395
+Sao Paulo;Osasco;Bela Vista;Oswald de Andrade   ;6070340;81;-21.314459;-48.0586951
+Sao Paulo;Osasco;Centro;Praca Antonio Menk   ;6093902;162;-21.314459;-48.0586951
+Sao Paulo;Osasco;Centro;Antonio Menk    ;6097060;119;-21.314459;-48.0586951
+Sao Paulo;Osasco;Vila Yolanda;Joaquim Felix Ribeiro   ;6124190;52;-21.3317953;-48.087711
+Sao Paulo;Osasco;Vila Yolanda;Sao Francisco    ;6124270;127;-20.18685;-49.4293327
+Sao Paulo;Osasco;Vila Yolanda;Bom Conselho    ;6124320;297;-21.314459;-48.0586951
+Sao Paulo;Osasco;Santo Antonio;Internacional     ;6126000;256;-21.3224878;-48.1338024
+Sao Paulo;Osasco;Conceicao;Santa Clara    ;6145100;207;-21.3219343;-48.1314746
+Sao Paulo;Osasco;Metalurgicos;Espedito Izidio Andrade   ;6150270;147;-21.3235751;-48.1345738
+Sao Paulo;Osasco;Padroeira;Benedito Alves Turibio   ;6160002;144;-21.314459;-48.0586951
+Sao Paulo;Osasco;km 18;Comandante Sampaio    ;6192000;37;-21.30275;-47.5755491
+Sao Paulo;Osasco;Rochdale;Jasmim Branco    ;6226250;106;-21.2884229;-47.5712412
+Sao Paulo;Osasco;Munhoz Junior;Geraldo Ribeiro Moreira   ;6240210;114;-21.2881388;-47.5639725
+Sao Paulo;Osasco;Vila Menck;Avenida Doutor Alberto Jackson Byington ;6273970;269;-21.2709794;-47.5593945
+Sao Paulo;Carapicuiba;Golf Gardens;Turqueza     ;6351430;261;-21.30275;-47.5755491
+Sao Paulo;Carapicuiba;Jardim Ana Estela;Caibi     ;6355010;102;-21.3057122;-47.5414639
+Sao Paulo;Carapicuiba;Residencial Euroville;Espanha     ;6355469;105;-21.30275;-47.5755491
+Sao Paulo;Carapicuiba;Jardim Planalto;Serra dos Orgaos   ;6360280;161;-21.30275;-47.5755491
+Sao Paulo;Carapicuiba;Vila Gobbi;Celso Soncini    ;6361170;181;-21.2615241;-47.5467413
+Sao Paulo;Carapicuiba;Jardim Angelica;Tartario     ;6365675;294;-21.3680231;-47.6778365
+Sao Paulo;Carapicuiba;Vila Merces;Sao Pedro    ;6380170;246;-21.2175846;-48.9505291
+Sao Paulo;Carapicuiba;Jardim dos Manacas;Balsamo     ;6381310;279;-21.19426;-48.9669142
+Sao Paulo;Carapicuiba;Jardim Angela Maria;Ipero     ;6386060;146;-21.1908073;-48.9491415
+Sao Paulo;Barueri;Jardim dos Camargos;Yen     ;6410040;24;-21.1918512;-48.9561971
+Sao Paulo;Barueri;Jardim Esperanca;Jaragua     ;6413040;171;-21.1651735;-48.9552124
+Sao Paulo;Barueri;Jardim Itaquiti;Ulisses Guimaraes    ;6422005;65;-21.1580441;-48.9613821
+Sao Paulo;Barueri;Jardim Itaparica;Jacarei     ;6447070;50;-21.1469735;-48.9625122
+Sao Paulo;Santana de Parnaiba;Itaim Mirim;Francisco Goncalves Pinto   ;6503115;35;-21.1554982;-48.9708101
+Sao Paulo;Santana de Parnaiba;Sitio do Rosario;Pingo D'Agua    ;6514135;128;-21.2321064;-48.9386467
+Sao Paulo;Santana de Parnaiba;Engenho Novo;Sao Genaro    ;6516215;71;-21.2426371;-48.9793986
+Sao Paulo;Santana de Parnaiba;Recanto Pereira;Hieronimo Goncalves Meira   ;6528110;263;-21.226243;-48.9694975
+Sao Paulo;Santana de Parnaiba;Colinas da Anhanguera;Ernesto de Fiori   ;6537115;217;-21.2135954;-48.9769496
+Sao Paulo;Santana de Parnaiba;Alphaville;Sao Carlos    ;6542040;64;-20.995418;-48.9777986
+Sao Paulo;Santana de Parnaiba;Tambore;Bali     ;6543085;263;-21.2175846;-48.9505291
+Sao Paulo;Jandira;Jardim Alvorada;Martin Hein    ;6612005;20;-20.9235465;-49.5100003
+Sao Paulo;Jandira;Vila Sao Nicolau;Manoel Nunes    ;6620030;285;-20.9351729;-49.5144111
+Sao Paulo;Jandira;Jardim Sol Nascente;Toquio     ;6622020;24;-20.9326526;-49.4842374
+Sao Paulo;Jandira;Jardim Nossa Senhora de Fatima;Francisco de Barros Cobra  ;6624020;221;-20.9421189;-49.4974483
+Sao Paulo;Jandira;Jardim Gabriela I;Francisco Tomaz da Silva  ;6624300;203;-20.9390499;-49.5203241
+Sao Paulo;Itapevi;Jardim Rosemary;Serra das Araras   ;6657430;208;-20.9173719;-49.5245519
+Sao Paulo;Itapevi;Conjunto Habitacional - Setor A;Catuama     ;6665120;91;-22.499079;-46.454496
+Sao Paulo;Itapevi;Sao Joao;Engenheiro Rene Benedito da Silva ;6683000;232;-22.5138221;-46.4071574
+Sao Paulo;Itapevi;Parque Mira Flores;Guilhermina Coelho    ;6683525;174;-22.5214853;-46.4332558
+Sao Paulo;Cotia;Centro;Professor Joaquim Barreto   ;6700170;293;-22.5015899;-46.4735761
+Sao Paulo;Cotia;Jardim Nova Vida;das Poesias    ;6702335;25;-22.5143894;-46.4745189
+Sao Paulo;Cotia;Granja Carneiro Viana;Jurua     ;6704762;237;-22.5118704;-46.5030669
+Sao Paulo;Cotia;Granja Viana II;Aguas Verdes    ;6706205;74;-22.5288779;-46.4950639
+Sao Paulo;Cotia;Parque Sao George;Lucia     ;6708170;218;-22.5015299;-46.4525603
+Sao Paulo;Cotia;Palos Verdes;Aries     ;6709660;254;-22.4870299;-46.4844909
+Sao Paulo;Cotia;Jardim Barro Branco;Guaranta     ;6716240;111;-22.48656;-46.4923883
+Sao Paulo;Cotia;Jardim Sabia;do Capuava    ;6716580;279;-22.5015299;-46.4525603
+Sao Paulo;Cotia;Outeiro de Passargada;India     ;6719660;253;-22.5015299;-46.4525603
+Sao Paulo;Cotia;Parque Mirante da Mata;Lamartine Babo    ;6720150;219;-22.4512832;-46.485088
+Sao Paulo;Cotia;da Graca;Mario Andreatini    ;6721507;123;-22.4758614;-46.4734046
+Sao Paulo;Cotia;Agua Espraiada (Caucaia do Alto);Malvina Maria de Oliveira  ;6726465;199;-22.4521636;-46.4789478
+Sao Paulo;Cotia;Parque Doutor Mendonca Cortez(Caucaia do Alto);Andrea     ;6726670;265;-22.5015299;-46.4525603
+Sao Paulo;Cotia;Centro (Caucaia do Alto);Joaquim Pires de Oliveira  ;6727186;70;-22.4440364;-46.4572287
+Sao Paulo;Taboao da Serra;Parque Santos Dumont;Rua Ernesto Capelari   ;6754904;113;-22.5015299;-46.4525603
+Sao Paulo;Taboao da Serra;Parque Monte Alegre;Africa     ;6756430;35;-22.4198776;-46.4857935
+Sao Paulo;Taboao da Serra;Jardim Irapua;Durvalina Firmino Alves   ;6766400;42;-22.4860225;-46.4634762
+Sao Paulo;Taboao da Serra;Parque Pinheiros;Joao Batista da Fonseca  ;6767010;288;-22.4753351;-46.4480877
+Sao Paulo;Taboao da Serra;Jardim Silvio Sampaio;Maria Rita Assuncao Ferreira  ;6773330;77;-22.5015299;-46.4525603
+Sao Paulo;Taboao da Serra;Jardim Sao Luiz;Rodrigo Monteiro    ;6785525;203;-22.4283209;-46.35785
+Sao Paulo;Taboao da Serra;Jardim Saint Moritz;Joao Reis Lacerda   ;6787595;140;-22.5269947;-46.3479592
+Sao Paulo;Embu das Artes;Tingidor;Domingos de Paschoal   ;6803005;77;-22.540286;-46.4445978
+Sao Paulo;Embu das Artes;Centro;Avenida Elias Yazbek   ;6803903;138;-22.5561712;-46.4406381
+Sao Paulo;Embu das Artes;Moinho Velho;do Portal    ;6805240;148;-22.5626902;-46.4515269
+Sao Paulo;Embu das Artes;Jardim de Lourdes;Jose Marcelino da Silva  ;6806025;210;-22.5662218;-46.4583809
+Sao Paulo;Embu das Artes;Jardim Vista Alegre;Criciuma     ;6807040;29;-22.540286;-46.4445978
+Sao Paulo;Embu das Artes;Jardim Vista Alegre;Caxinguele     ;6807817;128;-22.5770751;-46.4684817
+Sao Paulo;Embu das Artes;Jardim Sao Marcos;Augusto de Almeida Batista  ;6814165;274;-22.540286;-46.4445978
+Sao Paulo;Embu das Artes;Jardim do Colegio;Augusto de Almeida Batista  ;6814555;213;-22.5307554;-46.1353998
+Sao Paulo;Embu das Artes;Jardim Fabiana;Julio Mesquita    ;6820060;280;-22.5307554;-46.1353998
+Sao Paulo;Embu das Artes;Jardim Pinheiros;Monte Azul    ;6835020;256;-22.0436587;-46.836108
+Sao Paulo;Embu das Artes;Jardim Santo Antonio;Santa Zita    ;6835516;24;-22.5307554;-46.1353998
+Sao Paulo;Embu das Artes;Chacaras Lidia;Tupiniquins     ;6843463;41;-22.5395065;-46.1360672
+Sao Paulo;Itapecerica da Serra;Jardim Sampaio;Jose Antonio da Silva Junior ;6851360;45;-22.6052371;-45.7431219
+Sao Paulo;Itapecerica da Serra;Olaria;das Nacoes    ;6859090;121;-22.5307554;-46.1353998
+Sao Paulo;Itapecerica da Serra;Parque Jandaia;Apucarana     ;6866200;144;-22.6015207;-47.0174217
+Sao Paulo;Itapecerica da Serra;Jardim Santa Julia;Maraba     ;6867520;24;-22.589095;-47.0487846
+Sao Paulo;Itapecerica da Serra;Aldeinha;Maria Cintra Domingues   ;6880101;37;-22.6123697;-47.0762121
+Sao Paulo;Itapecerica da Serra;Potuvera;Jose Silverio da Silva  ;6886505;135;-22.589095;-47.0487846
+Sao Paulo;Guarulhos;Vila Pedro Moreira;Marcolina Moreira    ;7021010;26;-22.5847574;-47.0769552
+Sao Paulo;Guarulhos;Vila Augusta;Augusta     ;7025130;107;-22.589095;-47.0487846
+Sao Paulo;Guarulhos;Vila da Fabrica;Assis     ;7031180;202;-22.5737276;-47.0207731
+Sao Paulo;Guarulhos;Vila Adelaide Perella;Pedro Perella    ;7031240;172;-22.589095;-47.0487846
+Sao Paulo;Guarulhos;Ponte Grande;Soldado Antonio Mathias Camargo  ;7031280;289;-22.3477335;-46.8413108
+Sao Paulo;Guarulhos;Ponte Grande;Garuva     ;7032310;212;-22.3432751;-46.8436227
+Sao Paulo;Guarulhos;Jardim Munhoz;Monte Horebe    ;7033252;190;-22.3492186;-46.8465761
+Sao Paulo;Guarulhos;Vila Flora;Lages     ;7042160;113;-22.3606716;-46.8556394
+Sao Paulo;Embu das Artes;Jardim Vista Alegre;Criciuma     ;6807040;45;-22.3459258;-46.8585249

@@ -1,0 +1,252 @@
+Case Letrus
+
+Ferramentas utilizadas: MySQL Workbench e Power BI
+
+
+Resumo descritivo das bases enviadas:
+
+arquivo ds1: tbl_projetos
+
+Total de registros: 1.500
+ query: 
+  "select count(*) from mydb.tbl_projetos;"
+  
+Total de registros distintos: 1.500
+ query: 
+  "select count(distinct(*)) from mydb.tbl_projetos;" 
+
+Total de nomes de projeto duplicados: 4 ('EE SAO MIGUEL', 'EEB SAO JOSE', 'ESCOLA NOSSA SENHORA AUXILIADORA' , 'Um sonho de Liberdade')
+ query:
+  "select 
+    nome
+    ,count(distinct(id)) as qtd
+   from mydb.tbl_projetos
+     where nome != ''
+     group by nome
+     having count(distinct(id)) > 1;"
+	 
+  "select
+    sum(t1.qtd) as total
+   from
+    (select 
+      count(distinct(id)) as qtd
+     from mydb.tbl_projetos
+	 where nome != ''
+     group by nome
+     having count(distinct(id)) > 1) as t1;"
+	 
+
+Total de projetos distintos por nome: 990
+
+Total de registros sem nome de projeto: 490
+ query:
+  "select count(distinct(id)) from mydb.tbl_projetos where nome = '';"
+
+
+arquivo ds2: tbl_usuarios
+
+Total de registros: 1.500
+ query: 
+  "select count(*) from mydb.tbl_usuarios;"
+  
+Total de registros distintos: 1.500
+ query: 
+  "select count(distinct(nome)) from mydb.tbl_usuarios;" 
+  
+Total de registros duplicados para o campo 'nome': 1 (O usuário "Maria 100" apresenta dois logins distintos)
+ query:
+  "select 
+    nome
+    ,count(distinct(id)) as qtd
+     from mydb.tbl_usuarios 
+     group by nome
+     having count(distinct(id)) > 1;"
+
+Total de usuários distintos por nome: 1.499
+ query:
+  "select count(distinct(nome)) from mydb.tbl_usuarios;"
+
+Total de registros nulos: 0
+ query: 
+  "select count(distinct(id)) from mydb.tbl_usuarios where nome = '';"
+
+Total de logins ativos: 751
+ query:
+	"select sum(id_ativo) from mydb.tbl_usuarios;"
+	
+	Total de usuários do sexo masculino (id_sexo = 1): 756
+ query:
+	"select sum(id_sexo) from mydb.tbl_usuarios;"
+
+arquivo ds3: tbl_atividades
+
+Total de registros: 146.946
+ query: 
+  "select count(*) from mydb.tbl_atividades;"
+  
+Total de registros distintos: 63555
+ query: 
+  "select count(distinct(*)) from mydb.tbl_atividades;" 
+
+Total de registros duplicados para o campo 'nome': 43617
+ query:
+  "select 
+    nome
+    ,count(distinct(id)) as qtd
+     from mydb.tbl_atividades 
+     group by nome
+     having count(distinct(id)) > 1;"
+	 
+Total de registros nulos: 0
+ query: 
+  "select count(distinct(id)) from mydb.tbl_atividades where nome = '';"
+  
+  
+arquivo ds4: tbl_notas
+
+Total de registros: 1500
+ query: 
+  "select count(*) from mydb.tbl_notas;"
+  
+
+
+#################
+
+Fase 1
+
+Premissas adotadas: 
+
+* Registros com nome repetido trata-se do mesmo projeto e usuário.
+* Para a questão 10 utilizou-se uma amostra da base de CEPs dos Correios para simulação, uma vez que não foi enviada tal informação.
+* No término do caso foi encontrada uma base no site do Inep onde consta os endereços de todas as escolas do país, no entanto, não tive tempo hábil para utilizá-la.
+* Optou-se por relacionar tbl_projeto com tbl_usuarios através da tabela de atividades, uma vez que pelo campo 'id_usuario' na tbl_projetos encontro apenas 13 usuários, o que parece ser uma inconsistência.
+
+
+1. Quais são todos os projetos com suas atividades
+Solução:
+	"select distinct
+	  t1.nome as projeto,
+	  t2.nome as atividade
+	from mydb.tbl_projetos as t1
+	left join mydb.tbl_atividades as t2 on (t1.id=t2.id_projeto)
+	order by t1.id,t2.id;"
+	
+	Desconsiderando projetos sem nome:
+	
+    "select distinct
+	  t1.nome as projeto,
+	  t2.nome as atividade
+	from mydb.tbl_projetos as t1
+	left join mydb.tbl_atividades as t2 on (t1.id=t2.id_projeto)
+	where t1.nome != '';
+	order by t1.id,t2.id;"	
+
+
+2. Todas as atividades do usuário “oescolhido@letrus.com” no ano de 2022:
+Solução:
+## O usuário com o login desejado não existe na base enviada, portanto, a query abaixo não retorna nenhum registro.
+
+	"select distinct
+	  t1.nome as nome_usuario,
+	  t2.*
+	from (select * from mydb.tbl_usuarios where login = 'oescolhido@letrus.com') as t1
+	left join mydb.tbl_atividades as t2 on (t1.id = t2.id_usuario)
+	where date_format(t2.data_inicio,'%Y') = '2022';"
+
+
+3. Quantidade de atividades por projeto do ano 2021:
+Solução:
+	"select
+	  t1.id as id_projeto (DÚVIDA SE TIRO!)
+	 ,t1.nome as nome_projeto
+	 ,count(distinct(t2.id)) as qtd_atividades
+	from (select * from mydb.tbl_projetos where date_format(data_inicio,'%Y') = '2021') as t1
+	left join mydb.tbl_atividades as t2 on (t1.id=t2.id_projeto)
+	group by t1.id ,t1.nome;"
+
+
+4. Lista de atividades em ordem hierárquica do projeto "LetrusTIC”
+Solução:
+## Não existe nenhum registro idêntico ou similar ao desejado na base enviada, portanto, a query retorna vazio.
+    "select
+      t2.nome as nome_atividades
+     from (select * from mydb.tbl_projetos where nome = 'LetrusTIC') as t1
+     left join mydb.tbl_atividades as t2 on (t1.id=t2.id_projeto)
+     order by t2.id;"
+
+5. Exclua o projeto “LetrusTIC”
+Solução:
+## Não existe nenhum registro idêntico ou similar ao desejado na base enviada, portanto, a query retorna vazio.
+
+/*"delete * from mydb.tbl_projetos where nome = 'LetrusTIC';"
+
+6. Liste todos as pessoas que estão no projeto “Concurso de Redacao”
+Solução:
+    Poucos registros do campo 'id_usuario' da tbl_projetos são encontrados na tbl_usuarios. Logo, optou-se também por fazer essa relação também através da tbl_atividades.
+	Além disso, não existe nenhum registro no arquivo Ds1 (tbl_projetos) com o nome 'Concurso de Redacao'. Logo, a query abaixo não retorna nenhum registro.
+    "select
+      t3.nome as nome_usuario
+     from (select * from mydb.tbl_projetos where nome = 'Concurso de Redacao') as t1
+     left join mydb.tbl_atividades as t2 on (t1.id=t2.id_projeto)
+     left join mydb.tbl_usuarios as t3 on (t2.id=t3.id_usuario);
+
+Caso o correto:
+select
+t2.nome as nome_usuario
+from (select * from mydb.tbl_projetos where nome = 'Concurso de Redacao') as t1
+left join mydb.tbl_usuarios as t2 on (t1.id_usuario=t2.id);
+
+7. Aumente o prazo final em 15 dias de todas as atividades do projeto “Concurso de Redacao”
+Solução:
+ Como não existe 
+ "update mydb.tbl_projetos
+   set data_fim = data_fim + 15
+  where nome = 'Concurso de Redacao';"
+
+8. Exclua todos as atividades do usuário “João 33”
+/*delete * from mydb.tbl_atividades as t1
+   left join mydb.tbl_usuarios as t2 on (t1.id_usuario=t2.id)
+   where t2.nome = 'João 33';
+ 
+9. Crie a tabela "endereco” e relacione com o a tabela usuário
+   1. Endereco (estado, cidade, bairro, rua, cep, numero)
+
+CREATE TABLE IF NOT EXISTS mydb.tbl_endereco(
+  id INT NOT NULL AUTO_INCREMENT,
+  estado VARCHAR(45) NULL,
+  cidade VARCHAR(90) NULL,
+  bairro VARCHAR(90) NULL,
+  rua VARCHAR(90) NULL,
+  cep VARCHAR(90) NULL,
+  numero INT NULL,
+  latitude FLOAT NULL,
+  longitude FLOAT NULL,
+  PRIMARY KEY (id));
+
+10. Popule a tabela “endereco”
+
+LOAD DATA INFILE 'C:\Users\rsousa\Desktop\case_letrus\table - enderecos.csv'
+INTO TABLE table_name
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '/n'
+IGNORE 1 ROWS;
+
+11. Crie uma view que mostre todos os usuários que estão na cidade São Paulo e a nota final esteja entre 7 e 10 pontos
+Solução:
+ "create view vw_usuarios_sp_7_10 as 
+   select distinct t1.nome_usuario from (select 
+                                           a.id as id_usuario
+                                          ,a.nome as nome_usuario
+                                         from mydb.tbl_usuarios as a
+				                         left join mydb.tbl_endereco as b on (a.id_endereco=b.id)
+				                         where b.cidade = 'Sao Paulo') as t1
+   left join mydb.tbl_atividades as t2 on (t1.id_usuario=t2.id_usuario)
+   left join mydb.tbl_notas as t3 on (t2.id=t3.id_atividade)
+   where t3.nota_final between 7 and 10;"
+
+
+
+Fase 2
+
+Está englobado dentro do dashboard.
